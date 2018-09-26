@@ -1,0 +1,1451 @@
+rank,name,link,symbol,volume,website,chat
+1,Bitcoin,https://coinmarketcap.com/currencies/bitcoin/,BTC,15508000000.0,"https://bitcoin.org/ , https://bitcoin.com/",
+2,Ethereum,https://coinmarketcap.com/currencies/ethereum/,ETH,6578010000.0,https://www.ethereum.org/,https://gitter.im/orgs/ethereum/rooms
+3,Ripple,https://coinmarketcap.com/currencies/ripple/,XRP,4347250000.0,https://ripple.com/,"https://t.me/Ripple , https://discord.gg/N4x7kPb"
+4,Bitcoin Cash,https://coinmarketcap.com/currencies/bitcoin-cash/,BCH,1462840000.0,https://www.bitcoincash.org/,
+5,Cardano,https://coinmarketcap.com/currencies/cardano/,ADA,1176710000.0,https://www.cardanohub.org/,https://chat.cardanohub.org/
+6,Litecoin,https://coinmarketcap.com/currencies/litecoin/,LTC,1068820000.0,"https://litecoin.com , https://litecoin.org/",https://telegram.me/litecoin
+7,NEM,https://coinmarketcap.com/currencies/nem/,XEM,143747000.0,http://nem.io,https://t.me/nemred
+8,NEO,https://coinmarketcap.com/currencies/neo/,NEO,1366640000.0,https://neo.org/,
+9,Stellar,https://coinmarketcap.com/currencies/stellar/,XLM,345003000.0,https://www.stellar.org,http://slack.stellar.org/
+10,IOTA,https://coinmarketcap.com/currencies/iota/,MIOTA,184214000.0,https://iota.org/,https://slack.iota.org/
+11,EOS,https://coinmarketcap.com/currencies/eos/,EOS,1362720000.0,https://eos.io/,https://t.me/joinchat/AAAAAEQbOeucnaMWN0A9dQ
+12,Dash,https://coinmarketcap.com/currencies/dash/,DASH,245662000.0,https://www.dash.org/,https://discord.gg/9z8zX5j
+13,Monero,https://coinmarketcap.com/currencies/monero/,XMR,244374000.0,http://www.monero.cc,https://telegram.me/bitmonero
+14,TRON,https://coinmarketcap.com/currencies/tron/,TRX,612871000.0,https://tronlab.com/,
+15,Bitcoin Gold,https://coinmarketcap.com/currencies/bitcoin-gold/,BTG,453142000.0,https://bitcoingold.org/,
+16,Ethereum Classic,https://coinmarketcap.com/currencies/ethereum-classic/,ETC,605823000.0,https://ethereumclassic.github.io/,https://discord.gg/HW4GckH
+17,ICON,https://coinmarketcap.com/currencies/icon/,ICX,95590900.0,https://www.icon.foundation/,https://t.me/joinchat/Fqw4igkkVmYtj--ZVi-QcA
+18,Qtum,https://coinmarketcap.com/currencies/qtum/,QTUM,831650000.0,https://qtum.org/,https://t.me/joinchat/D5oBaw29NeOdpw6qqqf2lw
+19,Lisk,https://coinmarketcap.com/currencies/lisk/,LSK,99452900.0,https://lisk.io/,
+20,RaiBlocks,https://coinmarketcap.com/currencies/raiblocks/,XRB,25997500.0,https://raiblocks.net/,https://discordapp.com/invite/JphbBas
+21,OmiseGO,https://coinmarketcap.com/currencies/omisego/,OMG,110714000.0,https://omg.omise.co/,"https://telegram.me/omisego , https://omg.omise.co/slack"
+22,Ardor,https://coinmarketcap.com/currencies/ardor/,ARDR,4258320.0,https://www.ardorplatform.org/,
+23,Tether,https://coinmarketcap.com/currencies/tether/,USDT,4560650000.0,https://tether.to,
+24,Zcash,https://coinmarketcap.com/currencies/zcash/,ZEC,244294000.0,https://z.cash/,
+25,Populous,https://coinmarketcap.com/currencies/populous/,PPT,6935710.0,http://populous.co/,"https://bitpopulous.slack.com/ , https://t.me/ppttalk"
+26,VeChain,https://coinmarketcap.com/currencies/vechain/,VEN,150899000.0,https://www.vechain.com/,"https://t.me/vechain_official_english , https://t.me/joinchat/GG4BlQwm19czcBGOewv40Q"
+27,Stratis,https://coinmarketcap.com/currencies/stratis/,STRAT,72653300.0,http://stratisplatform.com/,https://t.me/StratisPlatform
+28,Binance Coin,https://coinmarketcap.com/currencies/binance-coin/,BNB,340760000.0,https://www.binance.com/,
+29,Verge,https://coinmarketcap.com/currencies/verge/,XVG,155696000.0,http://vergecurrency.com/,"https://t.me/VERGExvg , https://discord.gg/vergecurrency"
+30,BitConnect,https://coinmarketcap.com/currencies/bitconnect/,BCC,4672910.0,"https://www.bitconnect.co/ , https://bitconnectcoin.co/",
+31,Siacoin,https://coinmarketcap.com/currencies/siacoin/,SC,122279000.0,http://sia.tech/,https://discord.gg/sia
+32,Bytecoin,https://coinmarketcap.com/currencies/bytecoin-bcn/,BCN,10251600.0,https://bytecoin.org/,https://telegram.me/bytecoinchat
+33,KuCoin Shares,https://coinmarketcap.com/currencies/kucoin-shares/,KCS,19077600.0,https://www.kucoin.com/,
+34,Status,https://coinmarketcap.com/currencies/status/,SNT,823685000.0,http://status.im/,https://chat.status.im/#/register
+35,BitShares,https://coinmarketcap.com/currencies/bitshares/,BTS,51226500.0,https://bitshares.org,https://t.me/BitSharesDEX
+36,Steem,https://coinmarketcap.com/currencies/steem/,STEEM,25798000.0,"https://steem.io/ , https://steemit.com/",
+37,Dogecoin,https://coinmarketcap.com/currencies/dogecoin/,DOGE,61864500.0,http://dogecoin.com/,https://discord.me/dogecoin/
+38,Waves,https://coinmarketcap.com/currencies/waves/,WAVES,38189400.0,https://wavesplatform.com/,"https://telegram.me/wavesnews , http://wavesplatform.herokuapp.com/"
+39,Augur,https://coinmarketcap.com/currencies/augur/,REP,24038000.0,http://www.augur.net/,
+40,0x,https://coinmarketcap.com/currencies/0x/,ZRX,39741800.0,https://0xproject.com/,
+41,Electroneum,https://coinmarketcap.com/currencies/electroneum/,ETN,8381130.0,http://electroneum.com/,https://t.me/joinchat/DxoSakHOdk5mqsE-LelfVg
+42,Dragonchain,https://coinmarketcap.com/currencies/dragonchain/,DRGN,8333220.0,https://dragonchain.com/,https://t.me/dragontalk
+43,Veritaseum,https://coinmarketcap.com/currencies/veritaseum/,VERI,606652.0,http://veritas.veritaseum.com/,
+44,Komodo,https://coinmarketcap.com/currencies/komodo/,KMD,12118800.0,https://komodoplatform.com/,https://telegram.me/KomodoPlatform_Official
+45,QASH,https://coinmarketcap.com/currencies/qash/,QASH,39624200.0,https://liquid.plus/,https://t.me/QUOINE
+46,DigiByte,https://coinmarketcap.com/currencies/digibyte/,DGB,35035000.0,http://www.digibyte.io/,https://t.me/DigiByteCoin
+47,Golem,https://coinmarketcap.com/currencies/golem-network-tokens/,GNT,21360500.0,https://golem.network/,
+48,Gas,https://coinmarketcap.com/currencies/gas/,GAS,71372900.0,https://neo.org/,
+49,SALT,https://coinmarketcap.com/currencies/salt/,SALT,18014000.0,https://www.saltlending.com/,https://t.me/joinchat/BmtZ5kKgf4ekiNLggHRDmQ
+50,Ark,https://coinmarketcap.com/currencies/ark/,ARK,12862500.0,http://ark.io/,https://ark.io/slack
+51,Decred,https://coinmarketcap.com/currencies/decred/,DCR,4527020.0,"https://www.decred.org/ , https://docs.decred.org/","https://slack.decred.org/ , https://discord.gg/GJ2GXfz"
+52,Dentacoin,https://coinmarketcap.com/currencies/dentacoin/,DCN,4248050.0,http://www.dentacoin.com/,https://t.me/dentacoin
+53,Hshare,https://coinmarketcap.com/currencies/hshare/,HSR,132941000.0,https://h.cash/,
+54,SmartCash,https://coinmarketcap.com/currencies/smartcash/,SMART,1010760.0,https://smartcash.cc/,
+55,Walton,https://coinmarketcap.com/currencies/walton/,WTC,60259700.0,http://www.waltonchain.org/,https://t.me/waltonchain_en
+56,WAX,https://coinmarketcap.com/currencies/wax/,WAX,8744710.0,https://wax.io/,"https://t.me/wax_io , https://t.me/waxtokenannoucements"
+57,Ethos,https://coinmarketcap.com/currencies/ethos/,ETHOS,15021900.0,https://www.ethos.io/,
+58,Loopring,https://coinmarketcap.com/currencies/loopring/,LRC,14911000.0,https://loopring.org,https://loopring.rocket.chat/
+59,PIVX,https://coinmarketcap.com/currencies/pivx/,PIVX,9057230.0,http://www.pivx.org,
+60,Byteball Bytes,https://coinmarketcap.com/currencies/byteball/,GBYTE,2975290.0,https://byteball.org/,https://t.me/byteball
+61,RChain,https://coinmarketcap.com/currencies/rchain/,RHOC,1504030.0,https://www.rchain.coop/,
+62,Basic Attention Token,https://coinmarketcap.com/currencies/basic-attention-token/,BAT,26237400.0,https://basicattentiontoken.org/,
+63,ZClassic,https://coinmarketcap.com/currencies/zclassic/,ZCL,12157300.0,http://zclassic.org/,
+64,Kyber Network,https://coinmarketcap.com/currencies/kyber-network/,KNC,24782300.0,https://kyber.network/,https://t.me/kybernetwork
+65,Aion,https://coinmarketcap.com/currencies/aion/,AION,11378500.0,https://aion.network/,
+66,MonaCoin,https://coinmarketcap.com/currencies/monacoin/,MONA,9379500.0,http://monacoin.org,
+67,Factom,https://coinmarketcap.com/currencies/factom/,FCT,18737900.0,http://factom.org/,
+68,FunFair,https://coinmarketcap.com/currencies/funfair/,FUN,16492700.0,https://funfair.io/,"https://t.me/FunFairTech/ , https://discordapp.com/invite/rwETqSP"
+69,Bytom,https://coinmarketcap.com/currencies/bytom/,BTM,39076000.0,http://bytom.io/,"https://t.me/BytomInternational , https://t.me/bytomchinese"
+70,Aeternity,https://coinmarketcap.com/currencies/aeternity/,AE,3289240.0,https://www.aeternity.com/,https://telegram.me/aeternity
+71,Dent,https://coinmarketcap.com/currencies/dent/,DENT,36240400.0,https://www.dentcoin.com/,https://t.me/dentcoin
+72,GXShares,https://coinmarketcap.com/currencies/gxshares/,GXS,9532430.0,https://gxs.gxb.io/,https://t.me/GXB_International
+73,Power Ledger,https://coinmarketcap.com/currencies/power-ledger/,POWR,58453900.0,https://powerledger.io/,https://t.me/joinchat/Gop-90DIMiPF7N_EtvFzjA
+74,Nexus,https://coinmarketcap.com/currencies/nexus/,NXS,3496210.0,http://www.nexusearth.com/,
+75,Kin,https://coinmarketcap.com/currencies/kin/,KIN,1219020.0,"http://kinecosystem.org/ , https://kin.kik.com",https://t.me/kincurrency
+76,MaidSafeCoin,https://coinmarketcap.com/currencies/maidsafecoin/,MAID,7005980.0,http://maidsafe.net,
+77,DigixDAO,https://coinmarketcap.com/currencies/digixdao/,DGD,6385840.0,https://digix.io/,
+78,Substratum,https://coinmarketcap.com/currencies/substratum/,SUB,17779900.0,https://substratum.net/,https://t.me/SubstratumCommunity
+79,Experience Points,https://coinmarketcap.com/currencies/experience-points/,XP,3600960.0,http://www.xpcoin.io/,"https://t.me/xpcoin , https://discordapp.com/invite/NYMAUec"
+80,ReddCoin,https://coinmarketcap.com/currencies/reddcoin/,RDD,19464000.0,http://www.reddcoin.com/,
+81,Syscoin,https://coinmarketcap.com/currencies/syscoin/,SYS,10060900.0,http://syscoin.org,https://t.me/joinchat/AAAAAEHzByog3h1qutnjhQ
+82,Request Network,https://coinmarketcap.com/currencies/request-network/,REQ,21875300.0,https://request.network/,"https://t.me/requestnetwork , https://open.kakao.com/o/g0Y6wJA"
+83,Neblio,https://coinmarketcap.com/currencies/neblio/,NEBL,67660400.0,https://nebl.io/,https://t.me/joinchat/GFVgz0G-oVXOIJGfFYD-vg
+84,Nxt,https://coinmarketcap.com/currencies/nxt/,NXT,21539800.0,https://nxt.org/,https://t.me/NXTCommunity
+85,Enigma,https://coinmarketcap.com/currencies/enigma-project/,ENG,16331100.0,https://enigma.co/,"https://t.me/enigmacatalyst , https://discord.gg/SJK32GY"
+86,Nebulas,https://coinmarketcap.com/currencies/nebulas-token/,NAS,27980800.0,https://nebulas.io/,https://t.me/nebulasio
+87,ZCoin,https://coinmarketcap.com/currencies/zcoin/,XZC,8759210.0,https://zcoin.io,https://discordapp.com/invite/4FjnQ2q
+88,aelf,https://coinmarketcap.com/currencies/aelf/,ELF,81303300.0,http://aelf.io/,https://t.me/aelfblockchain
+89,Bancor,https://coinmarketcap.com/currencies/bancor/,BNT,10943900.0,https://bancor.network/,https://telegram.me/bancor
+90,GameCredits,https://coinmarketcap.com/currencies/gamecredits/,GAME,11334500.0,http://gamecredits.com,https://discordapp.com/invite/vDEYBTc
+91,Cryptonex,https://coinmarketcap.com/currencies/cryptonex/,CNX,243087.0,https://cryptonex.org/,
+92,Iconomi,https://coinmarketcap.com/currencies/iconomi/,ICN,10213200.0,https://www.iconomi.net/,
+93,MediBloc,https://coinmarketcap.com/currencies/medibloc/,MED,18743500.0,https://medibloc.org/en/,https://t.me/medibloc
+94,Quantstamp,https://coinmarketcap.com/currencies/quantstamp/,QSP,30748700.0,https://quantstamp.com/,https://t.me/quantstamp
+95,Particl,https://coinmarketcap.com/currencies/particl/,PART,1908180.0,http://particl.io/,"https://t.me/particlproject , https://t.me/particlnews"
+96,TenX,https://coinmarketcap.com/currencies/tenx/,PAY,19495800.0,https://www.tenx.tech/,
+97,Emercoin,https://coinmarketcap.com/currencies/emercoin/,EMC,2838850.0,http://emercoin.com/,
+98,Gnosis,https://coinmarketcap.com/currencies/gnosis-gno/,GNO,6540990.0,https://gnosis.pm/,
+99,Bitcore,https://coinmarketcap.com/currencies/bitcore/,BTX,2049180.0,http://bitcore.cc/,https://t.me/bitcore_btx_official
+100,Civic,https://coinmarketcap.com/currencies/civic/,CVC,22288900.0,https://www.civic.com/,
+101,ChainLink,https://coinmarketcap.com/currencies/chainlink/,LINK,6796430.0,https://smartcontract.com/,
+102,BitcoinDark,https://coinmarketcap.com/currencies/bitcoindark/,BTCD,216377.0,http://bitcoindark.com/,http://slackinvite.supernet.org/
+103,Skycoin,https://coinmarketcap.com/currencies/skycoin/,SKY,644167.0,http://skycoin.net/,
+104,XPlay,https://coinmarketcap.com/currencies/xplay/,XPA,528522.0,https://xplay.fund/,https://t.me/joinchat/CvaXNg4T_y13oqxdix9y9w
+105,Cobinhood,https://coinmarketcap.com/currencies/cobinhood/,COB,2477270.0,https://www.cobinhood.com/,"https://t.me/cobinhood , http://line.me/ti/g/F4Z6xniAWB"
+106,Raiden Network Token,https://coinmarketcap.com/currencies/raiden-network-token/,RDN,15333000.0,https://raiden.network/,"https://riot.im/app/#/room/#raiden-network:matrix.org , https://gitter.im/raiden-network/raiden"
+107,BLOCKv,https://coinmarketcap.com/currencies/blockv/,VEE,3250330.0,https://blockv.io/,https://t.me/block_v
+108,DigitalNote,https://coinmarketcap.com/currencies/digitalnote/,XDN,31315200.0,http://digitalnote.org/,
+109,NAV Coin,https://coinmarketcap.com/currencies/nav-coin/,NAV,10513700.0,http://www.navcoin.org/,"https://t.me/navcoin , https://discord.gg/y4Vu9jw"
+110,BridgeCoin,https://coinmarketcap.com/currencies/bridgecoin/,BCO,472905.0,"https://www.crypto-bridge.org/ , https://bridgecoin.org/","https://t.me/CryptoBridge , https://join.slack.com/t/cryptobridge/shared_invite/MjI2OTAzNjU3MzYyLTE1MDI4MTUyNDItYzQ0OTgwMDc0Yg"
+111,Pillar,https://coinmarketcap.com/currencies/pillar/,PLR,443809.0,https://pillarproject.io/,
+112,DEW,https://coinmarketcap.com/currencies/dew/,DEW,1484120.0,https://dew.one/,https://t.me/dew_cn
+113,Santiment Network Token,https://coinmarketcap.com/currencies/santiment/,SAN,25170300.0,https://santiment.net/,
+114,Bibox Token,https://coinmarketcap.com/currencies/bibox-token/,BIX,21346000.0,https://www.bibox.com/,https://t.me/joinchat/GAi9vQ5BEjR0mAxK5cdHjA
+115,PACcoin,https://coinmarketcap.com/currencies/paccoin/,PAC,719964.0,http://paccoin.net/,
+116,Blocknet,https://coinmarketcap.com/currencies/blocknet/,BLOCK,1156800.0,"http://blocknet.co/ , https://blocknetprotocol.com/","https://rocket.blocknet.co:8443/home , https://t.me/Blocknet"
+117,PayPie,https://coinmarketcap.com/currencies/paypie/,PPP,180403.0,https://www.paypie.com/,https://t.me/PayPie
+118,Storj,https://coinmarketcap.com/currencies/storj/,STORJ,15376000.0,https://storj.io/,
+119,Vertcoin,https://coinmarketcap.com/currencies/vertcoin/,VTC,7889590.0,http://vertcoin.org/,https://discord.gg/SUy9Hsr
+120,SIRIN LABS Token,https://coinmarketcap.com/currencies/sirin-labs-token/,SRN,9723040.0,http://www.sirinlabs.com/,https://t.me/sirinlabs
+121,Quantum Resistant Ledger,https://coinmarketcap.com/currencies/quantum-resistant-ledger/,QRL,15236000.0,https://theqrl.org/,https://discord.gg/BheKAZb
+122,iExec RLC,https://coinmarketcap.com/currencies/rlc/,RLC,6624310.0,http://iex.ec/,https://slack.iex.ec/
+123,DeepBrain Chain,https://coinmarketcap.com/currencies/deepbrain-chain/,DBC,13330300.0,https://www.deepbrainchain.org/,http://t.me/deepbrainchain
+124,Storm,https://coinmarketcap.com/currencies/storm/,STORM,2953720.0,https://stormtoken.com/,https://t.me/joinchat/GHTZGQwsy9mZk0KFEEjGtg
+125,Revain,https://coinmarketcap.com/currencies/revain/,R,1520450.0,https://revain.org/,https://t.me/joinchat/CzZcC0PCgpJcbBCb3JfNeQ
+126,Monaco,https://coinmarketcap.com/currencies/monaco/,MCO,22154000.0,https://www.mona.co/,https://t.me/MonacoCard
+127,Po.et,https://coinmarketcap.com/currencies/poet/,POE,17486500.0,https://po.et/,"https://t.me/joinchat/GKMQ1kOQSdXVZpN1Rygcdw , https://discordapp.com/invite/uY3tca8"
+128,Edgeless,https://coinmarketcap.com/currencies/edgeless/,EDG,17770400.0,https://edgeless.io/,https://discord.gg/NQ4hPTu
+129,INS Ecosystem,https://coinmarketcap.com/currencies/ins-ecosystem/,INS,32231300.0,https://ins.world/,"https://t.me/ins_ecosystem , https://t.me/ins_ecosystem_cn"
+130,Red Pulse,https://coinmarketcap.com/currencies/red-pulse/,RPX,7888770.0,https://www.red-pulse.com/landing,"https://t.me/redpulse , https://coin.red-pulse.com/slack"
+131,Enjin Coin,https://coinmarketcap.com/currencies/enjin-coin/,ENJ,8005540.0,"https://www.enjin.com/ , https://enjincoin.io/",https://t.me/enjin_coin
+132,Ubiq,https://coinmarketcap.com/currencies/ubiq/,UBQ,1073200.0,http://ubiqsmart.com/,https://discordapp.com/invite/HF6vEGF
+133,AirSwap,https://coinmarketcap.com/currencies/airswap/,AST,13651800.0,https://www.airswap.io/,
+134,ETHLend,https://coinmarketcap.com/currencies/ethlend/,LEND,19474900.0,https://ethlend.io/,https://t.me/ETHLend
+135,AppCoins,https://coinmarketcap.com/currencies/appcoins/,APPC,36733200.0,https://appcoins.io/,
+136,Aragon,https://coinmarketcap.com/currencies/aragon/,ANT,1776000.0,https://aragon.one/,
+137,Time New Bank,https://coinmarketcap.com/currencies/time-new-bank/,TNB,30363700.0,http://tnb.fund/,"https://t.me/tnbgroup , https://t.me/tnb_en"
+138,XTRABYTES,https://coinmarketcap.com/currencies/xtrabytes/,XBY,910754.0,https://www.xtrabytes.global/,"https://t.me/xtrabytes_official , https://discord.gg/uGYPbnn"
+139,Achain,https://coinmarketcap.com/currencies/achain/,ACT,17743400.0,https://www.achain.com/,https://t.me/joinchat/GbZKzQ5-wexioFquTyAXmg
+140,UTRUST,https://coinmarketcap.com/currencies/utrust/,UTK,4973940.0,https://utrust.io/,https://t.me/utrustofficial
+141,Dynamic Trading Rights,https://coinmarketcap.com/currencies/dynamic-trading-rights/,DTR,508938.0,http://www.tokens.net/,
+142,SingularDTV,https://coinmarketcap.com/currencies/singulardtv/,SNGLS,4195010.0,"https://singulardtv.com/ , https://medium.com/@SingularDTV",https://singulardtv.slack.com/
+143,VIBE,https://coinmarketcap.com/currencies/vibe/,VIBE,14654600.0,https://www.vibehub.io/,https://discordapp.com/invite/rDJTpxC
+144,Simple Token,https://coinmarketcap.com/currencies/simple-token/,OST,12884900.0,https://simpletoken.org/,https://www.t.me/simpletoken
+145,Peercoin,https://coinmarketcap.com/currencies/peercoin/,PPC,4660600.0,http://www.peercoin.net,https://t.me/peercoin
+146,SONM,https://coinmarketcap.com/currencies/sonm/,SNM,4098020.0,https://sonm.io/,https://t.me/sonm_eng
+147,Counterparty,https://coinmarketcap.com/currencies/counterparty/,XCP,4985810.0,http://counterparty.io/,
+148,SpankChain,https://coinmarketcap.com/currencies/spankchain/,SPANK,1940700.0,https://spankchain.com/,https://discord.gg/Rz48YYy
+149,WaBi,https://coinmarketcap.com/currencies/wabi/,WABI,15270800.0,https://wacoin.io/,"https://t.me/wabiico , http://slack.wacoin.io/"
+150,Gulden,https://coinmarketcap.com/currencies/gulden/,NLG,3096020.0,https://gulden.com/,
+151,Ripio Credit Network,https://coinmarketcap.com/currencies/ripio-credit-network/,RCN,21644100.0,https://ripiocredit.network/,https://t.me/RCNchat
+152,Streamr DATAcoin,https://coinmarketcap.com/currencies/streamr-datacoin/,DATA,3820700.0,https://www.streamr.com/,https://chat.streamr.com/
+153,BitBay,https://coinmarketcap.com/currencies/bitbay/,BAY,9088640.0,http://bitbay.market/,"https://t.me/bitbayofficial , https://discord.gg/sP8b66W"
+154,Centra,https://coinmarketcap.com/currencies/centra/,CTR,4969750.0,https://www.centra.tech/,https://t.me/centratech
+155,ZenCash,https://coinmarketcap.com/currencies/zencash/,ZEN,1959540.0,https://zensystem.io/,"https://t.me/zencash , https://discord.gg/9kXQFHx"
+156,Einsteinium,https://coinmarketcap.com/currencies/einsteinium/,EMC2,17154500.0,https://www.emc2.foundation/,
+157,ATMChain,https://coinmarketcap.com/currencies/attention-token-of-media/,ATM,229370.0,https://www.atmchain.io/,
+158,CyberMiles,https://coinmarketcap.com/currencies/cybermiles/,CMT,15938300.0,https://cm.5miles.com/,https://t.me/cybermilestoken
+159,AdEx,https://coinmarketcap.com/currencies/adx-net/,ADX,10586600.0,https://www.adex.network/,https://t.me/AdExNetwork
+160,QLINK,https://coinmarketcap.com/currencies/qlink/,QLC,3406240.0,http://qlink.mobi/,https://t.me/joinchat/F2sRmw4x_mzgSHKhyH5AFQ
+161,NAGA,https://coinmarketcap.com/currencies/naga/,NGC,2086500.0,https://www.nagaico.com/,https://t.me/nagaico
+162,Decentraland,https://coinmarketcap.com/currencies/decentraland/,MANA,26461000.0,https://decentraland.org/,"https://chat.decentraland.org/ , https://t.me/dcl_market"
+163,Nuls,https://coinmarketcap.com/currencies/nuls/,NULS,9751830.0,https://nuls.io/,"https://t.me/Nulsio , https://join.slack.com/t/nuls/shared_invite/enQtMjQ4MTM4ODAyNTI4LWJjNGMwYTE0YjRlYmFlZGUwM2JhOGE4MDIwZmE4MzA2MDg1YzUyMmVkN2RhZjkyNWMzZjY5ZDU5ZmViMjZjNGQ"
+164,Cindicator,https://coinmarketcap.com/currencies/cindicator/,CND,8720460.0,https://cindicator.com/,"https://t.me/cindicator_chat , https://t.me/cindicator_news"
+165,Modum,https://coinmarketcap.com/currencies/modum/,MOD,3602410.0,https://modum.io/,
+166,LBRY Credits,https://coinmarketcap.com/currencies/library-credit/,LBC,5098470.0,https://lbry.io/,
+167,SuperNET,https://coinmarketcap.com/currencies/supernet-unity/,UNITY,1679.15,http://supernet.org,
+168,IoT Chain,https://coinmarketcap.com/currencies/iot-chain/,ITC,21312300.0,https://iotchain.io/,"https://t.me/IoTChain , http://qm.qq.com/cgi-bin/qm/qr?k=CjS_9da0Uj5SfXX8Wm1PIDuL_Nbjzmc3"
+169,district0x,https://coinmarketcap.com/currencies/district0x/,DNT,7317860.0,https://district0x.io/,
+170,Decision Token,https://coinmarketcap.com/currencies/decision-token/,HST,3601340.0,https://horizonstate.com/,https://t.me/horizonstate
+171,Triggers,https://coinmarketcap.com/currencies/triggers/,TRIG,38018900.0,https://www.blocksafefoundation.com/,
+172,Unikoin Gold,https://coinmarketcap.com/currencies/unikoin-gold/,UKG,11118400.0,"https://unikrn.com/ , https://unikoingold.com/",https://discord.gg/NXkejuN
+173,MobileGo,https://coinmarketcap.com/currencies/mobilego/,MGO,426855.0,https://mobilego.io/,https://t.me/mobilego
+174,Tierion,https://coinmarketcap.com/currencies/tierion/,TNT,25611700.0,https://tierion.com/,
+175,Viacoin,https://coinmarketcap.com/currencies/viacoin/,VIA,1565990.0,http://viacoin.org,https://telegram.me/viacoin
+176,Wings,https://coinmarketcap.com/currencies/wings/,WINGS,4895330.0,https://wings.ai/,https://telegram.me/wingschat
+177,Lamden,https://coinmarketcap.com/currencies/lamden/,TAU,530771.0,https://lamden.io/,https://t.me/lamdenchat
+178,Metaverse ETP,https://coinmarketcap.com/currencies/metaverse/,ETP,11215600.0,https://mvs.org/,https://metaverse-project.herokuapp.com/
+179,Wagerr,https://coinmarketcap.com/currencies/wagerr/,WGR,2223310.0,https://www.wagerr.com/,https://discordapp.com/invite/tkcXS34
+180,Asch,https://coinmarketcap.com/currencies/asch/,XAS,2892110.0,https://www.asch.io/,https://t.me/joinchat/F5GtMA2hHXXoeuHdiPiooA
+181,Burst,https://coinmarketcap.com/currencies/burst/,BURST,10690600.0,https://www.burst-coin.org,"https://t.me/burstcoin , https://discord.gg/Z2HSNFv"
+182,BitClave,https://coinmarketcap.com/currencies/bitclave/,CAT,4277580.0,https://www.bitclave.com/,https://t.me/BitClaveCommunity
+183,Agoras Tokens,https://coinmarketcap.com/currencies/agoras-tokens/,AGRS,211582.0,http://www.idni.org/,https://t.me/tauchain
+184,Ambrosus,https://coinmarketcap.com/currencies/amber/,AMB,2804950.0,http://ambrosus.com/,"https://t.me/ambrosuschat , https://discordapp.com/invite/jbmWg8c"
+185,CloakCoin,https://coinmarketcap.com/currencies/cloakcoin/,CLOAK,851493.0,https://www.cloakcoin.com/,"https://t.me/cloakproject , https://chat.cloakcoin.com"
+186,Melon,https://coinmarketcap.com/currencies/melon/,MLN,1533900.0,"https://melonport.com/ , https://ipfs.io/ipns/melon.fund/",
+187,Oyster,https://coinmarketcap.com/currencies/oyster-pearl/,PRL,2304740.0,https://oysterprotocol.com/,https://t.me/oysterprotocol
+188,Etherparty,https://coinmarketcap.com/currencies/etherparty/,FUEL,7284600.0,https://etherparty.com/,https://t.me/etherparty
+189,Metal,https://coinmarketcap.com/currencies/metal/,MTL,7193190.0,https://www.metalpay.com/,
+190,HempCoin,https://coinmarketcap.com/currencies/hempcoin/,THC,2075020.0,http://hempcoin.org/,
+191,Hive,https://coinmarketcap.com/currencies/hive/,HVN,970956.0,https://www.hive-project.net/,https://t.me/hiveprojectnet
+192,Eidoo,https://coinmarketcap.com/currencies/eidoo/,EDO,16232700.0,https://eidoo.io/,https://t.me/joinchat/F4ox3EO_ubynqlzakd6lKw
+193,FirstBlood,https://coinmarketcap.com/currencies/firstblood/,1ST,4933820.0,https://firstblood.io/,
+194,Bread,https://coinmarketcap.com/currencies/bread/,BRD,9764760.0,https://token.breadapp.com/en/,https://t.me/joinchat/HB6JsUq7-w-y6l5DrfRV-A
+195,Rise,https://coinmarketcap.com/currencies/rise/,RISE,3641130.0,https://rise.vision/,
+196,MinexCoin,https://coinmarketcap.com/currencies/minexcoin/,MNX,140308.0,https://minexcoin.com/,https://t.me/minexcoin
+197,DECENT,https://coinmarketcap.com/currencies/decent/,DCT,1149660.0,https://decent.ch/,
+198,Lykke,https://coinmarketcap.com/currencies/lykke/,LKK,322776.0,https://lykke.com,https://telegram.me/joinchat/AEGiqkF-_dNaHMwQbRSnAg
+199,I/O Coin,https://coinmarketcap.com/currencies/iocoin/,IOC,1641980.0,http://iocoin.io/,"https://t.me/joinchat/CqVqS0O3PjCTx9bfp4CwOQ , https://iocoin.slack.com/"
+200,COSS,https://coinmarketcap.com/currencies/coss/,COSS,3616410.0,https://coss.io/,
+201,Voxels,https://coinmarketcap.com/currencies/voxels/,VOX,16276600.0,"https://www.voxelus.com/ , https://thevoxel.com/",https://t.me/voxelus
+202,Aeon,https://coinmarketcap.com/currencies/aeon/,AEON,494436.0,http://www.aeon.cash/,
+203,CoinDash,https://coinmarketcap.com/currencies/coindash/,CDT,5659280.0,https://www.coindash.io/,
+204,Shift,https://coinmarketcap.com/currencies/shift/,SHIFT,1120210.0,http://www.shiftnrg.org,https://shiftnrg.ryver.com/application/login
+205,Pura,https://coinmarketcap.com/currencies/pura/,PURA,217890.0,http://www.pura.one/,
+206,iXledger,https://coinmarketcap.com/currencies/ixledger/,IXT,1751510.0,https://www.ixledger.com/,https://t.me/iXledger
+207,Lunyr,https://coinmarketcap.com/currencies/lunyr/,LUN,3783820.0,https://lunyr.com/,
+208,MediShares,https://coinmarketcap.com/currencies/medishares/,MDS,36303700.0,http://www.medishares.org/,
+209,WeTrust,https://coinmarketcap.com/currencies/trust/,TRST,1389940.0,https://www.wetrust.io/,
+210,Cofound.it,https://coinmarketcap.com/currencies/cofound-it/,CFI,4150560.0,https://cofound.it/,
+211,Genesis Vision,https://coinmarketcap.com/currencies/genesis-vision/,GVT,3695750.0,https://genesis.vision/,"https://t.me/genesisvision , https://u.wechat.com/IL6s8kyYCLGz0S6t5HqJwr4"
+212,SaluS,https://coinmarketcap.com/currencies/salus/,SLS,1744790.0,http://saluscoin.info/,
+213,Presearch,https://coinmarketcap.com/currencies/presearch/,PRS,127364.0,"https://www.presearch.io/ , https://presearchcommunity.com/",https://t.me/presearch
+214,TaaS,https://coinmarketcap.com/currencies/taas/,TAAS,602440.0,https://taas.fund/,
+215,Gifto,https://coinmarketcap.com/currencies/gifto/,GTO,10927900.0,https://gifto.io/,"https://t.me/GIFTOOfficial , https://open.kakao.com/o/ggLQMiC"
+216,bitCNY,https://coinmarketcap.com/currencies/bitcny/,BITCNY,24454600.0,,
+217,Feathercoin,https://coinmarketcap.com/currencies/feathercoin/,FTC,882717.0,http://feathercoin.com,
+218,Namecoin,https://coinmarketcap.com/currencies/namecoin/,NMC,1775640.0,https://www.namecoin.org/,https://telegram.me/namecoin
+219,Spectrecoin,https://coinmarketcap.com/currencies/spectrecoin/,XSPEC,482554.0,"https://spectreproject.io/ , http://coinwiki.info/en/SpectreCoin",https://t.me/spectrecoin
+220,Paypex,https://coinmarketcap.com/currencies/paypex/,PAYX,3435.37,https://paypex.org/,"https://t.me/paypex , https://paypex.slack.com/"
+221,TokenCard,https://coinmarketcap.com/currencies/tokencard/,TKN,108305.0,http://tokencard.io/,
+222,Groestlcoin,https://coinmarketcap.com/currencies/groestlcoin/,GRS,6324860.0,http://www.groestlcoin.org/,"http://t.me/groestl , https://discord.gg/8VURndr"
+223,LAToken,https://coinmarketcap.com/currencies/latoken/,LA,1388240.0,https://sale.latoken.com/,https://t.me/latoken
+224,Mooncoin,https://coinmarketcap.com/currencies/mooncoin/,MOON,216035.0,"https://www.mooncoin.eco/ , http://mooncoin.com/",
+225,Datum,https://coinmarketcap.com/currencies/datum/,DAT,8647150.0,https://datum.org/,"https://t.me/datumnetwork , https://t.me/datumnetworkRU"
+226,Voise,https://coinmarketcap.com/currencies/voisecom/,VOISE,1925310.0,https://www.voise.com,https://t.me/voisecom
+227,Flash,https://coinmarketcap.com/currencies/flash/,FLASH,173386.0,https://flashcoin.io/,https://discord.gg/2nFmMqA
+228,Safe Exchange Coin,https://coinmarketcap.com/currencies/safe-exchange-coin/,SAFEX,156229.0,http://safex.io/,
+229,Jinn,https://coinmarketcap.com/currencies/jinn/,JINN,12720.8,http://www.jinnlabs.com,
+230,Everex,https://coinmarketcap.com/currencies/everex/,EVX,5143450.0,https://www.everex.io/,
+231,Diamond,https://coinmarketcap.com/currencies/diamond/,DMD,224588.0,http://bit.diamonds,http://dmdcoin.slack.com/
+232,Ink,https://coinmarketcap.com/currencies/ink/,INK,86279500.0,https://ink.one/,https://t.me/joinchat/GHiS0A7C841w1NbTNwIYIQ
+233,Viberate,https://coinmarketcap.com/currencies/viberate/,VIB,32362700.0,https://www.viberate.com/,https://t.me/joinchat/F-zenkQffjbGY7YqqSQl1w
+234,Agrello,https://coinmarketcap.com/currencies/agrello-delta/,DLT,2375020.0,"https://www.agrello.org/ , https://www.agrello.io/","https://t.me/agrello , https://discord.gg/czfnP2f"
+235,Monetha,https://coinmarketcap.com/currencies/monetha/,MTH,5351340.0,https://www.monetha.io/,https://t.me/Monethagroup
+236,Xenon,https://coinmarketcap.com/currencies/xenon/,XNN,26342.4,https://xenon.network/,https://xenonnetwork.slack.com/
+237,Crown,https://coinmarketcap.com/currencies/crown/,CRW,217418.0,http://crown.tech/,
+238,Pepe Cash,https://coinmarketcap.com/currencies/pepe-cash/,PEPECASH,1102930.0,"http://rarepepedirectory.com/ , http://rarepepewallet.com",
+239,Snovio,https://coinmarketcap.com/currencies/snovio/,SNOV,1849530.0,https://tokensale.snov.io/,https://t.me/snovio_ico
+240,ECC,https://coinmarketcap.com/currencies/eccoin/,ECC,370126.0,https://ecc.network/,
+241,SHIELD,https://coinmarketcap.com/currencies/shield-xsh/,XSH,690155.0,https://shieldcurrency.com/,https://discord.gg/kgSXKrV
+242,SolarCoin,https://coinmarketcap.com/currencies/solarcoin/,SLR,1429080.0,http://solarcoin.org/,https://solarcoin-group.slack.com/
+243,Bloom,https://coinmarketcap.com/currencies/bloomtoken/,BLT,127180.0,https://hellobloom.io/,https://t.me/joinchat/FFWDdQ1hxqIg3jLe7zBVFQ
+244,YOYOW,https://coinmarketcap.com/currencies/yoyow/,YOYOW,7791970.0,https://yoyow.org/,https://t.me/HelloYOYOW
+245,Humaniq,https://coinmarketcap.com/currencies/humaniq/,HMQ,2453090.0,https://humaniq.co/,https://t.me/humaniqglobalchallenge
+246,WhiteCoin,https://coinmarketcap.com/currencies/whitecoin/,XWC,6571110.0,http://whitecoin.info/,https://discordapp.com/invite/GbpdbMt
+247,Ormeus Coin,https://coinmarketcap.com/currencies/ormeus-coin/,ORME,5452230.0,https://ormeuscoin.com/,
+248,DomRaider,https://coinmarketcap.com/currencies/domraider/,DRT,15397.8,https://www.domraider.io/,
+249,Matchpool,https://coinmarketcap.com/currencies/guppy/,GUP,6403480.0,https://matchpool.co/,https://t.me/matchpool
+250,DubaiCoin,https://coinmarketcap.com/currencies/dubaicoin-dbix/,DBIX,1852950.0,http://www.arabianchain.org/,
+251,E-coin,https://coinmarketcap.com/currencies/e-coin/,ECN,8676.86,https://www.ecoinsource.com/,
+252,PotCoin,https://coinmarketcap.com/currencies/potcoin/,POT,1276790.0,http://www.potcoin.com/,https://t.me/potcoin420
+253,Pascal Coin,https://coinmarketcap.com/currencies/pascal-coin/,PASC,688022.0,http://www.pascalcoin.org/,https://t.me/pascalcoin
+254,Worldcore,https://coinmarketcap.com/currencies/worldcore/,WRC,22961500.0,https://worldcore.com/,"http://t.me/worldcore , https://worldcore.slack.com/"
+255,Synereo,https://coinmarketcap.com/currencies/synereo/,AMP,2452670.0,"http://www.synereo.com/ , https://wildspark.me/",https://discordapp.com/invite/xrm56DV
+256,SIBCoin,https://coinmarketcap.com/currencies/sibcoin/,SIB,480356.0,"https://sibcoin.money/ , http://sibcoin.org",https://t.me/sibcoin_ru
+257,Elastic,https://coinmarketcap.com/currencies/elastic/,XEL,1445390.0,https://www.elastic.pw/,
+258,adToken,https://coinmarketcap.com/currencies/adtoken/,ADT,2437900.0,https://adtoken.com/,
+259,NoLimitCoin,https://coinmarketcap.com/currencies/nolimitcoin/,NLC2,229380.0,https://nolimitcoin.org/,"https://t.me/NoLimitCoinNLC2 , http://slack.nolimitcoin.org/"
+260,Dovu,https://coinmarketcap.com/currencies/dovu/,DOVU,503981.0,https://dovu.io/,"https://t.me/dovuico , https://discord.gg/6uFPys2"
+261,FairCoin,https://coinmarketcap.com/currencies/faircoin/,FAIR,199990.0,http://fair-coin.org/,
+262,Zeusshield,https://coinmarketcap.com/currencies/zeusshield/,ZSC,3506670.0,https://zsc.io/,
+263,Mothership,https://coinmarketcap.com/currencies/mothership/,MSP,1035870.0,https://mothership.cx/,"https://t.me/mothershipcx , https://discordapp.com/invite/rZGUMtc"
+264,DeepOnion,https://coinmarketcap.com/currencies/deeponion/,ONION,847693.0,"https://deeponion.org/ , http://www.deeponion.watch/",https://t.me/DeepOnionCoin
+265,Delphy,https://coinmarketcap.com/currencies/delphy/,DPY,17739900.0,https://delphy.org/,
+266,Nimiq,https://coinmarketcap.com/currencies/nimiq/,NET,520104.0,https://nimiq.com/,https://t.me/joinchat/AAAAAEJW-ozFwo7Er9jpHw
+267,SunContract,https://coinmarketcap.com/currencies/suncontract/,SNC,2830990.0,https://suncontract.org/tokensale/index.html,
+268,BlackCoin,https://coinmarketcap.com/currencies/blackcoin/,BLK,1355960.0,http://www.blackcoin.co/,"https://t.me/blackcoin , https://gitter.im/BlackCoin_Hub"
+269,ION,https://coinmarketcap.com/currencies/ion/,ION,400855.0,https://ionomy.com/,https://discord.gg/4WZkZJS
+270,Mercury,https://coinmarketcap.com/currencies/mercury/,MER,11188700.0,https://www.darcr.us/,
+271,Phore,https://coinmarketcap.com/currencies/phore/,PHR,434114.0,https://phore.io/,"https://discord.gg/Aucncz5 , https://phore-project.herokuapp.com/"
+272,NewYorkCoin,https://coinmarketcap.com/currencies/newyorkcoin/,NYC,248872.0,"http://nycoin.net/ , http://www.nycoin.net/",
+273,ClearPoll,https://coinmarketcap.com/currencies/clearpoll/,POLL,1180160.0,https://www.clearpoll.io/,https://t.me/joinchat/GTXXzULLOaZbxN_VLu8DTw
+274,NuShares,https://coinmarketcap.com/currencies/nushares/,NSR,26598.7,https://nubits.com/nushares,
+275,Divi,https://coinmarketcap.com/currencies/divi/,DIVX,111783.0,https://www.diviproject.org/,"https://t.me/joinchat/EAdiTQ3yZk_GkqU0IdG-Gg , https://discord.gg/qtVUx38"
+276,EncrypGen,https://coinmarketcap.com/currencies/encrypgen/,DNA,329397.0,https://www.encrypgen.com/,https://gene-chain.slack.com/threads/
+277,Bodhi,https://coinmarketcap.com/currencies/bodhi/,BOT,12220000.0,http://www.bodhi.network/,http://t.me/bodhifoundation
+278,Dimecoin,https://coinmarketcap.com/currencies/dimecoin/,DIME,367747.0,"http://www.dimecoin.us/ , http://dimecoin.com.co/",https://discord.gg/Aq3Vsgq
+279,VeriCoin,https://coinmarketcap.com/currencies/vericoin/,VRC,2856340.0,http://www.vericoin.info/,
+280,Blocktix,https://coinmarketcap.com/currencies/blocktix/,TIX,16218200.0,https://blocktix.io/,https://discordapp.com/invite/4A8JW3K
+281,Expanse,https://coinmarketcap.com/currencies/expanse/,EXP,1612760.0,http://www.expanse.tech/,"https://telegram.me/ExpanseTech , http://slack.expanse.tech/"
+282,Bounty0x,https://coinmarketcap.com/currencies/bounty0x/,BNTY,1385440.0,https://bounty0x.io/,https://t.me/bounty0x
+283,Moeda Loyalty Points,https://coinmarketcap.com/currencies/moeda-loyalty-points/,MDA,3176800.0,https://moeda.in/,https://t.me/moedaproject
+284,Aeron,https://coinmarketcap.com/currencies/aeron/,ARN,43860600.0,https://aeron.aero/,https://t.me/aeronaero
+285,Golos,https://coinmarketcap.com/currencies/golos/,GOLOS,263817.0,https://golos.io/,https://telegram.me/golos_io
+286,AirToken,https://coinmarketcap.com/currencies/airtoken/,AIR,229227.0,https://www.airtoken.com/,
+287,GridCoin,https://coinmarketcap.com/currencies/gridcoin/,GRC,815043.0,http://www.gridcoin.us/,"https://t.me/gridcoin , https://discord.gg/Bt4YHxJ"
+288,Peerplays,https://coinmarketcap.com/currencies/peerplays-ppy/,PPY,4632.18,http://www.peerplays.com/,https://t.me/peerplays
+289,Neumark,https://coinmarketcap.com/currencies/neumark/,NEU,532286.0,http://neufund.org/,https://t.me/neufund
+290,Maecenas,https://coinmarketcap.com/currencies/maecenas/,ART,22402.3,http://www.maecenas.co/,
+291,Pandacoin,https://coinmarketcap.com/currencies/pandacoin-pnd/,PND,847877.0,http://digitalpandacoin.org/,https://t.me/DigitalPandacoin
+292,Rivetz,https://coinmarketcap.com/currencies/rivetz/,RVT,84420.9,https://rivetz.com/,"https://t.me/rivet_group , https://discordapp.com/invite/VNrDBUV"
+293,DecentBet,https://coinmarketcap.com/currencies/decent-bet/,DBET,119791.0,https://www.decent.bet/,https://decentbet-slack.herokuapp.com/
+294,Numeraire,https://coinmarketcap.com/currencies/numeraire/,NMR,1356570.0,https://numer.ai/,
+295,Rubycoin,https://coinmarketcap.com/currencies/rubycoin/,RBY,228264.0,http://www.rubycoin.org/,https://slack.rubycoin.org/
+296,Bismuth,https://coinmarketcap.com/currencies/bismuth/,BIS,303942.0,http://bismuth.cz/,https://cryptobismuth.slack.com/
+297,Rialto,https://coinmarketcap.com/currencies/rialto/,XRL,134853.0,https://www.rialto.ai/,https://t.me/joinchat/AAAAAEJIJRvGtIsNu7zOvw
+298,Radium,https://coinmarketcap.com/currencies/radium/,RADS,1503430.0,https://radiumcore.org/,https://telegram.me/RadiumOfficial
+299,Credo,https://coinmarketcap.com/currencies/credo/,CREDO,30133.9,https://bitbounce.com/credo,
+300,ATBCoin,https://coinmarketcap.com/currencies/atbcoin/,ATB,3357930.0,https://atbcoin.com/,https://t.me/atbcoinchat
+301,Stox,https://coinmarketcap.com/currencies/stox/,STX,1900960.0,https://www.stox.com/,https://t.me/joinchat/DByWw0Pnq9BAy4FqPv_Lyg
+302,OKCash,https://coinmarketcap.com/currencies/okcash/,OK,2608430.0,http://okcash.co,
+303,Target Coin,https://coinmarketcap.com/currencies/target-coin/,TGT,5392.22,https://www.tgtcoins.com/,
+304,Nexium,https://coinmarketcap.com/currencies/nexium/,NXC,859752.0,https://beyond-the-void.net/,https://discordapp.com/invite/tzjrWP
+305,NeosCoin,https://coinmarketcap.com/currencies/neoscoin/,NEOS,905556.0,http://www.neoscoin.com,http://slack.neoscoin.com/
+306,Open Trading Network,https://coinmarketcap.com/currencies/open-trading-network/,OTN,76240.7,https://otn.org/,https://t.me/OTNgroup
+307,Bean Cash,https://coinmarketcap.com/currencies/bean-cash/,BITB,1193190.0,http://www.bitbean.org/,http://webchat.freenode.net/?channels=#teambean
+308,Omni,https://coinmarketcap.com/currencies/omni/,OMNI,1113360.0,http://www.omnilayer.org/,https://t.me/OmniLayer
+309,BlockMason Credit Protocol,https://coinmarketcap.com/currencies/blockmason/,BCPT,6107440.0,https://blockmason.io/,
+310,Hedge,https://coinmarketcap.com/currencies/hedge/,HDG,146239.0,https://www.hedge-crypto.com/,
+311,MonetaryUnit,https://coinmarketcap.com/currencies/monetaryunit/,MUE,753772.0,http://www.monetaryunit.org,https://mueslack.herokuapp.com/
+312,LIFE,https://coinmarketcap.com/currencies/life/,LIFE,707292.0,https://token.lifelabs.io/,"https://t.me/joinchat/HFVijQ3hyhyQZa6LQCE-NQ/ , https://everydaylife.slack.com/"
+313,Elixir,https://coinmarketcap.com/currencies/elixir/,ELIX,974862.0,http://elixirtoken.io/,"https://t.me/ElixirToken , https://discordapp.com/invite/mu4EJaz"
+314,ALIS,https://coinmarketcap.com/currencies/alis/,ALIS,200522.0,https://alismedia.jp/,"https://t.me/joinchat/EpPqE0QWIaFrG3zTewongQ , https://alis-slack.herokuapp.com/"
+315,Propy,https://coinmarketcap.com/currencies/propy/,PRO,9761530.0,https://propy.com/,https://t.me/joinchat/AAAAAENZVo1O6X7rusdRWg
+316,Myriad,https://coinmarketcap.com/currencies/myriad/,XMY,1616540.0,http://myriadcoin.org/,http://webchat.freenode.net/?nick=myriad%7C...&channels=%23%23myriadcoin&uio=OT10cnVlJjExPTEyMyYxMj10cnVl38
+317,Blackmoon Crypto,https://coinmarketcap.com/currencies/blackmoon-crypto/,BMC,6033080.0,https://www.blackmooncrypto.com/,https://t.me/blackmooncrypto
+318,InvestFeed,https://coinmarketcap.com/currencies/investfeed/,IFT,163428.0,https://www.investfeed.com/,
+319,RussiaCoin,https://coinmarketcap.com/currencies/russiacoin/,RC,156424.0,http://www.russiacoin.info/,
+320,ColossusCoinXT,https://coinmarketcap.com/currencies/colossuscoinxt/,COLX,232816.0,http://colossuscoinxt.org/,https://colossuscoinxt.herokuapp.com/
+321,MyBit Token,https://coinmarketcap.com/currencies/mybit-token/,MYB,62921.1,https://mybit.io/,https://t.me/mybitio
+322,ALQO,https://coinmarketcap.com/currencies/alqo/,ALQO,225547.0,https://alqo.org/,"https://discord.gg/BJYpbfs , https://t.me/alqochat"
+323,KickCoin,https://coinmarketcap.com/currencies/kickico/,KICK,1568510.0,https://www.kickico.com/,https://t.me/kickico
+324,Oxycoin,https://coinmarketcap.com/currencies/oxycoin/,OXY,216094.0,https://oxycoin.io/,http://oxycoin.slack.com/
+325,Linda,https://coinmarketcap.com/currencies/linda/,LINDA,1720010.0,http://lindacoin.com/,
+326,Paragon,https://coinmarketcap.com/currencies/paragon/,PRG,101121.0,https://paragoncoin.com/,https://t.me/joinchat/Bvx800IXuCoe-QGoLXoVlQ
+327,Hush,https://coinmarketcap.com/currencies/hush/,HUSH,142104.0,https://myhush.org/,https://t.me/MyHush
+328,Playkey,https://coinmarketcap.com/currencies/playkey/,PKT,28796.9,"https://playkey.io/ , https://playkey.net/",https://t.me/playkey_io
+329,Patientory,https://coinmarketcap.com/currencies/patientory/,PTOY,2283940.0,https://patientory.com/,
+330,OAX,https://coinmarketcap.com/currencies/oax/,OAX,1908960.0,https://oax.org/,https://t.me/openanxteam
+331,FlorinCoin,https://coinmarketcap.com/currencies/florincoin/,FLO,516806.0,http://flo.cash/,https://t.me/FLOblockchain
+332,AsiaCoin,https://coinmarketcap.com/currencies/asiacoin/,AC,41993.1,http://www.thecoin.asia/,
+333,PoSW Coin,https://coinmarketcap.com/currencies/posw-coin/,POSW,376241.0,https://posw.io/,"https://t.me/joinchat/BdGxxw-s3b4_DdBdbChI4g , https://discordapp.com/invite/cyF5yCA"
+334,LEOcoin,https://coinmarketcap.com/currencies/leocoin/,LEO,29656.7,"http://www.leocoin.org/ , http://leocoinfoundation.org/",
+335,GeoCoin,https://coinmarketcap.com/currencies/geocoin/,GEO,2027070.0,"http://geocoin.cash/ , http://geo.money/",
+336,BlockCAT,https://coinmarketcap.com/currencies/blockcat/,CAT,297796.0,https://blockcat.io/,
+337,BLUE,https://coinmarketcap.com/currencies/ethereum-blue/,BLUE,178916.0,https://www.etherblue.org/,
+338,FedoraCoin,https://coinmarketcap.com/currencies/fedoracoin/,TIPS,38187.7,http://www.fedoracoin.top/,
+339,Steem Dollars,https://coinmarketcap.com/currencies/steem-dollars/,SBD,7667210.0,https://steem.io/,
+340,Databits,https://coinmarketcap.com/currencies/databits/,DTB,539057.0,http://www.augmentorsgame.com/,https://t.me/augmentorsgame
+341,Obsidian,https://coinmarketcap.com/currencies/obsidian/,ODN,364839.0,https://obsidianplatform.com,https://discordapp.com/invite/BwDcpZy
+342,Swarm City,https://coinmarketcap.com/currencies/swarm-city/,SWT,514781.0,http://swarm.city/,
+343,Change,https://coinmarketcap.com/currencies/change/,CAG,3386960.0,https://getchange.com/,https://t.me/joinchat/GWX8HkLwpOoocINbLXfRtg
+344,bitUSD,https://coinmarketcap.com/currencies/bitusd/,BITUSD,4261310.0,http://bit.ly/BitShares_USD,
+345,Verify,https://coinmarketcap.com/currencies/verify/,CRED,482840.0,https://verify.as/,"https://t.me/verifyas , https://community.verify.as/"
+346,Xaurum,https://coinmarketcap.com/currencies/xaurum/,XAUR,183652.0,http://www.xaurum.org/,
+347,Zoin,https://coinmarketcap.com/currencies/zoin/,ZOI,5542.16,http://zoinofficial.com/,
+348,Soarcoin,https://coinmarketcap.com/currencies/soarcoin/,SOAR,56370.7,http://soarlabs.org/,https://t.me/joinchat/FoiRKg5U9wMPNAKz3mVflA
+349,bitqy,https://coinmarketcap.com/currencies/bitqy/,BQ,13087.5,https://bitqy.org/,
+350,SportyFi,https://coinmarketcap.com/currencies/sportyfi/,SPF,631405.0,https://sportyfi.io/,https://t.me/sportyfi_official
+351,Energycoin,https://coinmarketcap.com/currencies/energycoin/,ENRG,733110.0,https://energycoin.eu/,
+352,LoMoCoin,https://coinmarketcap.com/currencies/lomocoin/,LMC,939996.0,http://www.lomostar.com/,https://t.me/lomocoin
+353,FoldingCoin,https://coinmarketcap.com/currencies/foldingcoin/,FLDC,929376.0,http://www.foldingcoin.net/,
+354,Atmos,https://coinmarketcap.com/currencies/atmos/,ATMS,80501.4,https://novusphere.io/,https://discord.gg/PtXzUVr
+355,ICOS,https://coinmarketcap.com/currencies/icos/,ICOS,41900.4,"https://icos.icobox.io/ , https://t.me/icobox_en",
+356,Bitcrystals,https://coinmarketcap.com/currencies/bitcrystals/,BCY,1820640.0,http://bitcrystals.com/,
+357,Mintcoin,https://coinmarketcap.com/currencies/mintcoin/,MINT,223732.0,http://www.mintcoinofficial.com,"https://discord.gg/qpGs76t , https://t.me/joinchat/AYSXZBGdWRH6jeIX_EJijg"
+358,Pirl,https://coinmarketcap.com/currencies/pirl/,PIRL,391443.0,https://pirl.io/,"https://t.co/akNuU2C8OH , https://discordapp.com/invite/z4faFxD"
+359,LUXCoin,https://coinmarketcap.com/currencies/luxcoin/,LUX,1645400.0,https://luxcore.io/,"https://t.me/LUXcoreOfficial , https://discord.gg/27xFP5Y"
+360,Incent,https://coinmarketcap.com/currencies/incent/,INCNT,344896.0,https://www.incentloyalty.com/,
+361,Unobtanium,https://coinmarketcap.com/currencies/unobtanium/,UNO,157176.0,http://unobtanium.uno,https://t.me/unobtaniumuno
+362,Waves Community Token,https://coinmarketcap.com/currencies/waves-community-token/,WCT,50518.1,https://wavesplatform.com/,
+363,Payfair,https://coinmarketcap.com/currencies/payfair/,PFR,160181.0,https://payfair.io/,https://t.me/payfair
+364,Boolberry,https://coinmarketcap.com/currencies/boolberry/,BBR,16449.1,http://boolberry.com/,
+365,Gambit,https://coinmarketcap.com/currencies/gambit/,GAM,60187.4,http://www.gambitcrypto.com,
+366,Flixxo,https://coinmarketcap.com/currencies/flixxo/,FLIXX,561177.0,https://www.flixxo.com/,https://t.me/flixxo
+367,Mercury Protocol,https://coinmarketcap.com/currencies/mercury-protocol/,GMT,58048.8,https://www.mercuryprotocol.com/,https://t.me/joinchat/G47gcA8f5EYFfEsILw7H2w
+368,Publica,https://coinmarketcap.com/currencies/publica/,PBL,381296.0,https://publica.io/,https://t.me/publicaofficial
+369,Monoeci,https://coinmarketcap.com/currencies/monacocoin/,XMCC,147828.0,http://www.monacocoin.net/,https://discord.gg/Hsdg3BV
+370,onG.social,https://coinmarketcap.com/currencies/ongsocial/,ONG,18708.1,"https://ong.social/ , https://www.ongcoin.io/",
+371,Circuits of Value,https://coinmarketcap.com/currencies/circuits-of-value/,COVAL,539504.0,"http://cov.al/ , https://emblemvault.com/",
+372,Neutron,https://coinmarketcap.com/currencies/neutron/,NTRN,78603.7,http://www.neutroncoin.com/,https://discord.gg/NuGTB6z
+373,HEAT,https://coinmarketcap.com/currencies/heat-ledger/,HEAT,28751.4,http://heatledger.com/,
+374,Musicoin,https://coinmarketcap.com/currencies/musicoin/,MUSIC,749716.0,https://www.musicoin.org/,
+375,BitDice,https://coinmarketcap.com/currencies/bitdice/,CSNO,14927.3,https://www.bitdice.me/,
+376,Clams,https://coinmarketcap.com/currencies/clams/,CLAM,762909.0,http://clamcoin.org/,
+377,Sequence,https://coinmarketcap.com/currencies/sequence/,SEQ,211317.0,https://duality.solutions,
+378,GoByte,https://coinmarketcap.com/currencies/gobyte/,GBX,465624.0,https://gobyte.network/,https://discord.gg/mDAeFzT
+379,Global Currency Reserve,https://coinmarketcap.com/currencies/global-currency-reserve/,GCR,616886.0,http://gcrcoin.com/,
+380,ArtByte,https://coinmarketcap.com/currencies/artbyte/,ABY,762754.0,https://www.artbyte.me/,
+381,LockChain,https://coinmarketcap.com/currencies/lockchain/,LOC,401758.0,https://lockchain.co/,https://t.me/joinchat/F3YOYQx123PO4FPfNRPihQ
+382,KiloCoin,https://coinmarketcap.com/currencies/kilocoin/,KLC,81096.7,http://kilocoin.com/,
+383,Polybius,https://coinmarketcap.com/currencies/polybius/,PLBT,530020.0,"https://polybius.io/ , https://medium.com/@PolybiusBank",https://t.me/polybius_eng
+384,Solaris,https://coinmarketcap.com/currencies/solaris/,XLR,260779.0,http://solariscoin.com/,https://t.me/solariscoin
+385,Chronobank,https://coinmarketcap.com/currencies/chronobank/,TIME,296564.0,https://chronobank.io/,https://telegram.me/ChronoBank
+386,BitSend,https://coinmarketcap.com/currencies/bitsend/,BSD,479899.0,"http://www.bitsend.info/ , http://www.mybitsend.com/",
+387,NVO,https://coinmarketcap.com/currencies/nvo/,NVST,85781.6,https://nvo.io/,
+388,Stealthcoin,https://coinmarketcap.com/currencies/stealthcoin/,XST,109905.0,https://www.stealthcoin.com/,https://stealthcoin.herokuapp.com/
+389,Bulwark,https://coinmarketcap.com/currencies/bulwark/,BWK,592628.0,https://bulwarkcrypto.com/,"https://t.me/bulwarkcrypto , https://discord.gg/a7vhegP"
+390,FirstCoin,https://coinmarketcap.com/currencies/firstcoin/,FRST,215068.0,http://firstcoinproject.com/,
+391,Quantum,https://coinmarketcap.com/currencies/quantum/,QAU,63076.5,http://www.quantumproject.org/,https://t.me/QuantumProject
+392,Primas,https://coinmarketcap.com/currencies/primas/,PST,220236.0,https://primas.io/,
+393,OracleChain,https://coinmarketcap.com/currencies/oraclechain/,OCT,212503.0,http://oraclechain.io/,
+394,Internet of People,https://coinmarketcap.com/currencies/internet-of-people/,IOP,1234360.0,"http://iop.global/ , http://iopcommunity.com/","https://t.me/IoPofficial , https://discord.gg/gsRKp6T"
+395,DAO.Casino,https://coinmarketcap.com/currencies/dao-casino/,BET,331958.0,https://dao.casino/,https://t.me/daocasino
+396,Espers,https://coinmarketcap.com/currencies/espers/,ESP,118930.0,"http://espers.io/ , http://cryptocoderz.com/espers.html","https://t.me/EspersCoin , https://discord.gg/hhYP8yT"
+397,Sumokoin,https://coinmarketcap.com/currencies/sumokoin/,SUMO,437823.0,https://www.sumokoin.org/,
+398,QunQun,https://coinmarketcap.com/currencies/qunqun/,QUN,4849890.0,https://qunqun.io/,"https://t.me/qunqun_io , https://beechat.io/join?g%3D7a6837bab7f44709a28bdd24a205d810%26lang%3Dzh"
+399,Aventus,https://coinmarketcap.com/currencies/aventus/,AVT,1473110.0,https://aventus.io/,
+400,UFO Coin,https://coinmarketcap.com/currencies/ufo-coin/,UFO,118536.0,https://ufocoin.net/,https://t.me/UFOCoin
+401,Social Send,https://coinmarketcap.com/currencies/social-send/,SEND,285613.0,http://socialsend.io/,https://discord.gg/xJthHER/
+402,Russian Miner Coin,https://coinmarketcap.com/currencies/russian-mining-coin/,RMC,107968.0,https://rmc.one/,"https://t.me/RMC_ICO , https://t.me/RMC_ENG"
+403,Magnet,https://coinmarketcap.com/currencies/magnet/,MAG,296761.0,http://magnetwork.io/,
+404,Mysterium,https://coinmarketcap.com/currencies/mysterium/,MYST,3837280.0,https://mysterium.network/,
+405,Autonio,https://coinmarketcap.com/currencies/autonio/,NIO,41538.9,https://auton.io/,https://t.me/Autonio
+406,FlypMe,https://coinmarketcap.com/currencies/flypme/,FYP,146056.0,https://flyp.me/,https://etherscan.io/token/hello@flyp.me
+407,ATLANT,https://coinmarketcap.com/currencies/atlant/,ATL,612788.0,https://atlant.io/,https://t.me/atlant_eng
+408,Vcash,https://coinmarketcap.com/currencies/vcash/,XVC,402267.0,http://vcash.info/,https://slack.vcash.info/
+409,Ecobit,https://coinmarketcap.com/currencies/ecobit/,ECOB,16139.3,http://www.ecobit.io/,https://t.me/EcobitOfficialTelegram
+410,Upfiring,https://coinmarketcap.com/currencies/upfiring/,UFR,214828.0,https://www.upfiring.com/,
+411,PinkCoin,https://coinmarketcap.com/currencies/pinkcoin/,PINK,744238.0,"http://getstarted.with.pink/ , https://pinkbuffaloz.com/",http://slack.with.pink/
+412,Bitdeal,https://coinmarketcap.com/currencies/bitdeal/,BDL,383413.0,https://bitdeal.co.in/,
+413,OBITS,https://coinmarketcap.com/currencies/obits/,OBITS,73320.1,http://www.obits.io/,
+414,Primecoin,https://coinmarketcap.com/currencies/primecoin/,XPM,250544.0,http://primecoin.io/,
+415,Innova,https://coinmarketcap.com/currencies/innova/,INN,322766.0,http://innovacoin.info/,
+416,MyWish,https://coinmarketcap.com/currencies/mywish/,WISH,224508.0,https://mywish.io/,https://t.me/MyWish_platform
+417,AudioCoin,https://coinmarketcap.com/currencies/audiocoin/,ADC,111275.0,http://www.audiocoin.eu/,https://discord.gg/v3ppcVc
+418,Etheroll,https://coinmarketcap.com/currencies/etheroll/,DICE,81247.2,"https://etheroll.com/ , https://etheroll.wordpress.com/",
+419,Pure,https://coinmarketcap.com/currencies/pure/,PURE,463946.0,https://purealt.org/,
+420,REX,https://coinmarketcap.com/currencies/real-estate-tokens/,REX,5628.84,http://rexmls.com/,https://discordapp.com/invite/BSe7j4C
+421,CVCoin,https://coinmarketcap.com/currencies/cvcoin/,CVCOIN,23085.1,https://crypviser.net,https://t.me/crypviser
+422,Regalcoin,https://coinmarketcap.com/currencies/regalcoin/,REC,128249.0,https://regalcoin.co/,
+423,Pluton,https://coinmarketcap.com/currencies/pluton/,PLU,13856.2,https://plutus.it/,
+424,Exchange Union,https://coinmarketcap.com/currencies/exchange-union/,XUC,632017.0,https://www.exchangeunion.com/,"https://t.me/exchangeunioncoinhttps://exchange-union.herokuapp.com/ , https://exchange-union.slack.com/"
+425,EarthCoin,https://coinmarketcap.com/currencies/earthcoin/,EAC,290595.0,http://earthcoin.io/,
+426,Curecoin,https://coinmarketcap.com/currencies/curecoin/,CURE,123047.0,"https://curecoin.net/ , https://curecoin.io/",
+427,TrezarCoin,https://coinmarketcap.com/currencies/trezarcoin/,TZC,113928.0,http://trezarcoin.com/,
+428,AdShares,https://coinmarketcap.com/currencies/adshares/,ADST,391879.0,https://adshares.net/,https://t.me/adshares
+429,Bitmark,https://coinmarketcap.com/currencies/bitmark/,BTM,49806.9,http://bitmark.io/,https://bitmark.herokuapp.com/
+430,Lampix,https://coinmarketcap.com/currencies/lampix/,PIX,199468.0,https://www.lampix.co/,https://t.me/lampix_project
+431,Hacken,https://coinmarketcap.com/currencies/hacken/,HKN,43264.9,https://hacken.io/,https://t.me/hackenio
+432,Universal Currency,https://coinmarketcap.com/currencies/universal-currency/,UNIT,94861.3,http://www.u-currency.com/,
+433,Vsync,https://coinmarketcap.com/currencies/vsync-vsx/,VSX,96852.1,https://vsync.pw/,https://discordapp.com/invite/Arqhyqg
+434,Sprouts,https://coinmarketcap.com/currencies/sprouts/,SPRTS,171396.0,https://sproutscommunity.wordpress.com/,
+435,HelloGold,https://coinmarketcap.com/currencies/hellogold/,HGT,36630.1,"https://www.hellogold.org/ , https://www.hellogold.com/",
+436,ProChain,https://coinmarketcap.com/currencies/prochain/,PRO,1398210.0,https://chain.pro/,"https://t.me/ProChainTech , https://chain.pro/static/img/contact/weixin.jpg"
+437,Sphere,https://coinmarketcap.com/currencies/sphere/,SPHR,1308390.0,https://sphrpay.io/,
+438,HEROcoin,https://coinmarketcap.com/currencies/herocoin/,PLAY,39382.6,https://www.herocoin.io/,https://t.me/joinchat/FsEwOwtrCZMWwHokEj70Gw
+439,Crave,https://coinmarketcap.com/currencies/crave/,CRAVE,64489.0,http://www.craveproject.net/,"https://t.me/craveproject , https://discord.gg/AY6S66E"
+440,CrowdCoin,https://coinmarketcap.com/currencies/crowdcoin/,CRC,357582.0,http://crowdcoin.site/,"https://discordapp.com/invite/DfDh6U3 , https://t.me/crowdcoin"
+441,Qwark,https://coinmarketcap.com/currencies/qwark/,QWARK,385650.0,http://www.qwark.io/,
+442,Creditbit,https://coinmarketcap.com/currencies/creditbit/,CRB,584555.0,https://www.creditbit.org/,
+443,Astro,https://coinmarketcap.com/currencies/astro/,ASTRO,17294.0,https://astronaut.capital/,https://t.me/astroico
+444,CannabisCoin,https://coinmarketcap.com/currencies/cannabiscoin/,CANN,473888.0,http://cannabiscoin.net,
+445,Bela,https://coinmarketcap.com/currencies/belacoin/,BELA,421910.0,http://livebela.com/,https://belacoin.herokuapp.com/
+446,TransferCoin,https://coinmarketcap.com/currencies/transfercoin/,TX,510844.0,http://txproject.io/,
+447,DopeCoin,https://coinmarketcap.com/currencies/dopecoin/,DOPE,240153.0,http://www.dopecoin.com/,
+448,Bonpay,https://coinmarketcap.com/currencies/bonpay/,BON,60232.3,https://bonpay.com/,https://t.me/bonpay_eng
+449,B2B,https://coinmarketcap.com/currencies/b2bx/,B2B,71080.9,"https://www.b2bx.pro/ , https://b2broker.net/","https://t.me/B2BX_ICO_eng , https://open.kakao.com/o/gHLHTkC"
+450,Bitcloud,https://coinmarketcap.com/currencies/bitcloud/,BTDX,48283.9,https://bit-cloud.info/,https://t.me/joinchat/B-3sT0NDiALPTtDEU_qp5A
+451,NuBits,https://coinmarketcap.com/currencies/nubits/,USNBT,15024900.0,https://www.nubits.com,https://chat.nubits.com/
+452,Opus,https://coinmarketcap.com/currencies/opus/,OPT,94015.7,http://opus-foundation.org/,"https://t.me/opusfoundation , https://discordapp.com/invite/JJD5Gtz"
+453,SpreadCoin,https://coinmarketcap.com/currencies/spreadcoin/,SPR,742579.0,http://www.spreadcoin.info,
+454,Bitzeny,https://coinmarketcap.com/currencies/bitzeny/,ZNY,101103.0,"http://bitzeny.org/ , https://bitzeny.info/",
+455,The ChampCoin,https://coinmarketcap.com/currencies/the-champcoin/,TCC,23881.8,http://thechampcoin.com/,
+456,Riecoin,https://coinmarketcap.com/currencies/riecoin/,RIC,401682.0,http://riecoin.org/,
+457,TrueFlip,https://coinmarketcap.com/currencies/trueflip/,TFL,172364.0,"https://trueflip.io/ , https://steemit.com/@trueflip/",
+458,Auroracoin,https://coinmarketcap.com/currencies/auroracoin/,AUR,190643.0,http://auroracoin.is/,
+459,Novacoin,https://coinmarketcap.com/currencies/novacoin/,NVC,316349.0,http://novacoin.org,
+460,Memetic / PepeCoin,https://coinmarketcap.com/currencies/memetic/,MEME,709608.0,https://memetic.ai/,https://t.me/pepecoins
+461,Breakout,https://coinmarketcap.com/currencies/breakout/,BRK,312096.0,http://www.breakoutcoin.com/,
+462,HyperStake,https://coinmarketcap.com/currencies/hyperstake/,HYP,38799.4,http://hyperstake.io/,https://hyperstake.herokuapp.com/
+463,Dotcoin,https://coinmarketcap.com/currencies/dotcoin/,DOT,389769.0,https://www.cryptopia.co.nz/,
+464,IntenseCoin,https://coinmarketcap.com/currencies/intensecoin/,ITNS,52016.0,https://intensecoin.com/,https://discord.gg/f3XQgA3
+465,Blockpool,https://coinmarketcap.com/currencies/blockpool/,BPL,42624.6,https://www.blockpool.io/,https://discord.gg/v3ppcVc
+466,Pesetacoin,https://coinmarketcap.com/currencies/pesetacoin/,PTC,354809.0,http://pesetacoin.info/,https://t.me/joinchat/AAAAAEKf5_1-Yx1b2vYOaw
+467,Zero,https://coinmarketcap.com/currencies/zero/,ZER,513957.0,http://zero.finance/,
+468,Syndicate,https://coinmarketcap.com/currencies/syndicate/,SYNX,1148630.0,http://syndicateltd.net/,https://t.me/syndicateLTD
+469,VeriumReserve,https://coinmarketcap.com/currencies/veriumreserve/,VRM,288752.0,http://www.vericoin.info/veriumlaunch.html,
+470,Blitzcash,https://coinmarketcap.com/currencies/blitzcash/,BLITZ,160212.0,http://blitz.cash,
+471,GoldCoin,https://coinmarketcap.com/currencies/goldcoin/,GLD,158352.0,https://www.goldcoin.org/,https://t.me/goldcoin
+472,Wild Crypto,https://coinmarketcap.com/currencies/wild-crypto/,WILD,60327.1,https://wildcrypto.com/,
+473,Bitcoin Plus,https://coinmarketcap.com/currencies/bitcoin-plus/,XBC,321419.0,http://www.bitcoinplus.org,
+474,Synergy,https://coinmarketcap.com/currencies/synergy/,SNRG,57550.1,http://www.synergycoin.com/,https://cryptosynergy.slack.com/
+475,VIVO,https://coinmarketcap.com/currencies/vivo/,VIVO,186099.0,https://www.vivocrypto.com/,"https://t.me/VIVOcoin , https://discord.gg/vXfEEWH"
+476,Altcoin,https://coinmarketcap.com/currencies/altcoin-alt/,ALT,6442.59,http://altcoinmarketcap.com/,
+477,Indorse Token,https://coinmarketcap.com/currencies/indorse-token/,IND,551609.0,https://indorse.io/,
+478,1337,https://coinmarketcap.com/currencies/1337coin/,1337,60266.5,"https://www.1337coin.net/ , https://bitcoin.com/",https://discord.gg/pjdWntg
+479,ChainCoin,https://coinmarketcap.com/currencies/chaincoin/,CHC,104923.0,http://www.chaincoin.org/,https://discord.gg/NabdcJ7
+480,Kore,https://coinmarketcap.com/currencies/korecoin/,KORE,834523.0,http://kore.life/,
+481,PRIZM,https://coinmarketcap.com/currencies/prizm/,PZM,10243.8,http://en.prizm.club/,https://t.me/PRIZMclub
+482,Masternodecoin,https://coinmarketcap.com/currencies/masternodecoin/,MTNC,54426.9,http://www.masternodecoin.org/,
+483,Creativecoin,https://coinmarketcap.com/currencies/creativecoin/,CREA,39847.8,"https://www.creativechain.org/ , https://creativechain.net/",https://telegram.me/creativechain
+484,E-Dinar Coin,https://coinmarketcap.com/currencies/e-dinar-coin/,EDR,271114.0,https://edinarcoin.com/,https://telegram.me/EdinarCoincrypto
+485,Project Decorum,https://coinmarketcap.com/currencies/project-decorum/,PDC,180367.0,http://www.project-decorum.com/,
+486,Hubii Network,https://coinmarketcap.com/currencies/hubii-network/,HBT,28076.9,https://www.hubii.network/,"https://t.me/hubiinetwork , https://discord.gg/Nt35Qzt"
+487,BitcoinZ,https://coinmarketcap.com/currencies/bitcoinz/,BTCZ,98028.0,"https://bitcoinz.global/ , https://github.com/bitcoinz-pod/bitcoinz","https://t.me/joinchat/CDzlaRGMvBm4P2Z76sNclQ , https://discordapp.com/invite/u3dkbFs"
+488,HollyWoodCoin,https://coinmarketcap.com/currencies/hollywoodcoin/,HWC,368848.0,http://hollywoodcoin.us/,https://t.me/hollywoodcoin
+489,Adelphoi,https://coinmarketcap.com/currencies/adelphoi/,ADL,3728.1,https://www.adelphoi.io/,"https://t.me/Adelphoi , https://adel-signup.herokuapp.com/"
+490,Royal Kingdom Coin,https://coinmarketcap.com/currencies/royal-kingdom-coin/,RKC,581138.0,https://www.royalkingdomcoin.com/,
+491,BuzzCoin,https://coinmarketcap.com/currencies/buzzcoin/,BUZZ,137928.0,http://www.buzzcoin.info/,"https://t.me/joinchat/EqD7e0FNSbRzjGwBRiv5cQ , https://discordapp.com/invite/VAkqYvq"
+492,Farad,https://coinmarketcap.com/currencies/farad/,FRD,12210.4,https://farad.energy/,https://t.me/joinchat/E5ORhEN6T6yqaAk8aKJkRQ
+493,eBitcoin,https://coinmarketcap.com/currencies/ebtcnew/,EBTC,752090.0,https://ebitcoin.org/,https://t.me/ComTrust/
+494,DCORP,https://coinmarketcap.com/currencies/dcorp/,DRP,39843.7,https://www.dcorp.it/,https://t.me/joinchat/ErLl70MDUkz_ip7HsxXjGA
+495,Dai,https://coinmarketcap.com/currencies/dai/,DAI,738590.0,http://www.makerdao.com/,https://chat.makerdao.com/
+496,DNotes,https://coinmarketcap.com/currencies/dnotes/,NOTE,20761.6,http://dnotescoin.com/,
+497,Privatix,https://coinmarketcap.com/currencies/privatix/,PRIX,21250.8,https://privatix.io/,https://t.me/Privatix
+498,2GIVE,https://coinmarketcap.com/currencies/2give/,2GIVE,373468.0,https://2give.info/,
+499,vTorrent,https://coinmarketcap.com/currencies/vtorrent/,VTR,110804.0,"http://vtorrent.info/ , http://www.vtorrent.org/",
+500,vSlice,https://coinmarketcap.com/currencies/vslice/,VSL,24751.1,http://www.vslice.io/,
+501,ToaCoin,https://coinmarketcap.com/currencies/toacoin/,TOA,28883.4,http://www.toacoin.com/,
+502,Breakout Stake,https://coinmarketcap.com/currencies/breakout-stake/,BRX,61479.0,"http://www.breakoutcoin.com/ , http://breakoutenterprise.com/",
+503,Rupee,https://coinmarketcap.com/currencies/rupee/,RUP,117226.0,https://rupeeblockchain.org/,https://t.me/rupeeblockchain
+504,Social,https://coinmarketcap.com/currencies/social/,SCL,30304.8,"https://ico.nexus.social/ , https://nexus.social/",https://t.me/nexus_social
+505,Carboncoin,https://coinmarketcap.com/currencies/carboncoin/,CARBON,16405.1,http://carboncoin.cc,
+506,ExclusiveCoin,https://coinmarketcap.com/currencies/exclusivecoin/,EXCL,440403.0,http://exclusivecoin.pw,https://excl-invite.herokuapp.com/
+507,XGOX,https://coinmarketcap.com/currencies/xgox/,XGOX,95980.8,http://xgox.rocks/,"https://t.me/xgoxcoin , https://discord.gg/rpxbpqS"
+508,Bowhead,https://coinmarketcap.com/currencies/bowhead/,AHT,5208.26,https://bowheadhealth.com,
+509,TrustPlus,https://coinmarketcap.com/currencies/trustplus/,TRUST,121648.0,http://trustplus.co,
+510,Sexcoin,https://coinmarketcap.com/currencies/sexcoin/,SXC,47459.2,http://www.sexcoin.info/,
+511,DigiPulse,https://coinmarketcap.com/currencies/digipulse/,DGPT,38295.4,"https://www.digipulse.io/ , https://scrypto.io/",https://t.me/digipulse_official
+512,Ixcoin,https://coinmarketcap.com/currencies/ixcoin/,IXC,4178.35,https://www.ixcoin.net/,
+513,FORCE,https://coinmarketcap.com/currencies/force/,FOR,31521.3,https://forcecoin.io/,http://chat.forcecoin.io/
+514,Sharechain,https://coinmarketcap.com/currencies/sharechain/,SSS,14315.1,http://www.sharechain.org/,
+515,Startcoin,https://coinmarketcap.com/currencies/startcoin/,START,997506.0,https://startcoin.org/,
+516,Internxt,https://coinmarketcap.com/currencies/internxt/,INXT,33126.7,https://internxt.io/,
+517,Eroscoin,https://coinmarketcap.com/currencies/eroscoin/,ERO,216471.0,https://eroscoin.org/,https://t.me/eroscoinplatform
+518,Tokes,https://coinmarketcap.com/currencies/tokes/,TKS,383415.0,https://tokesplatform.org/,https://tokes-slack.herokuapp.com/
+519,EncryptoTel [WAVES],https://coinmarketcap.com/currencies/encryptotel/,ETT,1210.17,https://encryptotel.com/,
+520,Commodity Ad Network,https://coinmarketcap.com/currencies/commodity-ad-network/,CDX,11593.5,https://commodityadnetwork.com/,
+521,EuropeCoin,https://coinmarketcap.com/currencies/europecoin/,ERC,180036.0,https://www.europecoin.eu.org,
+522,REAL,https://coinmarketcap.com/currencies/real/,REAL,15183.2,https://www.real.markets/,
+523,NobleCoin,https://coinmarketcap.com/currencies/noblecoin/,NOBL,84774.2,"https://www.noblemovement.com , https://www.noblecoin.io/",
+524,Ellaism,https://coinmarketcap.com/currencies/ellaism/,ELLA,134299.0,"https://ellaism.org/ , https://ellaism.io/","https://discord.gg/MzQByB7 , https://t.me/ellaismcoin"
+525,WandX,https://coinmarketcap.com/currencies/wandx/,WAND,6261.51,https://www.wandx.co/,"https://t.me/wandxbeta , https://wandx.slack.com/"
+526,EquiTrader,https://coinmarketcap.com/currencies/equitrader/,EQT,26140.1,http://www.equitrader.co/,https://t.me/Equi_Trader
+527,BitBoost,https://coinmarketcap.com/currencies/bitboost/,BBT,17827.0,http://www.bitboost.net/,"https://t.me/BitBoostint , https://bitboost.slack.com/"
+528,Embers,https://coinmarketcap.com/currencies/embers/,MBRS,30598.4,https://embermine.com/,https://t.me/embermine
+529,Terracoin,https://coinmarketcap.com/currencies/terracoin/,TRC,30982.3,http://www.terracoin.info/,https://t.me/terracoin
+530,PutinCoin,https://coinmarketcap.com/currencies/putincoin/,PUT,23557.7,"https://putincoin.org , https://putincoin.info/",https://putincoin.org/chat.html
+531,ProCurrency,https://coinmarketcap.com/currencies/procurrency/,PROC,177205.0,https://www.procommerce.io/,
+532,eBoost,https://coinmarketcap.com/currencies/eboostcoin/,EBST,4110490.0,http://www.eboost.fun,
+533,Footy Cash,https://coinmarketcap.com/currencies/footy-cash/,XFT,38685.6,"http://footycash.com/ , http://beta.footycash.com/",
+534,ZrCoin,https://coinmarketcap.com/currencies/zrcoin/,ZRC,156269.0,https://zrcoin.io/,https://t.me/joinchat/AAAAAEDj28WzzuNh5j6tVg
+535,Ethbits,https://coinmarketcap.com/currencies/ethbits/,ETBS,16601.4,https://www.ethbits.com/,https://t.me/ETBS_Official
+536,APX,https://coinmarketcap.com/currencies/apx/,APX,339516.0,https://apxv.org/,https://t.me/apxventures
+537,EverGreenCoin,https://coinmarketcap.com/currencies/evergreencoin/,EGC,152793.0,http://evergreencoin.org/,
+538,Dynamic,https://coinmarketcap.com/currencies/dynamic/,DYN,938646.0,https://duality.solutions/,
+539,Zephyr,https://coinmarketcap.com/currencies/zephyr/,ZEPH,54235.7,https://zephyr.bitspark.io/,"https://t.me/joinchat/BQS59kQMk8bL74vR8NkhMg , https://discordapp.com/invite/frprsnJ"
+540,Magi,https://coinmarketcap.com/currencies/magi/,XMG,187464.0,http://coinmagi.org/,https://m-pays.slack.com/
+541,Quark,https://coinmarketcap.com/currencies/quark/,QRK,29150.1,http://www.qrknet.info/,
+542,ELTCOIN,https://coinmarketcap.com/currencies/eltcoin/,ELTCOIN,17416.5,https://www.eltcoin.tech/,"https://t.me/ELTCOIN , https://discord.gg/PHZUccd"
+543,SmartBillions,https://coinmarketcap.com/currencies/smartbillions/,SMART,12732.9,https://smartbillions.com/,"https://t.me/SmartBillionsGroup , https://smartbillions.slack.com/"
+544,HunterCoin,https://coinmarketcap.com/currencies/huntercoin/,HUC,125382.0,http://huntercoin.org/,
+545,Linx,https://coinmarketcap.com/currencies/linx/,LINX,91600.1,https://mylinx.io/,
+546,Goodomy,https://coinmarketcap.com/currencies/goodomy/,GOOD,1842.52,http://goodomy.com/,https://t.me/Goodomy_community
+547,CHIPS,https://coinmarketcap.com/currencies/chips/,CHIPS,3581.92,,
+548,Halcyon,https://coinmarketcap.com/currencies/halcyon/,HAL,6018.84,http://halcyon.top/,
+549,Condensate,https://coinmarketcap.com/currencies/condensate/,RAIN,64915.7,http://condensate.co,
+550,Qvolta,https://coinmarketcap.com/currencies/qvolta/,QVT,56066.0,https://qvolta.com/,https://t.me/qvolta
+551,LuckChain,https://coinmarketcap.com/currencies/luckchain/,BASH,4301.0,http://luckchain.org/,
+552,MarteXcoin,https://coinmarketcap.com/currencies/martexcoin/,MXT,6197.63,http://martexcoin.org/,https://t.me/martexcoin
+553,CryptoPing,https://coinmarketcap.com/currencies/cryptoping/,PING,62037.5,https://cryptoping.tech/,https://discordapp.com/invite/s4f7JHA
+554,e-Gulden,https://coinmarketcap.com/currencies/e-gulden/,EFL,292241.0,http://www.e-gulden.org,
+555,Karbo,https://coinmarketcap.com/currencies/karbowanec/,KRB,95093.2,"http://karbowanec.com/ , https://karbo.io/",
+556,WorldCoin,https://coinmarketcap.com/currencies/worldcoin/,WDC,44364.7,http://worldcoin.global/,
+557,Anoncoin,https://coinmarketcap.com/currencies/anoncoin/,ANC,5848.71,https://anoncoin.net/,
+558,bitJob,https://coinmarketcap.com/currencies/student-coin/,STU,48539.4,https://bitjob.io/,"https://t.me/bitjob , https://weixin.qq.com/g/AjPEZ_jxP0UO3wWg"
+559,Interstellar Holdings,https://coinmarketcap.com/currencies/interstellar-holdings/,HOLD,41236.7,https://www.interstellarcoin.com/,https://discord.gg/aMbYC3y
+560,TheGCCcoin,https://coinmarketcap.com/currencies/thegcccoin/,GCC,22700.6,https://www.thegcccoin.com/,
+561,FLiK,https://coinmarketcap.com/currencies/flik/,FLIK,13803.0,http://www.theflik.io/,
+562,Crypto Bullion,https://coinmarketcap.com/currencies/cryptogenic-bullion/,CBX,6623.87,http://cryptobullion.io/,https://t.me/joinchat/FkBLVEimXQscVn1cetdd4g
+563,Denarius,https://coinmarketcap.com/currencies/denarius-dnr/,DNR,64084.1,https://denarius.io/,https://discord.gg/mDTM3JN
+564,Centurion,https://coinmarketcap.com/currencies/centurion/,CNT,18414.8,http://www.centurionlab.org/,
+565,Ethereum Cash,https://coinmarketcap.com/currencies/ethereumcash/,ECASH,296765.0,https://www.ethereumcash.technology/,
+566,ParkByte,https://coinmarketcap.com/currencies/parkbyte/,PKB,301942.0,http://www.parkbyte.com/,
+567,CarTaxi Token,https://coinmarketcap.com/currencies/cartaxi-token/,CTX,8986.91,https://cartaxi.io/,https://t.me/cartaxi_io
+568,Starta,https://coinmarketcap.com/currencies/starta/,STA,6041.13,https://startaico.com/,https://t.me/starta_ico
+569,Megacoin,https://coinmarketcap.com/currencies/megacoin/,MEC,109604.0,https://www.megacoin.eu/,
+570,FlutterCoin,https://coinmarketcap.com/currencies/fluttercoin/,FLT,21072.2,http://www.fluttercoin.me/,
+571,Bitcoin Scrypt,https://coinmarketcap.com/currencies/bitcoin-scrypt/,BTCS,27602.3,http://theotherbitcoin.com,
+572,DigitalPrice,https://coinmarketcap.com/currencies/digitalprice/,DP,52377.1,"http://digitalprice.org/ , https://scrypto.io/",https://digitalprice-team.slack.com/join/shared_invite/enQtMjUxODUxMjA3Njk3LTk2NjZlMTk0ZWQ3ODQ2ZDE3Y2VlMjY5MDdkY2FhYTIzMTVlYWFkZWNkMTkyZTBhODJkY2E0NTdhZWQzM2Y5NGE
+573,BlueCoin,https://coinmarketcap.com/currencies/bluecoin/,BLU,6227.18,http://www.bluecoin.io/,https://t.me/joinchat/CB8D9A8jicz78p02QWTI6w
+574,Monkey Project,https://coinmarketcap.com/currencies/monkey-project/,MONK,103764.0,http://monkey.community/,https://discord.gg/wTaF6qZ
+575,MCAP,https://coinmarketcap.com/currencies/mcap/,MCAP,196079.0,"https://bitcoingrowthfund.com/mcap , https://www.mcaplabs.com/",
+576,NEVERDIE,https://coinmarketcap.com/currencies/neverdie/,NDC,20886.2,https://neverdie.com/,https://discord.gg/tQdwYkc
+577,STRAKS,https://coinmarketcap.com/currencies/straks/,STAK,40945.2,https://www.straks.io/,https://discord.gg/5gzvadZ
+578,Yocoin,https://coinmarketcap.com/currencies/yocoin/,YOC,20223.0,http://www.yocoin.org/,
+579,Dinastycoin,https://coinmarketcap.com/currencies/dinastycoin/,DCY,18576.5,http://www.dinastycoin.com/,
+580,Zeitcoin,https://coinmarketcap.com/currencies/zeitcoin/,ZEIT,11139.4,http://www.zeit-coin.net,
+581,Gimli,https://coinmarketcap.com/currencies/gimli/,GIM,10309.2,https://gimli.io/,"https://t.me/thegimliproject , https://discordapp.com/invite/YCx3Fu7"
+582,Unify,https://coinmarketcap.com/currencies/unify/,UNIFY,58463.3,http://www.unify.today/,"https://t.me/joinchat/GaJPt0Ls6GxPhCTPXS3a4w , https://discordapp.com/channels/347900830696996865/347902048316162050"
+583,ArcticCoin,https://coinmarketcap.com/currencies/arcticcoin/,ARC,40473.9,https://arcticcoin.org/,
+584,Abjcoin,https://coinmarketcap.com/currencies/abjcoin/,ABJ,27962.7,https://www.abjcoin.org/,https://t.me/joinchat/GsIPTEPs0w9qTLNYZ_2IeQ
+585,Primalbase Token,https://coinmarketcap.com/currencies/primalbase/,PBT,838800.0,https://primalbase.com/,https://t.me/joinchat/AAAAAELBNMavaVUQvMRffQ
+586,Bitradio,https://coinmarketcap.com/currencies/bitradio/,BRO,38639.7,http://www.bitrad.io/,https://telegram.me/bitradio
+587,Emphy,https://coinmarketcap.com/currencies/emphy/,EPY,7696.99,https://emphy.io/,"https://t.me/joinchat/HCXRaUMf41kmp6jtG1qxxg , https://emphyofficial.slack.com/"
+588,CampusCoin,https://coinmarketcap.com/currencies/campuscoin/,CMPCO,122599.0,https://www.campuscoinproject.org/,https://discord.gg/yEFZ9R3
+589,Greencoin,https://coinmarketcap.com/currencies/greencoin/,GRE,14284.9,http://www.grcoin.com/,
+590,Renos,https://coinmarketcap.com/currencies/renos/,RNS,19677.4,https://renoscoin.com/,
+591,PopularCoin,https://coinmarketcap.com/currencies/popularcoin/,POP,130070.0,https://www.popularcoin.com/,
+592,Hawala.Today,https://coinmarketcap.com/currencies/hawala-today/,HAT,45976.3,https://hawala.today/,https://t.me/hawala_chat
+593,PureVidz,https://coinmarketcap.com/currencies/purevidz/,VIDZ,534989.0,http://purevidz.net/,
+594,Jetcoin,https://coinmarketcap.com/currencies/jetcoin/,JET,23715.5,http://www.jetcoininstitute.com/,
+595,Etheriya,https://coinmarketcap.com/currencies/etheriya/,RIYA,4486.63,http://etheriya.com/,
+596,InsaneCoin,https://coinmarketcap.com/currencies/insanecoin-insn/,INSN,35576.7,http://www.insanecoin.com,https://telegram.me/joinchat/EC_Y1UCga8SkXEBnMV8jew
+597,Ethereum Gold,https://coinmarketcap.com/currencies/ethereum-gold/,ETG,275025.0,https://www.ethereumgold.info/,
+598,Bata,https://coinmarketcap.com/currencies/bata/,BTA,18274.3,http://www.bata.io/,"https://t.me/batacurrency , https://discordapp.com/invite/SM8jQTQ"
+599,Copico,https://coinmarketcap.com/currencies/copico/,XCPO,56766.9,http://www.copico.io/,"https://t.me/CopicoOfficial , https://discord.gg/xFuASE5"
+600,Electra,https://coinmarketcap.com/currencies/electra/,ECA,310048.0,https://electraproject.org/,"https://t.me/Electracoin , https://discordapp.com/invite/B8F7Jdv"
+601,Version,https://coinmarketcap.com/currencies/version/,V,3888.23,http://version2.org/,
+602,Moin,https://coinmarketcap.com/currencies/moin/,MOIN,54882.5,https://discovermoin.com/,
+603,ERC20,https://coinmarketcap.com/currencies/erc20/,ERC20,16663.0,http://erc20.space/,https://t.me/erc20coin
+604,Scorecoin,https://coinmarketcap.com/currencies/scorecoin/,SCORE,28080.3,http://scorecoin.net/,
+605,Darcrus,https://coinmarketcap.com/currencies/darcrus/,DAR,592.89,https://darcr.us/,"https://t.me/darcrus , https://discordapp.com/invite/K7z9DMv"
+606,FujiCoin,https://coinmarketcap.com/currencies/fujicoin/,FJC,40996.3,http://www.fujicoin.org/,
+607,Unitus,https://coinmarketcap.com/currencies/unitus/,UIS,26682.1,http://unitus.online,http://unitus.herokuapp.com/
+608,SmartCoin,https://coinmarketcap.com/currencies/smartcoin/,SMC,20301.9,http://smartcoin.cc/,https://webchat.freenode.net/?channels=smartcoin
+609,Cryptonite,https://coinmarketcap.com/currencies/cryptonite/,XCN,87485.5,http://cryptonite.info,
+610,Machinecoin,https://coinmarketcap.com/currencies/machinecoin/,MAC,6675.61,http://www.machinecoin.org,
+611,FundYourselfNow,https://coinmarketcap.com/currencies/fundyourselfnow/,FYN,10463.2,https://www.fundyourselfnow.com/,https://t.me/fundyourselfnow
+612,42-coin,https://coinmarketcap.com/currencies/42-coin/,42,50871.6,http://42-coin.org/,https://kiwiirc.com/client/chat.freenode.net/##42coin
+613,Adzcoin,https://coinmarketcap.com/currencies/adzcoin/,ADZ,15580.1,https://adzcoin.org/,
+614,NetCoin,https://coinmarketcap.com/currencies/netcoin/,NET,38852.6,http://netcoin.io,https://discord.gg/RCh3xsp
+615,LiteDoge,https://coinmarketcap.com/currencies/litedoge/,LDOGE,6257.16,"http://www.ldoge.tech/ , http://ldoge.info/",
+616,Canada eCoin,https://coinmarketcap.com/currencies/canada-ecoin/,CDN,27443.1,http://www.canadaecoin.ca/,
+617,Desire,https://coinmarketcap.com/currencies/desire/,DSR,104351.0,http://www.desire-crypto.com/,https://discord.gg/wrk9uHB
+618,Steneum Coin,https://coinmarketcap.com/currencies/steneum-coin/,STN,255792.0,http://www.steneum.com/,https://t.me/steneum
+619,InflationCoin,https://coinmarketcap.com/currencies/inflationcoin/,IFLT,2411.33,http://inflationcoin.org/,https://t.me/Inflationcoin
+620,Oceanlab,https://coinmarketcap.com/currencies/oceanlab/,OCL,11207.8,https://www.oceanlab.eu/,
+621,Cream,https://coinmarketcap.com/currencies/cream/,CRM,13803.3,https://creamcoin.com/,
+622,DraftCoin,https://coinmarketcap.com/currencies/draftcoin/,DFT,52233.8,http://btcdraft.com/,https://t.me/btcdraftcoins
+623,Elementrem,https://coinmarketcap.com/currencies/elementrem/,ELE,2087.42,http://www.elementrem.org/,
+624,Influxcoin,https://coinmarketcap.com/currencies/influxcoin/,INFX,237788.0,http://influxcoin.xyz/,
+625,Kolion,https://coinmarketcap.com/currencies/kolion/,KLN,127686.0,http://kolionovo.org/,
+626,AltCommunity Coin,https://coinmarketcap.com/currencies/altcommunity-coin/,ALTCOM,27430.7,http://altcoincommunity.co/,https://discord.gg/8bY2rjX
+627,Accelerator Network,https://coinmarketcap.com/currencies/accelerator-network/,ACC,39578.1,https://accelerator.network/,"https://t.me/acc_token , http://slack.accelerator.network/"
+628,MazaCoin,https://coinmarketcap.com/currencies/mazacoin/,MZC,16328.8,http://www.mazacoin.org/,https://kiwiirc.com/client/chat.freenode.net/?nick=maza|?&theme=cli#maza
+629,Legends Room,https://coinmarketcap.com/currencies/legends-room/,LGD,1135770.0,https://www.legendsroom.vegas/,
+630,Minereum,https://coinmarketcap.com/currencies/minereum/,MNE,48666.6,https://www.minereum.com/,https://t.me/MinereumToken
+631,Bytecent,https://coinmarketcap.com/currencies/bytecent/,BYC,410467.0,http://bytecent.com,
+632,Fastcoin,https://coinmarketcap.com/currencies/fastcoin/,FST,20392.9,http://www.fastcoin.ca/,https://fastcoinchat.slack.com/join/shared_invite/MjIzNDI5MTM0Mzg4LTE1MDIxMzk3MzAtMDAzMzliMTMyOQ
+633,KekCoin,https://coinmarketcap.com/currencies/kekcoin/,KEK,29317.8,http://kekcoin.co/,https://t.me/KekcoinOfficial
+634,UnbreakableCoin,https://coinmarketcap.com/currencies/unbreakablecoin/,UNB,780938.0,http://www.unbreakablecoin.com/,
+635,Orbitcoin,https://coinmarketcap.com/currencies/orbitcoin/,ORB,3613.04,http://orbitcoin.org/,
+636,Miners' Reward Token,https://coinmarketcap.com/currencies/miners-reward-token/,MRT,20647.3,http://wavescommunity.com/miners-reward-token/,
+637,AmsterdamCoin,https://coinmarketcap.com/currencies/amsterdamcoin/,AMS,20912.8,http://amsterdamcoin.com/,
+638,SagaCoin,https://coinmarketcap.com/currencies/sagacoin/,SAGA,497746.0,https://sagacoin.net/,https://t.me/joinchat/HXGeqw7tcjDU9UcpRxf0Lg
+639,CryptoCarbon,https://coinmarketcap.com/currencies/cryptocarbon/,CCRB,40776.2,https://cryptocarbon.co.uk/,
+640,DFSCoin,https://coinmarketcap.com/currencies/dfscoin/,DFS,190437.0,http://dfscoins.com/,"https://discord.gg/JY9awN4 , https://dfscoin.herokuapp.com/"
+641,TeslaCoin,https://coinmarketcap.com/currencies/teslacoin/,TES,20377.7,http://tesla-coin.com/,
+642,Smart Investment Fund Token,https://coinmarketcap.com/currencies/smart-investment-fund-token/,SIFT,1611.73,https://smartift.com/,
+643,FuckToken,https://coinmarketcap.com/currencies/fucktoken/,FUCK,9219.26,https://fucktoken.com/,https://t.me/FuckToken
+644,CryptoForecast,https://coinmarketcap.com/currencies/cryptoforecast/,CFT,17582.8,https://cryptoforecast.com/,https://t.me/CryptoForecastint
+645,HitCoin,https://coinmarketcap.com/currencies/hitcoin/,HTC,2485.61,http://hitcoininfo.com/,
+646,Digitalcoin,https://coinmarketcap.com/currencies/digitalcoin/,DGC,9200.27,"http://digitalcoin.co , https://digitalcoin.tech/",
+647,Authorship,https://coinmarketcap.com/currencies/authorship/,ATS,47808.0,http://authorship.com/,
+648,CoinonatX,https://coinmarketcap.com/currencies/coinonatx/,XCXT,34971.1,https://community.coinonatx.io/,https://discord.gg/P9urZYT
+649,ICO OpenLedger,https://coinmarketcap.com/currencies/ico-openledger/,ICOO,3894.91,https://icoo.io/,
+650,BiblePay,https://coinmarketcap.com/currencies/biblepay/,BBP,1825.18,https://biblepay.org/,
+651,AurumCoin,https://coinmarketcap.com/currencies/aurumcoin/,AU,2164.39,"http://www.aurumcoin.com/ , http://www.aurumcoin-au.com/",
+652,Capricoin,https://coinmarketcap.com/currencies/capricoin/,CPC,941049.0,http://capricoin.org/,
+653,CryptoInsight,https://coinmarketcap.com/currencies/trackr/,TKR,10189.1,http://cryptoinsight.io,https://discordapp.com/invite/yxq6JVY
+654,MACRON,https://coinmarketcap.com/currencies/macron/,MCRN,29704.3,,
+655,UltraCoin,https://coinmarketcap.com/currencies/ultracoin/,UTC,22114.2,http://ultracoin.io/,
+656,FuelCoin,https://coinmarketcap.com/currencies/fuelcoin/,FC2,7586.76,http://www.fuelcoin.org/,
+657,Netko,https://coinmarketcap.com/currencies/netko/,NETKO,3941.08,http://netko.tech/,
+658,Zetacoin,https://coinmarketcap.com/currencies/zetacoin/,ZET,22327.8,http://www.zetac.org/,http://webchat.freenode.net/
+659,Ace,https://coinmarketcap.com/currencies/ace/,ACE,426241.0,https://tokenstars.com/en/ace,https://t.me/TokenStars_en
+660,Woodcoin,https://coinmarketcap.com/currencies/woodcoin/,LOG,9935.7,http://woodcoin.org/,
+661,Zennies,https://coinmarketcap.com/currencies/zennies/,ZENI,8806.81,http://zeni.zone/,
+662,StarCredits,https://coinmarketcap.com/currencies/starcredits/,STRC,2623.3,https://backto.earth/,
+663,I0Coin,https://coinmarketcap.com/currencies/i0coin/,I0C,5314.43,http://izerocoin.org,
+664,EthBet,https://coinmarketcap.com/currencies/ethbet/,EBET,4732.3,https://ethbet.io/,
+665,Tracto,https://coinmarketcap.com/currencies/tracto/,TRCT,4614.76,http://www.tracto.org/,
+666,iTicoin,https://coinmarketcap.com/currencies/iticoin/,ITI,7834.79,http://iticoin.com/,
+667,QubitCoin,https://coinmarketcap.com/currencies/qubitcoin/,Q2C,5882.9,https://qubitcoin.cc/,
+668,Atomic Coin,https://coinmarketcap.com/currencies/atomic-coin/,ATOM,81581.3,https://www.atomicproject.org/,
+669,Deutsche eMark,https://coinmarketcap.com/currencies/deutsche-emark/,DEM,12653.3,http://deutsche-emark.de/,
+670,SkinCoin,https://coinmarketcap.com/currencies/skincoin/,SKIN,17411.0,https://skincoin.org/,https://telegram.me/skincoin
+671,Growers International,https://coinmarketcap.com/currencies/growers-international/,GRWI,19912.0,http://growersintl.com/coin/,
+672,Trollcoin,https://coinmarketcap.com/currencies/trollcoin/,TROLL,5809.11,http://trollcoinbase.com,
+673,ShadowCash,https://coinmarketcap.com/currencies/shadowcash/,SDC,765.286,http://shadowproject.io/,
+674,Veltor,https://coinmarketcap.com/currencies/veltor/,VLT,3047.91,,
+675,Confido,https://coinmarketcap.com/currencies/confido/,CFD,15435.7,"http://confido.io/ , https://medium.com/@Confido.io",https://t.me/joinchat/GB_OvkRMT0F4YkU-nz4y-g
+676,Nekonium,https://coinmarketcap.com/currencies/nekonium/,NUKO,5223.28,https://nekonium.github.io/,https://discordapp.com/invite/C8mJg44
+677,Triangles,https://coinmarketcap.com/currencies/triangles/,TRI,5380.45,https://www.triangles.network/,https://discordapp.com/invite/F8vw8E
+678,Visio,https://coinmarketcap.com/currencies/visio/,VISIO,23586.5,http://www.visioplatform.com/,
+679,Kurrent,https://coinmarketcap.com/currencies/kurrent/,KURT,36067.5,http://kurrentproject.com/,
+680,BitBar,https://coinmarketcap.com/currencies/bitbar/,BTB,1734.06,http://bitbar.co/,
+681,Eternity,https://coinmarketcap.com/currencies/eternity/,ENT,7983.7,http://ent.eternity-group.org/,
+682,HOdlcoin,https://coinmarketcap.com/currencies/hodlcoin/,HODL,9538.14,http://hodlcoin.com,
+683,PostCoin,https://coinmarketcap.com/currencies/postcoin/,POST,162697.0,https://postcoin.top/,https://telegram.me/postcoinofficial
+684,HoboNickels,https://coinmarketcap.com/currencies/hobonickels/,HBN,2547.5,http://hobonickels.info/,
+685,BigUp,https://coinmarketcap.com/currencies/bigup/,BIGUP,2613.03,http://bigup.club/,
+686,Bitcurrency,https://coinmarketcap.com/currencies/bitcurrency/,BTCR,2207.65,,
+687,Bitcoin Red,https://coinmarketcap.com/currencies/bitcoin-red/,BTCRED,104007.0,http://www.bitcoinred.io/,
+688,SmileyCoin,https://coinmarketcap.com/currencies/smileycoin/,SMLY,3773.32,http://tutor-web.info,
+689,Elcoin,https://coinmarketcap.com/currencies/elcoin-el/,EL,30844.2,https://elcoin.space/,
+690,DaxxCoin,https://coinmarketcap.com/currencies/daxxcoin/,DAXX,18142.6,https://daxxcoin.org/,
+691,Kobocoin,https://coinmarketcap.com/currencies/kobocoin/,KOBO,4338.32,http://kobocoin.com,
+692,Aricoin,https://coinmarketcap.com/currencies/aricoin/,ARI,72448.4,https://aricoin.org/,
+693,PoSToken,https://coinmarketcap.com/currencies/postoken/,POS,45878.6,https://postoken.org/,https://t.me/PoSToken
+694,GAIA,https://coinmarketcap.com/currencies/gaia/,GAIA,1448.76,http://gaiaplatform.com/,
+695,Link Platform,https://coinmarketcap.com/currencies/link-platform/,LNK,5317.33,https://ethereum.link/,
+696,Bitpark Coin,https://coinmarketcap.com/currencies/bitpark-coin/,BPC,625.962,https://bitpark.net/,
+697,TittieCoin,https://coinmarketcap.com/currencies/tittiecoin/,TTC,21801.0,http://tittiecoin.com,
+698,iEthereum,https://coinmarketcap.com/currencies/iethereum/,IETH,65908.7,http://iethereum.trade/,http://t.me/joinchat/GHsFXg8gMQkTIBUPArpo1g
+699,Billionaire Token,https://coinmarketcap.com/currencies/billionaire-token/,XBL,55688.2,https://billionairetoken.com/,
+700,PetroDollar,https://coinmarketcap.com/currencies/petrodollar/,XPD,17809.5,http://petrodollar.org/,
+701,Happycoin,https://coinmarketcap.com/currencies/happycoin/,HPC,33428.4,http://happycointech.org/,
+702,Octanox,https://coinmarketcap.com/currencies/octanox/,OTX,5502.75,https://octanox.org/,https://t.me/joinchat/D56R00Hi-wyipBdrd7uNpw
+703,Bitstar,https://coinmarketcap.com/currencies/bitstar/,BITS,1670.72,https://www.bitstarcoin.com/,
+704,PlatinumBAR,https://coinmarketcap.com/currencies/platinumbar/,XPTX,8269.9,http://platinumbar.io,
+705,Fantomcoin,https://coinmarketcap.com/currencies/fantomcoin/,FCN,8121.43,http://fantomcoin.org/,
+706,Piggycoin,https://coinmarketcap.com/currencies/piggycoin/,PIGGY,19926.2,http://piggy-coin.com/,
+707,TrumpCoin,https://coinmarketcap.com/currencies/trumpcoin/,TRUMP,8417.73,http://www.trumpcoin.com,
+708,DROXNE,https://coinmarketcap.com/currencies/droxne/,DRXNE,14389.0,http://droxne.net/,"https://telegram.dog/droxne , https://discordapp.com/invite/RCMqw9u"
+709,Ccore,https://coinmarketcap.com/currencies/ccore/,CCO,19520.8,https://ccore.azureedge.net/,"https://t.me/ccore_io , https://t.me/ccore_news"
+710,WavesGo,https://coinmarketcap.com/currencies/wavesgo/,WGO,4053.3,http://www.wavesgo.com/wgo.html,
+711,WhaleCoin,https://coinmarketcap.com/currencies/whalecoin/,WHL,11908.1,https://whalecoin.org/,
+712,BlakeStar,https://coinmarketcap.com/currencies/blakestar/,BLAS,23754.7,http://www.blakestar.io/,"https://t.me/BlakeStarCoin , https://discordapp.com/invite/hYvsCza"
+713,LanaCoin,https://coinmarketcap.com/currencies/lanacoin/,LANA,15082.5,https://lanacoin.com/,
+714,Nyancoin,https://coinmarketcap.com/currencies/nyancoin/,NYAN,2533.39,https://www.nyancoin.info/,
+715,AdCoin,https://coinmarketcap.com/currencies/adcoin/,ACC,38990.5,https://www.getadcoin.com/,https://t.me/adcoinacc
+716,Crystal Clear ,https://coinmarketcap.com/currencies/crystal-clear/,CCT,15993.1,http://crystal-clear.io/,
+717,Sugar Exchange,https://coinmarketcap.com/currencies/sugar-exchange/,SGR,86209.1,http://sugarexchange.io/,https://t.me/joinchat/GCd1KBFberV538lleS0kZQ
+718,SuperCoin,https://coinmarketcap.com/currencies/supercoin/,SUPER,18520.4,https://supercoin.nl/,
+719,Zlancer,https://coinmarketcap.com/currencies/zcash-gold/,ZCG,16793.3,"http://zlancer.net/ , http://zcashgold.net/",https://t.me/joinchat/Gy7OKkP5__4Xy-eWsEldRQ
+720,DigiCube,https://coinmarketcap.com/currencies/digicube/,CUBE,420978.0,http://www.freestaking.com,
+721,SwagBucks,https://coinmarketcap.com/currencies/swagbucks/,BUCKS,13843.6,,
+722,Titcoin,https://coinmarketcap.com/currencies/titcoin/,TIT,15718.2,http://www.joy-toilet.com/titcoin/,
+723,Guncoin,https://coinmarketcap.com/currencies/guncoin/,GUN,10094.6,http://www.guncoin.info/,
+724,Rimbit,https://coinmarketcap.com/currencies/rimbit/,RBT,196953.0,http://www.rimbit.com,
+725,Colossuscoin V2,https://coinmarketcap.com/currencies/colossuscoin-v2/,CV2,1973.84,http://colossuscoin.org,
+726,Prototanium,https://coinmarketcap.com/currencies/prototanium/,PR,4622.8,http://prototanium.uno/,
+727,Grimcoin,https://coinmarketcap.com/currencies/grimcoin/,GRIM,742.921,http://reaper.rocks/,https://discord.gg/uUQNf5G
+728,Opal,https://coinmarketcap.com/currencies/opal/,OPAL,7820.33,http://www.opal-coin.com,
+729,Giga Watt Token,https://coinmarketcap.com/currencies/giga-watt-token/,WTT,46083.0,http://www.giga-watt.com/,https://t.me/wtt_token
+730,Signatum,https://coinmarketcap.com/currencies/signatum/,SIGT,1612.16,https://signatum.org/,
+731,Unity Ingot,https://coinmarketcap.com/currencies/unity-ingot/,UNY,25967.3,https://unityingot.com/,
+732,Xios,https://coinmarketcap.com/currencies/xios/,XIOS,10732.5,http://www.xioscoin.com/,https://discord.gg/qdxsCxC
+733,GoldBlocks,https://coinmarketcap.com/currencies/goldblocks/,GB,4203.23,http://goldblocks.eu/,
+734,StarCash Network,https://coinmarketcap.com/currencies/starcash-network/,STARS,14533.4,http://starcash.co/,https://t.me/joinchat/FI0zqw69dJJEsXoq-DzBCQ
+735,Sterlingcoin,https://coinmarketcap.com/currencies/sterlingcoin/,SLG,6462.32,http://sterlingcoin.org/,
+736,OctoCoin,https://coinmarketcap.com/currencies/octocoin/,888,10706.2,http://octocoinfoundation.org/,
+737,Dashcoin,https://coinmarketcap.com/currencies/dashcoin/,DSH,6340.71,http://dashcoin.info/,
+738,Phoenixcoin,https://coinmarketcap.com/currencies/phoenixcoin/,PXC,4924.18,http://phoenixcoin.org/,
+739,8Bit,https://coinmarketcap.com/currencies/8bit/,8BIT,2541.07,http://www.8-bit.ga/,
+740,MojoCoin,https://coinmarketcap.com/currencies/mojocoin/,MOJO,24174.3,https://mojocoin.org/,
+741,Ammo Reloaded,https://coinmarketcap.com/currencies/ammo-rewards/,AMMO,13221.8,http://ammoreloaded.io/,https://discord.gg/E3cWfkx
+742,Cryptojacks,https://coinmarketcap.com/currencies/cryptojacks/,CJ,43447.0,http://cryptojacks.com/,
+743,Joulecoin,https://coinmarketcap.com/currencies/joulecoin/,XJO,4325.92,http://www.jouleco.in/,https://discord.gg/RaWB3uE
+744,Advanced Internet Blocks,https://coinmarketcap.com/currencies/advanced-internet-blocks/,AIB,1619.56,http://aib.iobond.com/,
+745,RedCoin,https://coinmarketcap.com/currencies/redcoin/,RED,7401.5,http://redcoin.pw/,
+746,ChanCoin,https://coinmarketcap.com/currencies/chancoin/,CHAN,16600.7,https://chancoin.org/,https://discordapp.com/invite/wCA5wN5
+747,Pakcoin,https://coinmarketcap.com/currencies/pakcoin/,PAK,4506.64,http://www.pakcoin.io/,http://t.me/pakcoingroup
+748,Bitcoin Fast,https://coinmarketcap.com/currencies/bitcoinfast/,BCF,13466.4,http://bitcoinfast.co/,
+749,BlockPay,https://coinmarketcap.com/currencies/blockpay/,BLOCKPAY,4224.86,https://blockpay.ch/,
+750,Argentum,https://coinmarketcap.com/currencies/argentum/,ARG,11129.1,http://www.argentum.io/,https://webchat.freenode.net/?channels=#ARGCurrency
+751,FUNCoin,https://coinmarketcap.com/currencies/funcoin/,FUNC,22061.3,http://www.funcoin.io/,https://telegram.me/FUNCoin_En
+752,GoldReserve,https://coinmarketcap.com/currencies/goldreserve/,XGR,2106.42,http://www.goldreservecoin.com/,
+753,Dollarcoin,https://coinmarketcap.com/currencies/dollarcoin/,DLC,7956.15,,
+754,HiCoin,https://coinmarketcap.com/currencies/hicoin/,XHI,34889.9,http://xhicoin.com/,
+755,Ethereum Dark,https://coinmarketcap.com/currencies/ethereum-dark/,ETHD,325563.0,https://www.ethereumdark.net/,
+756,Mineum,https://coinmarketcap.com/currencies/mineum/,MNM,1420.8,https://mineum.org/,
+757,Chronos,https://coinmarketcap.com/currencies/chronos/,CRX,6902.23,http://chronos-coin.com/,
+758,KushCoin,https://coinmarketcap.com/currencies/kushcoin/,KUSH,2278.79,https://kushcoin.co,
+759,Onix,https://coinmarketcap.com/currencies/onix/,ONX,9771.45,http://www.onixcoin.com/,https://t.me/onixcoin
+760,UniCoin,https://coinmarketcap.com/currencies/unicoin/,UNIC,1211.46,http://unicoins.tumblr.com/,
+761,Dix Asset,https://coinmarketcap.com/currencies/dix-asset/,DIX,18390.4,https://www.dixassetcoin.net/,https://t.me/DixAssetCoin
+762,FinCoin,https://coinmarketcap.com/currencies/fincoin/,FNC,650.211,http://fincoin.co/,
+763,Independent Money System,https://coinmarketcap.com/currencies/independent-money-system/,IMS,85856.5,http://independentmoneysystem.com/,
+764,PayCoin,https://coinmarketcap.com/currencies/paycoin2/,XPY,3339.43,http://www.paycoin.com,
+765,Ratecoin,https://coinmarketcap.com/currencies/ratecoin/,XRA,2385.64,https://stakeminers.com/ratecoin/ratecoin.html,
+766,CannaCoin,https://coinmarketcap.com/currencies/cannacoin/,CCN,2040.93,http://www.cannacoin.tech/,
+767,Pioneer Coin,https://coinmarketcap.com/currencies/pioneer-coin/,PCOIN,25883.3,https://pioneercoin.com/,https://t.me/joinchat/F1zHDA2qvbmuxzCau5lSzQ
+768,Bit20,https://coinmarketcap.com/currencies/bit20/,BTWTY,6302.67,http://www.bittwenty.com/,https://t.me/joinchat/BdGiiAyHOiLHs4oiHqV2Kg
+769,TagCoin,https://coinmarketcap.com/currencies/tagcoin/,TAG,6141.72,http://tagcoin.org/,
+770,Coin2.1,https://coinmarketcap.com/currencies/coin2-1/,C2,7045.43,http://www.coin2.us,
+771,Jin Coin,https://coinmarketcap.com/currencies/jin-coin/,JIN,2108.5,http://jin-coin.info/,
+772,Coin(O),https://coinmarketcap.com/currencies/coin/,CNO,6608.78,http://coin-o-coin.com/,
+773,Cypher,https://coinmarketcap.com/currencies/cypher/,CYP,1591.18,,
+774,DigitalDevelopersFund,https://coinmarketcap.com/currencies/digital-developers-fund/,DDF,7759.94,https://www.digitaldevelopersfund.com/,
+775,Tigercoin,https://coinmarketcap.com/currencies/tigercoin/,TGC,2684.03,http://tigercoin.wordpress.com,
+776,Mincoin,https://coinmarketcap.com/currencies/mincoin/,MNC,1277.46,https://www.mincoin.us/,
+777,BitTokens,https://coinmarketcap.com/currencies/bittokens/,BXT,3213.18,http://www.bittoken.pw/,
+778,Sovereign Hero,https://coinmarketcap.com/currencies/sovereign-hero/,HERO,31248.5,http://www.sovereignhero.com/,
+779,RouletteToken,https://coinmarketcap.com/currencies/roulettetoken/,RLT,12554.4,https://smartplay.tech/,
+780,Litecoin Plus,https://coinmarketcap.com/currencies/litecoin-plus/,LCP,8134.9,http://litecoinplus.co,
+781,EOT Token,https://coinmarketcap.com/currencies/eot-token/,EOT,26281.1,http://eottoken.com/,
+782,Helleniccoin,https://coinmarketcap.com/currencies/helleniccoin/,HNC,2528.29,http://www.helleniccoin.gr/,
+783,Evil Coin,https://coinmarketcap.com/currencies/evil-coin/,EVIL,63283.7,http://evilcoin.xyz/,
+784,iCoin,https://coinmarketcap.com/currencies/icoin/,ICN,2105.15,http://www.icoin.world/,
+785,Bitcoin Planet,https://coinmarketcap.com/currencies/bitcoin-planet/,BTPL,1577.47,http://bitcoin-planet.net/,https://telegram.me/BTPLCOIN/
+786,Network Token,https://coinmarketcap.com/currencies/network-token/,NTWK,810.96,http://www.networktoken.io/,https://t.me/joinchat/F6uTcRGNAFiiD3nXBCQYMQ
+787,ParallelCoin,https://coinmarketcap.com/currencies/parallelcoin/,DUO,1637.09,http://parallelcoin.info/,
+788,VoteCoin,https://coinmarketcap.com/currencies/votecoin/,VOT,1692.68,https://votecoin.site/,https://discord.gg/Xbz2egM
+789,LiteBar,https://coinmarketcap.com/currencies/litebar/,LTB,821.316,http://litebar.co/,
+790,Fujinto,https://coinmarketcap.com/currencies/fujinto/,NTO,14397.5,https://fujinto.io/,
+791,PayCon,https://coinmarketcap.com/currencies/paycon/,CON,23274.0,https://paycon.pw/,
+792,Senderon,https://coinmarketcap.com/currencies/senderon/,SDRN,19570.6,https://www.senderon.org/,
+793,Quatloo,https://coinmarketcap.com/currencies/quatloo/,QTL,1305.3,http://quatloos.org,
+794,Kayicoin,https://coinmarketcap.com/currencies/kayicoin/,KAYI,18632.7,https://www.xn--kay-lua.net/,
+795,C-Bit,https://coinmarketcap.com/currencies/c-bit/,XCT,6294.79,http://c-bit.me/,
+796,SecureCoin,https://coinmarketcap.com/currencies/securecoin/,SRC,40787.5,http://securecoin.org/,
+797,Valorbit,https://coinmarketcap.com/currencies/valorbit/,VAL,6775.34,https://valorbit.com/,
+798,ChessCoin,https://coinmarketcap.com/currencies/chesscoin/,CHESS,2820.22,https://chesscoincommunity.com/,
+799,SatoshiMadness,https://coinmarketcap.com/currencies/satoshimadness/,MAD,832.99,,
+800,BTSR,https://coinmarketcap.com/currencies/btsr/,BTSR,3363.31,https://btsr.io/,
+801,Darsek,https://coinmarketcap.com/currencies/darsek/,KED,1771.45,http://ked.scificrypto.info/,
+802,BitAsean,https://coinmarketcap.com/currencies/bitasean/,BAS,14334.0,https://www.bitasean.org/,
+803,ZoZoCoin,https://coinmarketcap.com/currencies/zozocoin/,ZZC,8730.99,https://www.zozocoins.com/,
+804,RevolverCoin,https://coinmarketcap.com/currencies/revolvercoin/,XRE,2311.31,http://revolvercoin.org/,
+805,Trident Group,https://coinmarketcap.com/currencies/trident/,TRDT,1762.62,https://www.tridentgroup.io/,"https://t.me/TridentCommunity , https://t.me/tridentgroup"
+806,Dalecoin,https://coinmarketcap.com/currencies/dalecoin/,DALC,8340.1,http://dalecoin.org/,https://t.me/dalecoin
+807,Coinonat,https://coinmarketcap.com/currencies/coinonat/,CXT,59231.0,http://www.coinonat.org/,
+808,BROTHER,https://coinmarketcap.com/currencies/brat/,BRAT,17198.1,http://bro-consortium.io/,"https://t.me/brotherenglish , https://t.me/brotherrussia"
+809,eBitcoinCash,https://coinmarketcap.com/currencies/ebitcoin-cash/,EBCH,4306.63,https://www.ebitcoincash.io/,https://t.me/ebchcoin/
+810,Blakecoin,https://coinmarketcap.com/currencies/blakecoin/,BLC,1547.21,http://www.blakecoin.org/,
+811,Eurocoin,https://coinmarketcap.com/currencies/eurocoin/,EUC,2282.45,http://eurocoin-euc.com/,
+812,BitCoal,https://coinmarketcap.com/currencies/bitcoal/,COAL,5247.67,http://getbitcoal.org/,
+813,BERNcash,https://coinmarketcap.com/currencies/berncash/,BERN,1620.54,http://berncoin.org/,
+814,Rubies,https://coinmarketcap.com/currencies/rubies/,RBIES,1160.89,http://rbies.org/,
+815,Emerald Crypto,https://coinmarketcap.com/currencies/emerald/,EMD,728.205,http://www.emeraldcrypto.de/,
+816,Flycoin,https://coinmarketcap.com/currencies/flycoin/,FLY,1151.39,,
+817,Swing,https://coinmarketcap.com/currencies/swing/,SWING,924.204,,
+818,Gapcoin,https://coinmarketcap.com/currencies/gapcoin/,GAP,1859.54,http://gapcoin.org,
+819,Philosopher Stones,https://coinmarketcap.com/currencies/philosopher-stones/,PHS,9266.87,http://philosopherstones.org/,https://bitcointalk.org/index.php?topic=830427.0
+820,SpaceCoin,https://coinmarketcap.com/currencies/spacecoin/,SPACE,3989.69,http://spacecoin.info/,
+821,Zurcoin,https://coinmarketcap.com/currencies/zurcoin/,ZUR,762.36,"http://shai102.wix.com/zurcoin , http://zurcoin.org/",
+822,Cannation,https://coinmarketcap.com/currencies/cannation/,CNNC,93238.3,http://www.cannationcoin.com/,
+823,SoonCoin,https://coinmarketcap.com/currencies/sooncoin/,SOON,3161.8,http://www.sooncoin.com/,
+824,LiteBitcoin,https://coinmarketcap.com/currencies/litebitcoin/,LBTC,36848.8,http://www.lbtc.info/,
+825,Catcoin,https://coinmarketcap.com/currencies/catcoin/,CAT,8326.94,http://www.catcoins.org/,
+826,Bolivarcoin,https://coinmarketcap.com/currencies/bolivarcoin/,BOLI,9325.55,http://bolicoin.com/,
+827,Motocoin,https://coinmarketcap.com/currencies/motocoin/,MOTO,17913.3,http://motocoin.org/,
+828,YENTEN,https://coinmarketcap.com/currencies/yenten/,YTN,3396.39,https://conan-equal-newone.github.io/yenten/,
+829,Marijuanacoin,https://coinmarketcap.com/currencies/marijuanacoin/,MAR,2268.82,https://marijuanacoin.net,
+830,GlobalBoost-Y,https://coinmarketcap.com/currencies/globalboost-y/,BSTY,3948.95,http://globalboost-y.com/,
+831,bitBTC,https://coinmarketcap.com/currencies/bitbtc/,BITBTC,16456.6,http://bit.ly/BitShares_BTC,
+832,Marscoin,https://coinmarketcap.com/currencies/marscoin/,MARS,7274.29,http://marscoin.org/,
+833,ETHGAS,https://coinmarketcap.com/currencies/ethgas/,EGAS,3894.85,http://www.ethgas.stream/,https://t.me/ethgas
+834,Evotion,https://coinmarketcap.com/currencies/evotion/,EVO,5538.97,http://evotion.info/,
+835,SongCoin,https://coinmarketcap.com/currencies/songcoin/,SONG,62407.2,http://www.songcoin.org,
+836,SixEleven,https://coinmarketcap.com/currencies/sixeleven/,611,26352.8,https://611project.org/,
+837,GameUnits,https://coinmarketcap.com/currencies/gameunits/,UNITS,2441.4,http://gameunits.org/,
+838,Prime-XI,https://coinmarketcap.com/currencies/prime-xi/,PXI,3504.49,https://primexi.com/,
+839,AquariusCoin,https://coinmarketcap.com/currencies/aquariuscoin/,ARCO,5883.31,http://aquariuscoin.com/,
+840,Hexx,https://coinmarketcap.com/currencies/hexx/,HXX,3430.44,,
+841,Sativacoin,https://coinmarketcap.com/currencies/sativacoin/,STV,1025.1,https://www.sativacoin.io/,
+842,Digital Rupees,https://coinmarketcap.com/currencies/digital-rupees/,DRS,11156.0,https://www.digitalrs.me/,
+843,Newbium,https://coinmarketcap.com/currencies/newbium/,NEWB,525.158,"https://coins.newbium.com/ , http://newbium.com/",
+844,BriaCoin,https://coinmarketcap.com/currencies/briacoin/,BRIA,7067.62,https://briacoin.com,
+845,VirtualCoin,https://coinmarketcap.com/currencies/virtualcoin/,VC,16169.0,,
+846,CacheCoin,https://coinmarketcap.com/currencies/cachecoin/,CACH,53945.2,"https://www.cachecoin.cc/ , https://www.cachecoin.net/",
+847,Kronecoin,https://coinmarketcap.com/currencies/kronecoin/,KRONE,18907.6,https://bitcointalk.org/index.php?topic=2068475.0,
+848,RonPaulCoin,https://coinmarketcap.com/currencies/ronpaulcoin/,RPC,2148.1,http://www.ronpaulcoin.com/,
+849,Honey,https://coinmarketcap.com/currencies/honey/,HONEY,2995.51,http://honeycoin.info,
+850,Enigma,https://coinmarketcap.com/currencies/enigma/,XNG,4992.33,http://www.enigmacoin.exnet.su/,
+851,Gold Pressed Latinum,https://coinmarketcap.com/currencies/gold-pressed-latinum/,GPL,9961.04,http://www.scificrypto.info/gpl/index.htm,
+852,Money,https://coinmarketcap.com/currencies/money/,$$$,8370.8,http://moneyfoundation.github.io/moneypage/index.html,
+853,EagleCoin,https://coinmarketcap.com/currencies/eaglecoin/,EAGLE,6160.07,https://eaglepay.io/,https://t.me/eaglecoinworld
+854,Virtacoinplus,https://coinmarketcap.com/currencies/virtacoinplus/,XVP,1650.82,"https://www.virtacoin.plus/ , https://www.virtacoinplus.eu/",
+855,iDice,https://coinmarketcap.com/currencies/idice/,ICE,991.091,https://idice.io/,
+856,BumbaCoin,https://coinmarketcap.com/currencies/bumbacoin/,BUMBA,1063.97,http://bumbacoin.com/,
+857,Bitgem,https://coinmarketcap.com/currencies/bitgem/,BTG,9703.21,http://www.bitgem.pw/,
+858,SOILcoin,https://coinmarketcap.com/currencies/soilcoin/,SOIL,787.922,http://soilcoin.xyz/,
+859,GlobalToken,https://coinmarketcap.com/currencies/globaltoken/,GLT,2294.63,http://globaltoken.org/,
+860,Neuro,https://coinmarketcap.com/currencies/neuro/,NRO,3327.19,http://neurocoin.org/,https://t.me/neurocoin
+861,FuzzBalls,https://coinmarketcap.com/currencies/fuzzballs/,FUZZ,4994.67,http://www.fyi-koerier.nl/fuzzballs.htm,
+862,CompuCoin,https://coinmarketcap.com/currencies/compucoin/,CPN,4116.01,http://compucoin.org/,
+863,Creatio,https://coinmarketcap.com/currencies/creatio/,XCRE,1069.97,https://xcreatio.com/,
+864,ICOBID,https://coinmarketcap.com/currencies/icobid/,ICOB,3672.78,http://icobidplatform.net/,
+865,X-Coin,https://coinmarketcap.com/currencies/x-coin/,XCO,3070.94,http://x-coin.info/,
+866,Bolenum,https://coinmarketcap.com/currencies/bolenum/,BLN,2975.33,"http://bolenum.com/ , https://bolenumexchange.com/",
+867,Beatcoin,https://coinmarketcap.com/currencies/beatcoin/,XBTS,1514.92,http://beatcoin.info/,
+868,MustangCoin,https://coinmarketcap.com/currencies/mustangcoin/,MST,13169.5,,
+869,GoldPieces,https://coinmarketcap.com/currencies/goldpieces/,GP,3862.15,http://goldpieces.net/,
+870,BenjiRolls,https://coinmarketcap.com/currencies/benjirolls/,BENJI,7838.67,http://benjirolls.cf/,
+871,TEKcoin,https://coinmarketcap.com/currencies/tekcoin/,TEK,6348.37,http://tekcoin.org/,
+872,Global Tour Coin,https://coinmarketcap.com/currencies/global-tour-coin/,GTC,1653.4,http://www.gtccoinclub.com/,
+873,ReeCoin,https://coinmarketcap.com/currencies/reecoin/,REE,31618.1,http://reecoin.com/,
+874,GPU Coin,https://coinmarketcap.com/currencies/gpu-coin/,GPU,3141.1,http://gpucoin.usedgpus.com/,
+875,QuazarCoin,https://coinmarketcap.com/currencies/quazarcoin/,QCN,6207.32,,
+876,Theresa May Coin,https://coinmarketcap.com/currencies/theresa-may-coin/,MAY,2815.82,http://www.theresamaycoin.com/,
+877,GuccioneCoin,https://coinmarketcap.com/currencies/guccionecoin/,GCC,49412.0,https://guccionecoin.wordpress.com/,
+878,Rupaya,https://coinmarketcap.com/currencies/rupaya/,RUPX,12183.8,http://www.rupayacoin.org/,https://t.co/hrjiNGFSUW
+879,Allion,https://coinmarketcap.com/currencies/allion/,ALL,14311.9,http://www.trollpay.com/,
+880,BipCoin,https://coinmarketcap.com/currencies/bipcoin/,BIP,688.762,https://bipcoin.org/,
+881,NevaCoin,https://coinmarketcap.com/currencies/nevacoin/,NEVA,1400.56,https://nevacoin.net/,
+882,USDe,https://coinmarketcap.com/currencies/usde/,USDE,795.951,http://usde.co/,"https://t.me/joinchat/AAAAAEOqrsqy400EWfMIbQ , https://discord.gg/2bRbvad"
+883,Spots,https://coinmarketcap.com/currencies/spots/,SPT,17229.6,https://bitcointalk.org/index.php?topic=615513.0,
+884,Impact,https://coinmarketcap.com/currencies/impact/,IMX,1112.78,http://impact-coin.com/,
+885,ZetaMicron,https://coinmarketcap.com/currencies/zetamicron/,ZMC,13008.5,,
+886,Solarflarecoin,https://coinmarketcap.com/currencies/solarflarecoin/,SFC,4301.58,http://solarflarecoin.us/,
+887,Eryllium,https://coinmarketcap.com/currencies/eryllium/,ERY,8480.07,https://eryllium.com/,
+888,Acoin,https://coinmarketcap.com/currencies/acoin/,ACOIN,2025.42,https://acoin.info/,
+889,Flaxscript,https://coinmarketcap.com/currencies/flaxscript/,FLAX,3008.95,http://flaxscript.org,
+890,LiteCoin Ultra,https://coinmarketcap.com/currencies/litecoin-ultra/,LTCU,110606.0,http://www.litecoinultra.com/,
+891,EcoCoin,https://coinmarketcap.com/currencies/ecocoin/,ECO,9031.33,http://www.ecocoin.us/,
+892,Comet,https://coinmarketcap.com/currencies/comet/,CMT,4509.41,https://cometcoin.com/,
+893,bitGold,https://coinmarketcap.com/currencies/bitgold/,BITGOLD,3331.78,http://bit.ly/BitShares_GOLD,
+894,Aerium,https://coinmarketcap.com/currencies/aerium/,AERM,27602.2,"https://www.aerium.info/ , https://www.aerium.co/",https://discord.gg/kTeyty7
+895,300 Token,https://coinmarketcap.com/currencies/300-token/,300,7927.54,http://300tokensparta.com/,
+896,Master Swiscoin,https://coinmarketcap.com/currencies/master-swiscoin/,MSCN,35165.8,https://www.swisopensource.com/,
+897,AllSafe,https://coinmarketcap.com/currencies/allsafe/,ASAFE2,3230.39,https://allsafetoken.com/,
+898,Torcoin,https://coinmarketcap.com/currencies/torcoin-tor/,TOR,1817.11,http://torcoin.org/,
+899,TajCoin,https://coinmarketcap.com/currencies/tajcoin/,TAJ,1802.31,http://tajcoin.tech/,
+900,Useless Ethereum Token,https://coinmarketcap.com/currencies/useless-ethereum-token/,UET,947.965,"https://uetoken.com/ , http://www.uselesstoken.com/",https://discord.gg/uXXwzVh
+901,BOAT,https://coinmarketcap.com/currencies/doubloon/,BOAT,5486.18,http://boatcoin.net/,
+902,SwapToken,https://coinmarketcap.com/currencies/swaptoken/,TOKEN,44970.3,http://trollpayment.com/,
+903,BnrtxCoin,https://coinmarketcap.com/currencies/bnrtxcoin/,BNX,7231.32,http://www.bnrtx.com/,
+904,Cthulhu Offerings,https://coinmarketcap.com/currencies/cthulhu-offerings/,OFF,2227.25,http://cthulhu.tk/,
+905,CybCSec,https://coinmarketcap.com/currencies/cybcsec/,XCS,102351.0,https://cybcsec.com/,
+906,ARbit,https://coinmarketcap.com/currencies/arbit/,ARB,28037.2,,
+907,AnarchistsPrime,https://coinmarketcap.com/currencies/anarchistsprime/,ACP,19312.9,http://www.anarchistsprime.info/,
+908,ExchangeN,https://coinmarketcap.com/currencies/exchangen/,EXN,30064.3,http://www.exchangen.com/,
+909,KingN Coin,https://coinmarketcap.com/currencies/kingn-coin/,KNC,1548.74,http://kingncoin.com/,
+910,HempCoin,https://coinmarketcap.com/currencies/hempcoin-hmp/,HMP,12918.3,http://hempcoin.com/,
+911,PlayerCoin,https://coinmarketcap.com/currencies/playercoin/,PLACO,2688.77,http://www.playercoin.world/,
+912,Iconic,https://coinmarketcap.com/currencies/iconic/,ICON,1558.67,http://iconicproject.com/,
+913,Uro,https://coinmarketcap.com/currencies/uro/,URO,542.058,http://uro.io,
+914,Bitcoin 21,https://coinmarketcap.com/currencies/bitcoin-21/,XBTC21,836.753,http://www.bitcoin-21.com/,
+915,bitEUR,https://coinmarketcap.com/currencies/biteur/,BITEUR,10057.4,http://bit.ly/BitShares_EURO,
+916,MiloCoin,https://coinmarketcap.com/currencies/milocoin/,MILO,2229.77,http://www.milocoin.info/,
+917,GeertCoin,https://coinmarketcap.com/currencies/geertcoin/,GEERT,1741.85,,
+918,Slevin,https://coinmarketcap.com/currencies/slevin/,SLEVIN,7130.73,,
+919,Skeincoin,https://coinmarketcap.com/currencies/skeincoin/,SKC,20330.7,http://skeincoin.co/,"https://discord.gg/qGpkFrP , https://t.me/joinchat/CqeByhFOKhuFmMjWYN356g"
+920,Printerium,https://coinmarketcap.com/currencies/printerium/,PRX,4217.5,http://printerium.info/,
+921,PosEx,https://coinmarketcap.com/currencies/posex/,PEX,1195.2,,
+922,Project-X,https://coinmarketcap.com/currencies/project-x/,NANOX,150455.0,,
+923,PRCoin,https://coinmarketcap.com/currencies/prcoin/,PRC,28863.0,https://prcoin.io/,
+924,WomenCoin,https://coinmarketcap.com/currencies/women/,WOMEN,6823.98,https://www.women-coin.com/,https://discordapp.com/invite/68r7FUN
+925,Credence Coin,https://coinmarketcap.com/currencies/credence-coin/,CRDNC,2077.75,http://www.credencecoin.co/,
+926,Vault Coin,https://coinmarketcap.com/currencies/vault-coin/,VLTC,2105.19,http://vltcoin.org/,
+927,SocialCoin,https://coinmarketcap.com/currencies/socialcoin-socc/,SOCC,1346.83,http://www.social-coin.co.uk/,
+928,VapersCoin,https://coinmarketcap.com/currencies/vaperscoin/,VPRC,3710.58,,
+929,Roofs,https://coinmarketcap.com/currencies/roofs/,ROOFS,863.766,https://www.roofs.business/,
+930,DIBCOIN,https://coinmarketcap.com/currencies/dibcoin/,DIBC,744.26,https://dibcoin.us/,
+931,Bitvolt,https://coinmarketcap.com/currencies/bitvolt/,VOLT,12172.5,http://bitvolt.co/,
+932,TAGRcoin,https://coinmarketcap.com/currencies/tagrcoin/,TAGR,1104.81,http://www.tagrcoin.com/,
+933,Veros,https://coinmarketcap.com/currencies/veros/,VRS,56243.4,https://veros.org/,
+934,iBank,https://coinmarketcap.com/currencies/ibank/,IBANK,1386.68,,
+935,Coupecoin,https://coinmarketcap.com/currencies/coupecoin/,COUPE,104030.0,http://www.coupecoin.com/,
+936,Speedcash,https://coinmarketcap.com/currencies/speedcash/,SCS,981.399,http://www.scash.ml/,
+937,Steps,https://coinmarketcap.com/currencies/steps/,STEPS,2912.76,,
+938,Cabbage,https://coinmarketcap.com/currencies/cabbage/,CAB,1808.71,http://www.cabbage.tech,
+939,Zonecoin,https://coinmarketcap.com/currencies/zonecoin/,ZNE,823.07,https://www.zonecoin.tech/,
+940,Argus,https://coinmarketcap.com/currencies/argus/,ARGUS,5380.33,https://www.argusnetwork.co,
+941,Coimatic 3.0,https://coinmarketcap.com/currencies/coimatic-3/,CTIC3,4303.63,http://coimatic.com/,
+942,Coimatic 2.0,https://coinmarketcap.com/currencies/coimatic-2/,CTIC2,2862.49,http://coimatic.org/,
+943,BioBar,https://coinmarketcap.com/currencies/biobar/,BIOB,9915.19,http://biobar-crypto.ml/,
+944,Elysium,https://coinmarketcap.com/currencies/elysium/,ELS,1546.3,,
+945,P7Coin,https://coinmarketcap.com/currencies/p7coin/,P7C,2017.45,,
+946,LevoPlus,https://coinmarketcap.com/currencies/levoplus/,LVPS,5066.67,http://levoplus.com/,
+947,CrevaCoin,https://coinmarketcap.com/currencies/crevacoin/,CREVA,5368.91,http://www.crevacoin.com/,
+948,Corethum,https://coinmarketcap.com/currencies/corethum/,CRTM,598.032,https://www.corethum.com/,https://t.me/joinchat/GsHoWw3bxGp3GLVU436_KA
+949,Magnum,https://coinmarketcap.com/currencies/magnum/,MGM,1403.5,https://www.mgmcoin.org/,
+950,Ulatech,https://coinmarketcap.com/currencies/ulatech/,ULA,108099.0,https://ulatech.com/,
+951,CaliphCoin,https://coinmarketcap.com/currencies/caliphcoin/,CALC,78187.4,http://caliphcoin.eu/,
+952,Save and Gain,https://coinmarketcap.com/currencies/save-and-gain/,SANDG,1049.64,http://coinaid.co.uk/,
+953,FuturXe,https://coinmarketcap.com/currencies/futurexe/,FXE,786.759,https://futurxe.io/,
+954,Concoin,https://coinmarketcap.com/currencies/concoin/,CONX,2184.08,http://www.concoin.com/,
+955,GeyserCoin,https://coinmarketcap.com/currencies/geysercoin/,GSR,1192.81,http://geysercoin.com/,
+956,Tristar Coin,https://coinmarketcap.com/currencies/tristar-coin/,TSTR,7117.02,http://www.tristarcoin.com/,
+957,HarmonyCoin,https://coinmarketcap.com/currencies/harmonycoin-hmc/,HMC,2301.72,https://www.hmc21.co/,
+958,Ebittree Coin,https://coinmarketcap.com/currencies/ebittree-coin/,EBT,7320.86,https://www.ebittree.com/,
+959,Digital Money Bits,https://coinmarketcap.com/currencies/digital-money-bits/,DMB,11229.7,http://www.dmb-coin.com/,
+960,Abncoin,https://coinmarketcap.com/currencies/abncoin/,ABN,804.595,https://aviabitcoin.com/,
+961,AppleCoin,https://coinmarketcap.com/currencies/applecoin-apw/,APW,1871.68,http://apcoin.co/,
+962,Grid+,https://coinmarketcap.com/currencies/grid/,GRID,,http://gridplus.io/,
+963,BCAP,https://coinmarketcap.com/currencies/bcap/,BCAP,,"http://blockchain.capital/ , https://blockchainloop.com/",
+964,Photon,https://coinmarketcap.com/currencies/photon/,PHO,,http://www.photoncc.com/,https://t.me/photon19
+965,GCoin,https://coinmarketcap.com/currencies/gcoin/,GCN,,https://gcn.zone,https://discord.gg/vWCW8QV
+966,Tao,https://coinmarketcap.com/currencies/tao/,XTO,168.398,http://tao.network/,
+967,Arcade Token,https://coinmarketcap.com/currencies/arcade-token/,ARC,122.255,https://arcade.city/,
+968,Prospectors Gold,https://coinmarketcap.com/currencies/prospectors-gold/,PGL,335.155,https://prospectors.io/,http://prospectors.herokuapp.com/
+969,Bitswift,https://coinmarketcap.com/currencies/bitswift/,SWIFT,,http://bitswift.io/,
+970,The Cypherfunks,https://coinmarketcap.com/currencies/the-cypherfunks/,FUNK,,http://thecypherfunks.com/,
+971,Rustbits,https://coinmarketcap.com/currencies/rustbits/,RUSTBITS,,https://spacepirate.io/,https://discord.gg/njjuTGD
+972,LeviarCoin,https://coinmarketcap.com/currencies/leviarcoin/,XLC,,https://leviarcoin.org/,https://t.me/leviarcoinofficial
+973,Ergo,https://coinmarketcap.com/currencies/ergo/,EFYT,59.2435,http://ergoplatform.org/,
+974,Intelligent Trading Tech,https://coinmarketcap.com/currencies/intelligent-trading-tech/,ITT,70.2968,http://intelligenttrading.org/,"https://t.me/intelligenttrading , https://weixin.qq.com/g/AYStjdxwNMUtFIU5"
+975,InPay,https://coinmarketcap.com/currencies/inpay/,INPAY,309.976,https://inpay.tech/,https://t.me/inpaychat
+976,Janus,https://coinmarketcap.com/currencies/janus/,JNS,310.428,https://janustoken.com/,
+977,CryptCoin,https://coinmarketcap.com/currencies/cryptcoin/,CRYPT,,http://cryptco.org/,
+978,IncaKoin,https://coinmarketcap.com/currencies/incakoin/,NKA,253.815,http://incakoin.info/,
+979,FIMKrypto,https://coinmarketcap.com/currencies/fimkrypto/,FIMK,64.1747,http://fimk.fi/,
+980,Monster Byte,https://coinmarketcap.com/currencies/monster-byte/,MBI,,https://monsterbyte.io/,
+981,BunnyCoin,https://coinmarketcap.com/currencies/bunnycoin/,BUN,411.617,http://bunnycoin.org/,
+982,Ethereum Movie Venture,https://coinmarketcap.com/currencies/ethereum-movie-venture/,EMV,326.014,http://emovieventure.com/,
+983,Rasputin Online Coin,https://coinmarketcap.com/currencies/rasputin-online-coin/,ROC,,https://ico.rasputinonline.com/,https://join.slack.com/t/rasputinonline/shared_invite/enQtMjY0NjQ3OTA0MTAxLTE0ZDE5Mzc3NmMxZDMxZjU1YWIyYmYzNjhhNDQ0ZGYwZWQ3MThhYTViMWUyM2IzNmM3MTgxYWU3OTAzNTA3YzU
+984,PiplCoin,https://coinmarketcap.com/currencies/piplcoin/,PIPL,438.448,https://piplcoin.com/,
+985,LottoCoin,https://coinmarketcap.com/currencies/lottocoin/,LOT,,http://lottocoin.org/,
+986,Shorty,https://coinmarketcap.com/currencies/shorty/,SHORTY,49.0696,http://shortycool.site/,
+987,YashCoin,https://coinmarketcap.com/currencies/yashcoin/,YASH,54.5736,https://www.yashcoin.com/,https://telegram.me/joinchat/DPg9-0D34gVK4M8ng2XDEg
+988,BritCoin,https://coinmarketcap.com/currencies/britcoin/,BRIT,385.234,http://britcoin.xyz/,https://kiwiirc.com/client/irc.freenode.net/?#britcoin
+989,MaxCoin,https://coinmarketcap.com/currencies/maxcoin/,MAX,357.682,https://www.maxcoin.co.uk/,
+990,Casino,https://coinmarketcap.com/currencies/casino/,CASINO,,https://burstcasino.com/,
+991,Truckcoin,https://coinmarketcap.com/currencies/truckcoin/,TRK,,http://truckcoin.net,
+992,Pascal Lite,https://coinmarketcap.com/currencies/pascal-lite/,PASL,,https://pascallite.com/,
+993,Interzone,https://coinmarketcap.com/currencies/interzone/,ITZ,,https://interzone.space/,"https://discord.gg/6pCPreP , https://join.slack.com/t/projectinterzone/shared_invite/MjM1NjYwODk5MTU0LTE1MDQ0NjQ4ODYtYzUwOGI2MjE0ZQ"
+994,MetalCoin,https://coinmarketcap.com/currencies/metalcoin/,METAL,12.8037,http://www.metalmoshpit.com/,
+995,CorgiCoin,https://coinmarketcap.com/currencies/corgicoin/,CORG,43.8341,https://corgicoinproofofstake.wordpress.com/ ,https://kiwiirc.com/client/irc.freenode.org/##corgicoin
+996,AmberCoin,https://coinmarketcap.com/currencies/ambercoin/,AMBER,60.5684,http://ambercoin.info,
+997,Ultimate Secure Cash,https://coinmarketcap.com/currencies/ultimate-secure-cash/,USC,232.784, http://ultimatesecurecash.info/,
+998,Virtacoin,https://coinmarketcap.com/currencies/virtacoin/,VTA,11.3338,https://www.virtacoin.world/,
+999,Stress,https://coinmarketcap.com/currencies/stress/,STS,166.412,,
+1000,Tattoocoin (Standard Edition),https://coinmarketcap.com/currencies/tattoocoin/,TSE,33.6036,http://tattoocoin.net/,
+1001,Universe,https://coinmarketcap.com/currencies/universe/,UNI,259.168,http://unicoin.pw/,https://t.me/UniverseUNI
+1002,GanjaCoin,https://coinmarketcap.com/currencies/ganjacoin/,MRJA,,https://www.ganjacoinpro.com/,
+1003,808Coin,https://coinmarketcap.com/currencies/808coin/,808,257.333,http://808bass.space/,
+1004,Remicoin,https://coinmarketcap.com/currencies/remicoin/,RMC,349.374,http://www.remicoin.org/,
+1005,BlazeCoin,https://coinmarketcap.com/currencies/blazecoin/,BLZ,,http://blazeco.in/,
+1006,WayGuide,https://coinmarketcap.com/currencies/wayguide/,WAY,25.8089,https://wayguide.club/,
+1007,Mutual Coin,https://coinmarketcap.com/currencies/mutual-coin/,MUT,,http://www.mutualcoin.info/,"https://discord.gg/bdhSXvV , https://discord.gg/pyUgkEk"
+1008,GlobalCoin,https://coinmarketcap.com/currencies/globalcoin/,GLC,4.5654,http://www.globalcoin.info/,
+1009,SecretCoin,https://coinmarketcap.com/currencies/secretcoin/,SCRT,,https://secretcoin.club/,
+1010,PX,https://coinmarketcap.com/currencies/px/,PX,208.944,,
+1011,Bankcoin,https://coinmarketcap.com/currencies/bankcoin/,B@,0.049287,http://bankcoin.global/,
+1012,Grantcoin,https://coinmarketcap.com/currencies/grantcoin/,GRT,178.022,http://www.grantcoin.org/,
+1013,BitQuark,https://coinmarketcap.com/currencies/bitquark/,BTQ,236.606,http://www.bitquark.info/,
+1014,BTCtalkcoin,https://coinmarketcap.com/currencies/btctalkcoin/,TALK,331.116,,
+1015,Cashcoin,https://coinmarketcap.com/currencies/cashcoin/,CASH,164.841,https://cashcoin.cash/,
+1016,Mao Zedong,https://coinmarketcap.com/currencies/mao-zedong/,MAO,322.038,,
+1017,Bitz,https://coinmarketcap.com/currencies/bitz/,BITZ,347.369,https://bitz.biz/,
+1018,Firecoin,https://coinmarketcap.com/currencies/firecoin/,FIRE,122.933,,
+1019,Shadow Token,https://coinmarketcap.com/currencies/shadow-token/,SHDW,175.595,http://shadowtoken.io/,
+1020,Joincoin,https://coinmarketcap.com/currencies/joincoin/,J,25.7368,https://bitcointalk.org/index.php?topic=737405.0,
+1021,bitSilver,https://coinmarketcap.com/currencies/bitsilver/,BITSILVER,433.066,http://bit.ly/BitShares_SILVER,
+1022,Virta Unique Coin,https://coinmarketcap.com/currencies/virta-unique-coin/,VUC,83.5441,http://www.virtauniquecoin.com/,
+1023,Freicoin,https://coinmarketcap.com/currencies/freicoin/,FRC,6.41861,http://freico.in,
+1024,SproutsExtreme,https://coinmarketcap.com/currencies/sproutsextreme/,SPEX,39.7475,,
+1025,IslaCoin,https://coinmarketcap.com/currencies/islacoin/,ISL,27.5791,http://www.islacoin.net/,
+1026,Sling,https://coinmarketcap.com/currencies/sling/,SLING,2.50198,,
+1027,Franko,https://coinmarketcap.com/currencies/franko/,FRK,6.70286,http://frankos.org,
+1028,WMCoin,https://coinmarketcap.com/currencies/wmcoin/,WMC,17.8335,http://www.wemcoin.com/,
+1029,E4ROW,https://coinmarketcap.com/currencies/ether-for-the-rest-of-the-world/,E4ROW,,https://e4row.com/,
+1030,eREAL,https://coinmarketcap.com/currencies/ereal/,EREAL,424.837,https://ereal.cash/,https://t.me/e_Real
+1031,Yacoin,https://coinmarketcap.com/currencies/yacoin/,YAC,19.2081,http://www.yacoin.org,
+1032,HealthyWormCoin,https://coinmarketcap.com/currencies/healthywormcoin/,WORM,206.675,http://healthyworm.com/,
+1033,Luna Coin,https://coinmarketcap.com/currencies/luna-coin/,LUNA,306.363,https://bitluna.org/,
+1034,LeaCoin,https://coinmarketcap.com/currencies/leacoin/,LEA,247.261,,
+1035,AntiBitcoin,https://coinmarketcap.com/currencies/antibitcoin/,ANTI,70.2881,http://anti.cash/,
+1036,BoostCoin,https://coinmarketcap.com/currencies/boostcoin/,BOST,145.451,https://bitcointalk.org/index.php?topic=601965.0,
+1037,CoExistCoin,https://coinmarketcap.com/currencies/coexistcoin/,COXST,0.187764,http://coexistcoin.com/,"https://t.me/coexistcoin , https://coexistcoin.herokuapp.com/"
+1038,Californium,https://coinmarketcap.com/currencies/californium/,CF,175.979,http://www.californium.info/,
+1039,SACoin,https://coinmarketcap.com/currencies/sacoin/,SAC,22.6556,https://www.sacoin.io/,
+1040,WARP,https://coinmarketcap.com/currencies/warp/,WARP,82.6029,http://www.warpcoin.com/,
+1041,Pulse,https://coinmarketcap.com/currencies/pulse/,PULSE,25.1215,http://pulseproject.pw/,
+1042,Blackstar,https://coinmarketcap.com/currencies/blackstar/,BSTAR,470.859,http://blackstarotc.com/,
+1043,Artex Coin,https://coinmarketcap.com/currencies/artex-coin/,ATX,478.969,http://www.atxcoin.org/,
+1044,JavaScript Token,https://coinmarketcap.com/currencies/javascript-token/,JS,148.744,http://javascripttoken.pagedemo.co/,
+1045,Debitcoin,https://coinmarketcap.com/currencies/debitcoin/,DBTC,397.732,https://debitcoin.xyz/,
+1046,GameBet Coin,https://coinmarketcap.com/currencies/gamebet-coin/,GBT,166.515,https://www.gamebet.gg/,
+1047,Jewels,https://coinmarketcap.com/currencies/jewels/,JWL,70.4522,http://jewelsproject.com/,
+1048,DAPPSTER,https://coinmarketcap.com/currencies/dappster/,DLISK,252.129,https://dlisk.com/,
+1049,Quebecoin,https://coinmarketcap.com/currencies/quebecoin/,QBC,484.033,http://quebeco.in,
+1050,Metal Music Coin,https://coinmarketcap.com/currencies/metal-music-coin/,MTLMC3,12.6031,http://metalmusiccoin.pw/,
+1051,VIP Tokens,https://coinmarketcap.com/currencies/vip-tokens/,VIP,23.1637,http://viptokens.club/,
+1052,Yellow Token,https://coinmarketcap.com/currencies/yellow-token/,YEL,106.973,http://yellow-token.com/,https://t.me/yellowtoken
+1053,BillaryCoin,https://coinmarketcap.com/currencies/billarycoin/,BLRY,,http://billary.rocks/,
+1054,Ripto Bux,https://coinmarketcap.com/currencies/ripto-bux/,RBX,430.504,http://riptobux.com/,https://wavesplatform.slack.com/messages/C4JLSCDJ9/
+1055,Dreamcoin,https://coinmarketcap.com/currencies/dreamcoin/,DRM,492.224,http://dreamcoin.fi/,
+1056,FlavorCoin,https://coinmarketcap.com/currencies/flavorcoin/,FLVR,169.972,http://www.flavorcoinradio.com/,
+1057,Ride My Car,https://coinmarketcap.com/currencies/ride-my-car/,RIDE,427.196,http://www.ridemycar.net/,
+1058,PIECoin,https://coinmarketcap.com/currencies/piecoin/,PIE,65.174,"http://www.piecoin.info/ , http://piecoin.tech/",
+1059,Wild Beast Block,https://coinmarketcap.com/currencies/wild-beast-block/,WBB,127.341,http://wbbos.com/,
+1060,BeaverCoin,https://coinmarketcap.com/currencies/beavercoin/,BVC,16.3195,http://beavercoin.org,
+1061,Asiadigicoin,https://coinmarketcap.com/currencies/asiadigicoin/,ADCN,180.667,http://asiadigicoin.org/,
+1062,RSGPcoin,https://coinmarketcap.com/currencies/rsgpcoin/,RSGP,433.268,http://rsgpcoin.com/,
+1063,Crypto,https://coinmarketcap.com/currencies/crypto/,CTO,3.78548,http://tailflick.wix.com/official-crypto,
+1064,PonziCoin,https://coinmarketcap.com/currencies/ponzicoin/,PONZI,303.639,,
+1065,Litecred,https://coinmarketcap.com/currencies/litecred/,LTCR,376.423,,
+1066,CryptoWorldX Token,https://coinmarketcap.com/currencies/cryptoworldx-token/,CWXT,126.836,,
+1067,High Voltage,https://coinmarketcap.com/currencies/high-voltage/,HVCO,103.364,http://www.highvoltagecoin.tech/,
+1068,Orlycoin,https://coinmarketcap.com/currencies/orlycoin/,ORLY,33.265,http://www.orlycoin.com/,
+1069,BowsCoin,https://coinmarketcap.com/currencies/bowscoin/,BSC,7.11325,,
+1070,PLNcoin,https://coinmarketcap.com/currencies/plncoin/,PLNC,281.092,http://www.plncoin.org/,
+1071,JobsCoin,https://coinmarketcap.com/currencies/jobscoin/,JOBS,206.99,http://jobscoin.us/,
+1072,G3N,https://coinmarketcap.com/currencies/genstake/,G3N,26.5363,http://www.g3n.info/,
+1073,Dollar Online,https://coinmarketcap.com/currencies/dollar-online/,DOLLAR,359.907,http://www.edollar.online/,
+1074,Zayedcoin,https://coinmarketcap.com/currencies/zayedcoin/,ZYD,62.4751,http://www.zayedcoin.net/,
+1075,BiosCrypto,https://coinmarketcap.com/currencies/bios-crypto/,BIOS,182.213,http://bioscrypto.com/,
+1076,VectorAI,https://coinmarketcap.com/currencies/vector/,VEC2,193.736,http://vector-blockchain.com/,
+1077,Shilling,https://coinmarketcap.com/currencies/shilling/,SH,325.261,https://digitalshilling.org/,
+1078,MindCoin,https://coinmarketcap.com/currencies/mindcoin/,MND,236.397,http://www.mindcoin.xyz/,
+1079,MorningStar,https://coinmarketcap.com/currencies/morningstar-payments/,MRNG,,https://morningstarpayments.xyz/,
+1080,MTMGaming,https://coinmarketcap.com/currencies/mtmgaming/,MTM,,,
+1081,Destiny,https://coinmarketcap.com/currencies/destiny/,DES,398.534,,
+1082,Unrealcoin,https://coinmarketcap.com/currencies/unrealcoin/,URC,298.983,,
+1083,Xonecoin,https://coinmarketcap.com/currencies/xonecoin/,XOC,116.173,,
+1084,Braincoin,https://coinmarketcap.com/currencies/braincoin/,BRAIN,80.0969,,
+1085,EGO,https://coinmarketcap.com/currencies/ego/,EGO,34.1137,,
+1086,LetItRide,https://coinmarketcap.com/currencies/letitride/,LIR,130.087,http://www.letitri.de/,
+1087,CryptoEscudo,https://coinmarketcap.com/currencies/cryptoescudo/,CESC,118.795,http://www.cryptoescudo.org/,
+1088,CRTCoin,https://coinmarketcap.com/currencies/crtcoin/,CRT,22.2804,http://crtcoin.com/,
+1089,Tychocoin,https://coinmarketcap.com/currencies/tychocoin/,TYCHO,121.857,https://tychocoin.com/,
+1090,Antilitecoin,https://coinmarketcap.com/currencies/antilitecoin/,ALTC,403.787,http://antilitecoin.pw/,
+1091,ImpulseCoin,https://coinmarketcap.com/currencies/impulsecoin/,IMPS,486.748,http://www.impulsecoin.io/,
+1092,NodeCoin,https://coinmarketcap.com/currencies/nodecoin/,NODC,140.13,,
+1093,GBCGoldCoin,https://coinmarketcap.com/currencies/gbcgoldcoin/,GBC,74.3333,http://gbcgoldcoin.org/,
+1094,Rawcoin,https://coinmarketcap.com/currencies/rawcoin2/,XRC,448.228,http://rawcoin.co/,
+1095,Frazcoin,https://coinmarketcap.com/currencies/frazcoin/,FRAZ,,http://frazcoin.org/,
+1096,OsmiumCoin,https://coinmarketcap.com/currencies/osmiumcoin/,OS76,99.3983,,
+1097,SydPak,https://coinmarketcap.com/currencies/sydpak/,SDP,144.251,http://www.sydpak.com/,
+1098,Lex4All,https://coinmarketcap.com/currencies/lex4all/,LEX,,,
+1099,Qibuck Asset,https://coinmarketcap.com/currencies/qibuck-asset/,QBK,,http://bitbillions.net/qibuck-asset/,
+1100,AgrolifeCoin,https://coinmarketcap.com/currencies/agrolifecoin/,AGLC,259.11,https://www.agrolifecoin.org/,
+1101,Selfiecoin,https://coinmarketcap.com/currencies/selfiecoin/,SLFI,144.987,,
+1102,Sojourn,https://coinmarketcap.com/currencies/sojourn/,SOJ,75.5742,http://www.sojournbooking.net/,
+1103,CoffeeCoin,https://coinmarketcap.com/currencies/coffeecoin/,CFC,,http://www.coffee-coin.org/,
+1104,CCMiner,https://coinmarketcap.com/currencies/ccminer/,CCM100,0.328906,https://asset.ccminer.net/,
+1105,Digital Credits,https://coinmarketcap.com/currencies/digital-credits/,DGCS,222.513,http://dcredits.com/,
+1106,PizzaCoin,https://coinmarketcap.com/currencies/pizzacoin/,PIZZA,189.909,http://pizzacoin.net/,
+1107,BurstOcean,https://coinmarketcap.com/currencies/burstocean/,OCEAN,0.255815,,
+1108,Show,https://coinmarketcap.com/currencies/show/,SHOW,129325000.0,http://www.show.one/,
+1109,ATMCoin,https://coinmarketcap.com/currencies/atmcoin/,ATMC,95218600.0,"https://www.atmcoin.com/website/inicio , https://www.bitsclub.com",
+1110,IOStoken,https://coinmarketcap.com/currencies/iostoken/,IOST,84985600.0,http://iost.io/,https://t.me/officialios
+1111,Internet Node Token,https://coinmarketcap.com/currencies/internet-node-token/,INT,44488700.0,https://intchain.io/,
+1112,SwftCoin,https://coinmarketcap.com/currencies/swftcoin/,SWFTC,29210700.0,http://www.swftcoin.com/,https://t.me/swfcoin
+1113,Bitcoin Diamond,https://coinmarketcap.com/currencies/bitcoin-diamond/,BCD,17646200.0,http://btcd.io/,"https://t.me/bcdsupport , https://bitcoindiamonds.slack.com/"
+1114,Genaro Network,https://coinmarketcap.com/currencies/genaro-network/,GNX,16821000.0,https://genaro.network/en,https://t.me/GenaroNetworkOfficial
+1115,Selfkey,https://coinmarketcap.com/currencies/selfkey/,KEY,12768100.0,https://selfkey.org/,https://t.me/selfkeyfoundation
+1116,SmartMesh,https://coinmarketcap.com/currencies/smartmesh/,SMT,11197900.0,https://smartmesh.io/,"https://t.me/SmartMesh , https://open.kakao.com/o/gWZRtfD"
+1117,WaykiChain,https://coinmarketcap.com/currencies/waykichain/,WIC,10801500.0,"http://waykichain.com/ , http://waykichain.net/",https://t.me/waykichain
+1118,BitcoinX,https://coinmarketcap.com/currencies/bitcoinx/,BCX,10382800.0,https://bcx.org/,
+1119,Bottos,https://coinmarketcap.com/currencies/bottos/,BTO,9174780.0,https://www.bottos.org/,https://telegram.me/bottosglobal
+1120,High Performance Blockchain,https://coinmarketcap.com/currencies/high-performance-blockchain/,HPB,9153180.0,http://www.gxn.io/,
+1121,Game,https://coinmarketcap.com/currencies/game/,GTC,8633840.0,"http://game.com/ , https://gtc.game.com/",https://t.me/gameico
+1122,AI Doctor,https://coinmarketcap.com/currencies/aidoc/,AIDOC,8399240.0,http://www.aidoc.me/,"https://t.me/AidocMeEn , https://t.me/AidocMe"
+1123,Kcash,https://coinmarketcap.com/currencies/kcash/,KCASH,5477460.0,https://www.kcash.com/,https://t.me/KcashOfficial
+1124,LendConnect,https://coinmarketcap.com/currencies/lendconnect/,LCT,5202230.0,https://lendconnect.io/,https://t.me/joinchat/AAAAAE1W8wql5nyoOFx4QQ
+1125,TopChain,https://coinmarketcap.com/currencies/topchain/,TOPC,4614640.0,http://www.topc.io/,https://t.me/topchaincoin
+1126,MicroMoney,https://coinmarketcap.com/currencies/micromoney/,AMM,4495340.0,https://www.micromoney.io/,"https://t.me/micromoneyico , https://open.kakao.com/o/gmWcCnB"
+1127,Super Bitcoin,https://coinmarketcap.com/currencies/super-bitcoin/,SBTC,4429400.0,http://supersmartbitcoin.com/,https://t.me/superbitcoinofficial
+1128,Olympus Labs,https://coinmarketcap.com/currencies/olympus-labs/,MOT,4134670.0,https://olympuslabs.io/,"http://t.me/olympuslabs , https://open.kakao.com/o/gROlDyC"
+1129,HTMLCOIN,https://coinmarketcap.com/currencies/html-coin/,HTML,3718130.0,"http://www.htmlcoin.com/ , https://htmlcoin.business/",https://t.me/htmlcoinofficial
+1130,EchoLink,https://coinmarketcap.com/currencies/echolink/,EKO,3649160.0,https://echolink.info/,https://t.me/EcholinkOfficial
+1131,Energo,https://coinmarketcap.com/currencies/energo/,TSL,3493410.0,http://www.energolabs.com/,"https://t.me/EnergoEnglishCommunity , https://open.kakao.com/o/gdKLPqy"
+1132,Tezos (Pre-Launch),https://coinmarketcap.com/currencies/tezos/,XTZ,3070000.0,https://www.tezos.com/,
+1133,Trade Token,https://coinmarketcap.com/currencies/trade-token/,TIO,2802550.0,https://trade.io/,https://t.me/TradeToken
+1134,CanYaCoin,https://coinmarketcap.com/currencies/canyacoin/,CAN,2707880.0,https://canya.io/,https://t.me/canyacoin
+1135,FairGame,https://coinmarketcap.com/currencies/fairgame/,FAIR,2671590.0,https://fair.game/,https://t.me/fairgameonline
+1136,Hyper Pay,https://coinmarketcap.com/currencies/hyper-pay/,HPY,2656320.0,http://hyperpay.tech/,
+1137,SophiaTX,https://coinmarketcap.com/currencies/sophiatx/,SPHTX,2245440.0,https://www.sophiatx.com/,http://t.me/sophia_TX_com
+1138,Aigang,https://coinmarketcap.com/currencies/aigang/,AIX,2137650.0,https://aigang.network/,https://t.me/aigangnetwork
+1139,Kubera Coin,https://coinmarketcap.com/currencies/kubera-coin/,KBR,2093740.0,https://kuberacoin.com/,https://kuberacoin.slack.com/
+1140,Ignis,https://coinmarketcap.com/currencies/ignis/,IGNIS,1748900.0,"https://www.jelurida.com/ico , https://www.jelurida.com",
+1141,ugChain,https://coinmarketcap.com/currencies/ugchain/,UGC,1625590.0,http://www.ugchain.com/,"https://t.me/ugChainOfficial , https://t.me/ugChainchat"
+1142,Maker,https://coinmarketcap.com/currencies/maker/,MKR,1622010.0,https://makerdao.com/,
+1143,COMSA [ETH],https://coinmarketcap.com/currencies/comsa-eth/,CMS,1467190.0,https://comsa.io/en/,https://t.me/comsaio
+1144,Cappasity,https://coinmarketcap.com/currencies/cappasity/,CAPP,1442870.0,"https://artoken.io/ , https://cappasity.com/",https://t.me/artoken
+1145,Qbao,https://coinmarketcap.com/currencies/qbao/,QBT,1397600.0,https://qbao.fund,"https://t.me/QbaofoundationEn , https://t.me/Qbaofoundation"
+1146,AWARE,https://coinmarketcap.com/currencies/aware/,AWR,1328030.0,"http://www.aware.bi/ , https://www.aware.bi/",https://t.me/AWARECn
+1147,MOAC,https://coinmarketcap.com/currencies/moac/,MOAC,1280900.0,http://moac.io/,https://moac-chain.slack.com/
+1148,Viuly,https://coinmarketcap.com/currencies/viuly/,VIU,1256450.0,"https://viuly.io/ , https://viuly.com/",https://t.me/ViulyOfficial
+1149,OneRoot Network,https://coinmarketcap.com/currencies/oneroot-network/,RNT,1207900.0,https://www.oneroot.io/en,https://t.me/OneRootProject
+1150,SegWit2x,https://coinmarketcap.com/currencies/segwit2x/,B2X,1031520.0,http://b2x-segwit.io/,"https://t.me/Segwit2Xfork , https://t.me/Segwit2_X"
+1151,AICHAIN,https://coinmarketcap.com/currencies/aichain/,AIT,1023270.0,http://www.aichainnews.com/,https://t.me/ait_cn
+1152,Fargocoin,https://coinmarketcap.com/currencies/fargocoin/,FRGC,978550.0,https://fargocoin.org/,
+1153,UG Token,https://coinmarketcap.com/currencies/ug-token/,UGT,923136.0,https://ugchain.org/,
+1154,Filecoin [Futures],https://coinmarketcap.com/currencies/filecoin/,FIL,885802.0,"https://filecoin.io/ , https://protocol.ai",
+1155,BigONE Token,https://coinmarketcap.com/currencies/bigone-token/,BIG,884583.0,"https://big.one/ , https://help.big.one/hc/en-us/articles/115004591733-BIG",
+1156,COMSA [XEM],https://coinmarketcap.com/currencies/comsa-xem/,CMS,835445.0,https://comsa.io/en/,"https://t.me/comsaio , https://t.me/comsajapan"
+1157,POLY AI,https://coinmarketcap.com/currencies/poly-ai/,AI,815369.0,https://polynetwork.org/,
+1158,Safe Trade Coin,https://coinmarketcap.com/currencies/safe-trade-coin/,XSTC,811842.0,http://safetrade.co.in/,
+1159,Cyder,https://coinmarketcap.com/currencies/cyder/,CYDER,795954.0,http://cydercoin.com/,https://t.me/cydercoin
+1160,Hackspace Capital,https://coinmarketcap.com/currencies/hackspace-capital/,HAC,770132.0,https://hackspace.capital/,https://t.me/joinchat/Askr5UMsqSY43VQKFoS-kQ
+1161,United Bitcoin,https://coinmarketcap.com/currencies/united-bitcoin/,UBTC,741618.0,http://ub.com/,
+1162,CFun,https://coinmarketcap.com/currencies/cfun/,CFUN,720910.0,https://www.cfunproject.com/,
+1163,InvestDigital,https://coinmarketcap.com/currencies/investdigital/,IDT,710583.0,https://investdigital.info/,
+1164,Qube,https://coinmarketcap.com/currencies/qube/,QUBE,694016.0,http://www.qube.vip/,
+1165,Infinitecoin,https://coinmarketcap.com/currencies/infinitecoin/,IFC,678380.0,http://www.infiniteco.in,
+1166,Rebellious,https://coinmarketcap.com/currencies/rebellious/,REBL,658928.0,https://www.rebellious.io/,"https://t.me/RebelliousCoin , https://discordapp.com/invite/q4yBxct"
+1167,Measurable Data Token,https://coinmarketcap.com/currencies/measurable-data-token/,MDT,657242.0,https://www.mdt.co/,https://t.me/measurabledata
+1168,Coinlancer,https://coinmarketcap.com/currencies/coinlancer/,CL,585951.0,https://www.coinlancer.io/,https://t.me/Coinlancer
+1169,ATN,https://coinmarketcap.com/currencies/atn/,ATN,575367.0,https://atn.io/,https://t.me/ATN_Blockchain
+1170,Telcoin,https://coinmarketcap.com/currencies/telcoin/,TEL,557521.0,https://www.telco.in/,https://t.me/telcoincommunity
+1171,Bitcoin Atom [Futures],https://coinmarketcap.com/currencies/bitcoin-atom/,BCA,549797.0,https://bitcoinatom.io/,http://t.me/bitcoinatom
+1172,BitDegree,https://coinmarketcap.com/currencies/bitdegree/,BDG,518967.0,https://www.bitdegree.org/,https://t.me/bitdegree
+1173,LLToken,https://coinmarketcap.com/currencies/lltoken/,LLT,516597.0,https://www.lltoken.com/,
+1174,InfChain,https://coinmarketcap.com/currencies/infchain/,INF,506905.0,http://www.infchain.com/index-en.html,
+1175,EtherDelta Token,https://coinmarketcap.com/currencies/etherdelta-token/,EDT,464119.0,"https://crowdsale.etherdelta.com/ , https://etherdelta.com/",
+1176,EA Coin,https://coinmarketcap.com/currencies/ea-coin/,EAG,455961.0,"https://www.eacoin.io/ , https://www.eacapital.org/",
+1177,Mixin,https://coinmarketcap.com/currencies/mixin/,XIN,450775.0,https://mixin.one/,
+1178,HomeBlockCoin,https://coinmarketcap.com/currencies/homeblockcoin/,HBC,369235.0,https://www.homeblockcoin.com/,https://t.me/HomeBlockCoin
+1179,Numus,https://coinmarketcap.com/currencies/numus/,NMS,356564.0,http://numus.cash/,https://discord.gg/8BSQerW
+1180,StrongHands,https://coinmarketcap.com/currencies/stronghands/,SHND,341632.0,http://stronghands.github.io/,"https://t.me/stronghands , https://discord.gg/rts5QPQ"
+1181,TerraNova,https://coinmarketcap.com/currencies/terranova/,TER,340600.0,,
+1182,Jingtum Tech,https://coinmarketcap.com/currencies/jingtum-tech/,SWTC,337706.0,https://www.jingtum.com/,
+1183,ClubCoin,https://coinmarketcap.com/currencies/clubcoin/,CLUB,326840.0,http://clubcoin.co/,
+1184,B3Coin,https://coinmarketcap.com/currencies/b3coin/,B3,302015.0,http://b3coin.io/,https://discordapp.com/invite/ARpuv79
+1185,Vezt,https://coinmarketcap.com/currencies/vezt/,VZT,294723.0,https://vezt.co/,https://t.me/joinchat/F_38d0NlVp_oQfB0S5u1Fg
+1186,DavorCoin,https://coinmarketcap.com/currencies/davorcoin/,DAV,291618.0,https://davor.io/,https://t.me/officialdavorcoin
+1187,Polis,https://coinmarketcap.com/currencies/polis/,POLIS,279941.0,https://polispay.org/,https://discord.gg/gwhHv8U
+1188,BitSerial,https://coinmarketcap.com/currencies/bitserial/,BTE,279375.0,https://bitserial.io/,
+1189,Lightning Bitcoin [Futures],https://coinmarketcap.com/currencies/lightning-bitcoin/,LBTC,228089.0,http://lbtc.io/,https://twitter.com/LightningBTC
+1190,HTML5COIN,https://coinmarketcap.com/currencies/htmlcoin/,HTML5,217130.0,http://www.htmlcoin.com,https://t.me/htmlcoinofficial
+1191,TokenClub,https://coinmarketcap.com/currencies/tokenclub/,TCT,212908.0,http://www.tokenclub.com/,https://t.me/token_club
+1192,BitSoar,https://coinmarketcap.com/currencies/bitsoar/,BSR,194994.0,http://bitsoar.com/,
+1193,Sphre AIR ,https://coinmarketcap.com/currencies/sphre-air/,XID,188871.0,http://www.sphre.co/,http://www.telegram.me/airplatform
+1194,Tokugawa,https://coinmarketcap.com/currencies/tokugawa/,TOK,188132.0,http://www.tokugawacoin.com/,
+1195,Zap,https://coinmarketcap.com/currencies/zap/,ZAP,166426.0,http://www.zap.org/,https://t.me/ZapStore
+1196,Infinity Economics,https://coinmarketcap.com/currencies/infinity-economics/,XIN,155479.0,http://www.infinity-economics.org/,
+1197,GOLD Reward Token,https://coinmarketcap.com/currencies/gold-reward-token/,GRX,155472.0,https://goldreward.io/,https://t.me/joinchat/AAAAAEH3O3kOexOTBEuZFg
+1198,Swisscoin,https://coinmarketcap.com/currencies/swisscoin/,SIC,141535.0,https://swisscoin.eu/,
+1199,Bitcoin God,https://coinmarketcap.com/currencies/bitcoin-god/,GOD,140323.0,https://www.bitcoingod.org/,https://t.me/joinchat/HVP0kBBx-murObE3hpv7HA
+1200,CryptopiaFeeShares,https://coinmarketcap.com/currencies/cryptopiafeeshares/,CEFS,137844.0,,
+1201,DIMCOIN,https://coinmarketcap.com/currencies/dimcoin/,DIM,129841.0,"https://dim.foundation/ , https://www.dimcoin.io/","https://t.me/dimcoinICO , https://t.me/dimcoin"
+1202,Uquid Coin,https://coinmarketcap.com/currencies/uquid-coin/,UQC,123092.0,https://uquidcoin.com/,https://t.me/uquidcoin
+1203,Bankex,https://coinmarketcap.com/currencies/bankex/,BKX,121543.0,https://bankex.com/en/,https://t.me/bankex
+1204,TOKYO,https://coinmarketcap.com/currencies/tokyo/,TOKC,120383.0,,"https://t.me/tokyocoingroup , https://t.me/tokyocoin"
+1205,Bitair,https://coinmarketcap.com/currencies/bitair/,BTCA,119571.0,https://www.bitair.io/,https://bitairicogroupchat.slack.com/
+1206,BOScoin,https://coinmarketcap.com/currencies/boscoin/,BOS,117397.0,https://boscoin.io/,https://slack-boscoin.herokuapp.com/
+1207,WETH,https://coinmarketcap.com/currencies/weth/,WETH,112026.0,https://weth.io/,
+1208,PlusCoin,https://coinmarketcap.com/currencies/pluscoin/,PLC,107162.0,https://pluscoin.io/,"https://t.me/PlusCoinENG , https://join.slack.com/t/pluscointeam/shared_invite/MjM3ODY2MDU1MDc5LTE1MDQ2NzcxOTEtZDQwMzU5NDZkZA"
+1209,Golos Gold,https://coinmarketcap.com/currencies/golos-gold/,GBG,98652.2,https://golos.io/,
+1210,NEO GOLD,https://coinmarketcap.com/currencies/neo-gold/,NEOG,96083.0,http://neo-gold.ulcraft.com/,https://t.me/neogold
+1211,Escroco,https://coinmarketcap.com/currencies/escoro/,ESC,93539.0,https://escroco.co/,
+1212,GET Protocol,https://coinmarketcap.com/currencies/guts-tickets/,GET,92346.8,https://guts.tickets/,https://t.me/getprotocol
+1213,Cloud,https://coinmarketcap.com/currencies/cloud/,CLD,92305.1,"https://cloudwith.me/ , https://token.cloudwith.me/",
+1214,Kzcash,https://coinmarketcap.com/currencies/kzcash/,KZC,91444.8,https://kzcash.kz/,https://t.me/KZCashCommunity
+1215,ZenGold,https://coinmarketcap.com/currencies/zengold/,ZENGOLD,89489.2,http://www.zengold.org/,
+1216,ZSEcoin,https://coinmarketcap.com/currencies/zsecoin/,ZSE,81475.9,https://zsecoin.com/,
+1217,United Traders Token,https://coinmarketcap.com/currencies/uttoken/,UTT,76860.5,https://uttoken.io/,https://t.me/uttokenchannel
+1218,Spectre.ai Dividend Token,https://coinmarketcap.com/currencies/spectre-dividend/,SXDT,76641.8,http://www.spectre.ai/,https://t.me/joinchat/FlBl_UORqQZo-FbiPkHikA
+1219,TIES Network,https://coinmarketcap.com/currencies/ties-network/,TIE,75722.2,https://ties.network/,"https://t.me/tiesnetwork , https://slack.ties.network/"
+1220,BlockCDN,https://coinmarketcap.com/currencies/blockcdn/,BCDN,74612.8,http://www.blockcdn.org/,"https://discord.gg/6NYqvEU , https://t.me/blockcdn"
+1221,MagicCoin,https://coinmarketcap.com/currencies/magiccoin/,MAGE,67113.9,https://magiccoin.io/,
+1222,StrikeBitClub,https://coinmarketcap.com/currencies/strikebitclub/,SBC,65381.6,"https://strikebitclub.com/ , https://sbccoin.io/",
+1223,Ignition,https://coinmarketcap.com/currencies/ignition/,IC,65002.7,https://www.ignitioncoin.org/,https://discordapp.com/invite/rfDSdgQ
+1224,FAPcoin,https://coinmarketcap.com/currencies/fapcoin/,FAP,61629.0,http://fapcoin.io/,https://discord.gg/tfuqMSA
+1225,FidentiaX,https://coinmarketcap.com/currencies/fidentiax/,FDX,60051.2,https://www.fidentiax.com/,https://t.me/fidentiaX
+1226,GameChain System,https://coinmarketcap.com/currencies/gamechain/,GCS,57093.1,https://blockchain.game/,
+1227,Karma,https://coinmarketcap.com/currencies/karma/,KRM,51001.6,https://karma.red/,"https://t.me/karmaprojecten , https://t.me/karmawithgeorge"
+1228,PlexCoin,https://coinmarketcap.com/currencies/plexcoin/,PLX,48603.7,https://www.plexcoin.com/,https://t.me/plex_live
+1229,Cryptopay,https://coinmarketcap.com/currencies/cryptopay/,CPAY,48537.1,"https://cryptopay.me/ , https://ico.cryptopay.me/",https://t.me/cryptopayico
+1230,OP Coin,https://coinmarketcap.com/currencies/op-coin/,OPC,45123.2,http://opcoin.info/,https://discord.gg/b7rWB6n
+1231,SafeCoin,https://coinmarketcap.com/currencies/safecoin/,SFE,44407.7,,
+1232,HODL Bucks,https://coinmarketcap.com/currencies/hodl-bucks/,HDLB,41540.6,http://www.hodlbucks.com/,
+1233,LiteCoin Gold,https://coinmarketcap.com/currencies/litecoin-gold/,LTG,40758.7,http://www.litecoingold.info/,
+1234,VPNCoin,https://coinmarketcap.com/currencies/vpncoin/,VASH,36482.5,http://www.bitnet.cc/,
+1235,Protean,https://coinmarketcap.com/currencies/protean/,PRN,35725.7,http://www.proteania.com/,
+1236,High Gain,https://coinmarketcap.com/currencies/high-gain/,HIGH,31417.0,http://www.highgain.ltd/,
+1237,Antimatter,https://coinmarketcap.com/currencies/antimatter/,ANTX,30296.1,,
+1238,Starbase,https://coinmarketcap.com/currencies/starbase/,STAR,29824.2,https://starbase.co/,https://starbase.rocket.chat/
+1239,Wi Coin,https://coinmarketcap.com/currencies/wi-coin/,WIC,28526.0,https://www.cryptowi.com/,https://t.me/WiCoin
+1240,Suretly,https://coinmarketcap.com/currencies/suretly/,SUR,28379.9,https://www.suretly.com/,
+1241,Leverj,https://coinmarketcap.com/currencies/leverj/,LEV,28281.7,https://www.leverj.io/,https://t.me/joinchat/C-gLzkMqKr1zmoeS-ZQePg
+1242,Pylon Network,https://coinmarketcap.com/currencies/pylon-network/,PYLNT,26079.2,https://pylon-network.org/,https://t.me/pylonnetworkofficialtelegram
+1243,Phantomx,https://coinmarketcap.com/currencies/phantomx/,PNX,24322.3,https://phantomx.co/,https://t.me/joinchat/GuzdQUN9fdpX3fSJ4bqWTQ
+1244,EXRNchain,https://coinmarketcap.com/currencies/exrnchain/,EXRN,24287.0,https://exrnchain.com/,https://t.me/joinchat/G9VCdRBHfrLMp9EpG7kWRQ
+1245,Fazzcoin,https://coinmarketcap.com/currencies/fazzcoin/,FAZZ,22140.8,http://fazzcoin.org/,
+1246,Aces,https://coinmarketcap.com/currencies/aces/,ACES,22106.9,,
+1247,Spectre.ai Utility Token,https://coinmarketcap.com/currencies/spectre-utility/,SXUT,21866.4,http://www.spectre.ai/,https://t.me/joinchat/FlBl_UORqQZo-FbiPkHikA
+1248,XTD Coin,https://coinmarketcap.com/currencies/xtd-coin/,XTD,21728.0,,
+1249,Zilbercoin,https://coinmarketcap.com/currencies/zilbercoin/,ZBC,19332.9,http://zilbercoin.space/,
+1250,MSD,https://coinmarketcap.com/currencies/msd/,MSD,18474.4,https://mymsdspace.com/,https://t.me/MsdCommunity
+1251,GlassCoin,https://coinmarketcap.com/currencies/glasscoin/,GLS,17244.7,https://glasscoin.io/,
+1252,Bitok,https://coinmarketcap.com/currencies/bitok/,BITOK,16762.9,http://bitok.online/,
+1253,EDRCoin,https://coinmarketcap.com/currencies/edrcoin/,EDRC,16536.7,https://edrcoin.com/,
+1254,iQuant,https://coinmarketcap.com/currencies/iquant/,IQT,15826.8,http://www.5iquant.org/,https://t.me/joinchat/Gb_-VkNbQxOWML3GfT9yGA
+1255,Chronologic,https://coinmarketcap.com/currencies/chronologic/,DAY,15729.4,https://chronologic.network/,
+1256,IrishCoin,https://coinmarketcap.com/currencies/irishcoin/,IRL,15232.4,http://irishcoin.org/,
+1257,Nimfamoney,https://coinmarketcap.com/currencies/nimfamoney/,NIMFA,14662.5,https://nimfamoney.io/,http://t.me/nimfamoney
+1258,Storjcoin X,https://coinmarketcap.com/currencies/storjcoin-x/,SJCX,14412.9,http://storj.io,http://slack.storj.io
+1259,Global Jobcoin,https://coinmarketcap.com/currencies/global-jobcoin/,GJC,13971.0,https://www.globaljobcoin.com/,
+1260,eGold,https://coinmarketcap.com/currencies/egold/,EGOLD,11601.2,https://egoldtoken.org/,https://t.me/eGoldToken
+1261,Ethereum Lite,https://coinmarketcap.com/currencies/ethereum-lite/,ELITE,11485.9,http://www.ethereumlite.org/,"https://t.me/EthereumLite , https://ethereumlite.slack.com/join/shared_invite/enQtMjUzMTQ4MTkzNTU3LWQ5YmQ2YTFhYTk4ZThmNzY0OTRiZTcyNjk0ZWRlOGZlZTMwMTg4ZTJiNmM5YTBkN2ZjY2U5NTc4NTEzNGZjNDE"
+1262,SISA,https://coinmarketcap.com/currencies/sisa/,SISA,11383.5,https://sisa.fund/,"https://t.me/teamSISA , https://teamsisa.slack.com/"
+1263,BTCMoon,https://coinmarketcap.com/currencies/btcmoon/,BTCM,11093.0,https://btcmoon.info/,
+1264,International Diamond,https://coinmarketcap.com/currencies/international-diamond/,XID,10783.8,http://xidcoin.com/,
+1265,NumusCash,https://coinmarketcap.com/currencies/numuscash/,NUMUS,9840.94,http://www.numuscash.com/,
+1266,SIGMAcoin,https://coinmarketcap.com/currencies/sigmacoin/,SIGMA,9831.71,http://www.sigmacoin.org/,
+1267,PeepCoin,https://coinmarketcap.com/currencies/peepcoin/,PCN,9796.87,,
+1268,Animecoin,https://coinmarketcap.com/currencies/animecoin/,ANI,9678.91,http://anime-coin.com/,
+1269,BlazerCoin,https://coinmarketcap.com/currencies/blazercoin/,BLAZR,9074.13,http://blazercoin.cf/,
+1270,SHACoin,https://coinmarketcap.com/currencies/shacoin/,SHA,8579.82,"http://www.shacoin2.com/ , http://shacoin.org/",
+1271,Francs,https://coinmarketcap.com/currencies/francs/,FRN,8558.73,http://www.francs.paris/,
+1272,MergeCoin,https://coinmarketcap.com/currencies/mergecoin/,MGC,8207.53,http://www.mergecoin.com/,
+1273,India Coin,https://coinmarketcap.com/currencies/india-coin/,INDIA,7817.51,https://www.indiacoin.club/,
+1274,Regacoin,https://coinmarketcap.com/currencies/regacoin/,REGA,7706.99,https://regaco.in/,
+1275,Vulcano,https://coinmarketcap.com/currencies/vulcano/,VULC,7599.76,https://vulcanocoin.club/,https://discordapp.com/invite/DcF3rjZ
+1276,Granite,https://coinmarketcap.com/currencies/granitecoin/,GRN,7583.63,http://www.granitecoin.com/,
+1277,T-coin,https://coinmarketcap.com/currencies/t-coin/,TCOIN,7432.29,http://www.trcplatform.com/,
+1278,Dashs,https://coinmarketcap.com/currencies/dashs/,DASHS,7377.93,http://dashscrypt.com/,
+1279,RubleBit,https://coinmarketcap.com/currencies/rublebit/,RUBIT,7320.54,http://rublebit.com/,
+1280,UniversalRoyalCoin,https://coinmarketcap.com/currencies/universalroyalcoin/,UNRC,7083.74,https://universalroyalcoin.com/,
+1281,PinkDog,https://coinmarketcap.com/currencies/pinkdog/,PDG,7018.33,http://www.pinkdog.party/,
+1282,Bitcoin Silver,https://coinmarketcap.com/currencies/bitcoin-silver/,BTCS,6917.61,https://bitcoinsilver.io/,https://t.me/bitcoinsilverbtcs
+1283,GAY Money,https://coinmarketcap.com/currencies/gaycoin/,GAY,6818.96,http://www.gaycoin.online/,
+1284,Peacecoin,https://coinmarketcap.com/currencies/peacecoin/,PEC,6459.78,,
+1285,UGAIN,https://coinmarketcap.com/currencies/ugain/,GAIN,6410.51,,
+1286,Minex,https://coinmarketcap.com/currencies/minex/,MINEX,6220.42,http://minexteam.com/,
+1287,Wowcoin,https://coinmarketcap.com/currencies/wowcoin/,WOW,6203.39,,
+1288,EncryptoTel [ETH],https://coinmarketcap.com/currencies/encryptotel-eth/,ETT,5726.46,,
+1289,Golfcoin,https://coinmarketcap.com/currencies/golfcoin/,GOLF,5669.65,,
+1290,Fonziecoin,https://coinmarketcap.com/currencies/fonziecoin/,FONZ,4855.84,,
+1291,TurboCoin,https://coinmarketcap.com/currencies/turbocoin/,TURBO,4762.05,http://turboproject.org/,
+1292,TechShares,https://coinmarketcap.com/currencies/techshares/,THS,4719.94,http://www.techsharescommunity.com/,
+1293,DynamicCoin,https://coinmarketcap.com/currencies/dynamiccoin/,DMC,4367.51,http://dynamiccoin.org/,
+1294,Sakuracoin,https://coinmarketcap.com/currencies/sakuracoin/,SKR,4188.13,http://sakuracoin.com/,
+1295,Matryx,https://coinmarketcap.com/currencies/matryx/,MTX,4131.21,https://matryx.ai/,https://t.me/matryxai
+1296,AlpaCoin,https://coinmarketcap.com/currencies/alpacoin/,APC,4068.56,http://alpacoin.com/,
+1297,Content and AD Network,https://coinmarketcap.com/currencies/content-and-ad-network/,CAN,3944.91,http://mobipromo.io/cn/,
+1298,MarxCoin,https://coinmarketcap.com/currencies/marxcoin/,MARX,3826.21,https://www.marxcoin.com/,
+1299,Macro,https://coinmarketcap.com/currencies/macro1/,MCR,3710.94,http://whatismacro.com/,
+1300,BestChain,https://coinmarketcap.com/currencies/bestchain/,BEST,3595.16,http://bestchain.hol.es/,
+1301,Tattoocoin (Limited Edition),https://coinmarketcap.com/currencies/tattoocoin-limited/,TLE,3287.38,http://tattoocoin.net/,
+1302,iBTC,https://coinmarketcap.com/currencies/ibtc/,IBTC,3258.1,http://ibtctoken.com/,https://t.me/joinchat/FNH590OePKXIG4kci-Z--w
+1303,Everus,https://coinmarketcap.com/currencies/everus/,EVR,3189.97,https://everus.org/,
+1304,UNCoin,https://coinmarketcap.com/currencies/uncoin/,UNC,3158.38,http://uncoin.org/,
+1305,TodayCoin,https://coinmarketcap.com/currencies/todaycoin/,TODAY,3093.45,,
+1306,Sharkcoin,https://coinmarketcap.com/currencies/sharkcoin/,SAK,3022.86,http://www.sharkcoin.org,
+1307,LandCoin,https://coinmarketcap.com/currencies/landcoin/,LDCN,2980.83,http://landcoin.co/,
+1308,Bitcedi,https://coinmarketcap.com/currencies/bitcedi/,BXC,2870.51,http://bitcedi.online/,
+1309,Magnetcoin,https://coinmarketcap.com/currencies/magnetcoin/,MAGN,2840.48,https://magnetcoin.net/,
+1310,UR,https://coinmarketcap.com/currencies/ur/,UR,2810.48,https://ur.technology/,
+1311,Musiconomi,https://coinmarketcap.com/currencies/musiconomi/,MCI,2796.27,https://musiconomi.com/,https://musiconomi.slack.com
+1312,Pirate Blocks,https://coinmarketcap.com/currencies/pirate-blocks/,SKULL,2656.91,,
+1313,Cash Poker Pro,https://coinmarketcap.com/currencies/cash-poker-pro/,CASH,2629.51,https://cashpokerpro.io/,https://t.me/cashpokerpro
+1314,Bitcoin2x,https://coinmarketcap.com/currencies/bitcoin2x/,BTC2X,2614.23,http://bitcoin-2x.org/,https://t.me/joinchat/GR59BhBzbnh1GHbGAU6nqQ
+1315,Akuya Coin,https://coinmarketcap.com/currencies/akuya-coin/,AKY,2288.18,http://akuyacoin.co/,
+1316,Donationcoin,https://coinmarketcap.com/currencies/donationcoin/,DON,2278.15,http://donationcoin.org/,
+1317,CORION,https://coinmarketcap.com/currencies/corion/,COR,2172.13,https://www.corion.io/,
+1318,FlappyCoin,https://coinmarketcap.com/currencies/flappycoin/,FLAP,2160.38,https://flappycoins.wordpress.com/,
+1319,Rcoin,https://coinmarketcap.com/currencies/rcoin/,RCN,2153.24,http://www.rcoineu.com/,
+1320,Halloween Coin,https://coinmarketcap.com/currencies/halloween-coin/,HALLO,1903.07,,
+1321,ANRYZE,https://coinmarketcap.com/currencies/anryze/,RYZ,1841.2,https://anryze.com/,"https://telegram.me/anryze_tokensale , https://t.me/anryze"
+1322,Elacoin,https://coinmarketcap.com/currencies/elacoin/,ELC,1770.29,http://elc.22web.org/,
+1323,Cubits,https://coinmarketcap.com/currencies/cubits/,QBT,1667.83,http://qbt.scificrypto.info/,
+1324,Happy Creator Coin,https://coinmarketcap.com/currencies/happy-creator-coin/,HCC,1645.3,http://www.hccunited.net/,
+1325,EventChain,https://coinmarketcap.com/currencies/eventchain/,EVC,1642.86,https://eventchain.io/,https://www.t.me/EventChain
+1326,Dutch Coin,https://coinmarketcap.com/currencies/dutch-coin/,DUTCH,1393.62,https://www.dutchcoin.net/,
+1327,WeAreSatoshi,https://coinmarketcap.com/currencies/wearesatoshi/,WSX,1321.54,http://www.wsx.co.in,
+1328,Primulon,https://coinmarketcap.com/currencies/primulon/,PRIMU,1303.67,https://www.primulon.com/,
+1329,Global Business Revolution,https://coinmarketcap.com/currencies/global-business-revolution/,GBRC,1268.16,https://gbrcoin.com/,
+1330,LePen,https://coinmarketcap.com/currencies/lepen/,LEPEN,1173.58,,
+1331,OX Fina,https://coinmarketcap.com/currencies/ox-fina/,OX,1152.55,http://oxfina.com,
+1332,DimonCoin,https://coinmarketcap.com/currencies/dimoncoin/,FUDD,1130.3,https://dimoncoin.org/,"https://t.me/joinchat/FMgt2kLW5QzgLI7Ub9c0kQ , https://t.me/DimonCoinFUDD"
+1333,eBIT,https://coinmarketcap.com/currencies/ebit/,EBIT,1122.71,https://www.ebit.trade/,https://t.me/joinchat/E6_NOUQsu1IybZhT5vI85g
+1334,Alphabit,https://coinmarketcap.com/currencies/alphabitcoinfund/,ABC,1075.4,http://www.alphabitcoinfund.com/,
+1335,Mavro,https://coinmarketcap.com/currencies/mavro/,MAVRO,1071.74,http://mavro.org/,
+1336,Leek Coin,https://coinmarketcap.com/currencies/leekico/,LEEK,1043.37,https://www.leekico.com,
+1337,Avoncoin,https://coinmarketcap.com/currencies/avoncoin/,ACN,1040.48,http://avoncoin.org/,
+1338,The Vegan Initiative,https://coinmarketcap.com/currencies/the-vegan-initiative/,XVE,1005.25,,
+1339,Bastonet,https://coinmarketcap.com/currencies/bastonet/,BSN,978.628,http://www.bastonet.com/,
+1340,Sand Coin,https://coinmarketcap.com/currencies/sand-coin/,SND,961.763,https://en.sandcoin.io/,
+1341,Soma,https://coinmarketcap.com/currencies/soma/,SCT,961.742,https://soma.co/,https://t.me/Somacommunity
+1342,DeusCoin,https://coinmarketcap.com/currencies/deuscoin/,DEUS,934.214,http://deuscoin.org/,
+1343,MMXVI,https://coinmarketcap.com/currencies/mmxvi/,MMXVI,894.285,,
+1344,Triaconta,https://coinmarketcap.com/currencies/triaconta/,TRIA,888.388,https://triaconta.com/,https://t.me/joinchat/GJvc6AyQQtKKkjzjq-cbZw
+1345,Natcoin,https://coinmarketcap.com/currencies/natcoin/,NTC,881.242,https://www.natcoin.io/,
+1346,First Bitcoin,https://coinmarketcap.com/currencies/first-bitcoin/,BIT,809.708,http://bitcoincapitalcorp.com/,
+1347,Bitbase,https://coinmarketcap.com/currencies/bitbase/,BTBc,798.145,https://bitbase.io,https://t.me/bitbasecoin
+1348,UAHPay,https://coinmarketcap.com/currencies/uahpay/,UAHPAY,780.396,https://www.uahpay.com/,
+1349,Facecoin,https://coinmarketcap.com/currencies/facecoin/,FC,779.377,http://facecoin.tech/,
+1350,netBit,https://coinmarketcap.com/currencies/netbit/,NBIT,749.586,,
+1351,Wink,https://coinmarketcap.com/currencies/wink/,WINK,687.56,,
+1352,eLTC,https://coinmarketcap.com/currencies/eltc/,ELTC2,595.995,http://www.eltc.io/,
+1353,Tellurion,https://coinmarketcap.com/currencies/tellurion/,TELL,529.203,http://www.tellurion.info/,
+1354,PayPeer,https://coinmarketcap.com/currencies/paypeer/,PAYP,487.272,http://www.paypeer.pw/,
+1355,CBD Crystals,https://coinmarketcap.com/currencies/cbd-crystals/,CBD,482.341,,
+1356,Hyper,https://coinmarketcap.com/currencies/hyper/,HYPER,476.751,http://hypercrypto.com/,
+1357,RoyalCoin,https://coinmarketcap.com/currencies/royalcoin/,ROYAL,466.599,,
+1358,XDE II,https://coinmarketcap.com/currencies/xde-ii/,XDE2,463.14,,
+1359,Topaz Coin,https://coinmarketcap.com/currencies/topaz/,TOPAZ,450.044,,
+1360,eUSD,https://coinmarketcap.com/currencies/eusd/,EUSD,411.593,http://www.eusd.io/,
+1361,Aseancoin,https://coinmarketcap.com/currencies/aseancoin/,ASN,406.309,https://asncoin.com,
+1362,Birds,https://coinmarketcap.com/currencies/birds/,BIRDS,398.33,https://www.birdscoin.com/,
+1363,RHFCoin,https://coinmarketcap.com/currencies/rhfcoin/,RHFC,386.585,http://rhfcoin.com/,
+1364,BetaCoin,https://coinmarketcap.com/currencies/betacoin/,BET,362.348,https://betacoin.info/,
+1365,CyberCoin,https://coinmarketcap.com/currencies/cybercoin/,CC,362.213,http://www.cybercoin.space/,
+1366,Runners,https://coinmarketcap.com/currencies/runners/,RUNNERS,360.476,https://runners.cash/,
+1367,LinkedCoin,https://coinmarketcap.com/currencies/linkedcoin/,LKC,342.421,https://www.linkedcoin.com/,
+1368,NamoCoin,https://coinmarketcap.com/currencies/namocoin/,NAMO,339.454,http://namocoin.co.in/,
+1369,Blockchain Index,https://coinmarketcap.com/currencies/blockchain-index/,BLX,299.525,https://www.iconomi.net/dashboard/#/INDEX,
+1370,Yescoin,https://coinmarketcap.com/currencies/yescoin/,YES,294.212,http://yescoin.us/,
+1371,WA Space,https://coinmarketcap.com/currencies/wa-space/,WA,268.006,http://www.wa3529.com/,
+1372,STEX,https://coinmarketcap.com/currencies/stex/,STEX,262.752,https://stocks.exchange/ico,
+1373,RichCoin,https://coinmarketcap.com/currencies/richcoin/,RICHX,252.983,,
+1374,GoldMaxCoin,https://coinmarketcap.com/currencies/goldmaxcoin/,GMX,248.817,http://gmxcoin.org/,
+1375,Rupaya [OLD],https://coinmarketcap.com/currencies/rupaya-old/,RUPX,237.145,http://www.rupayacoin.org/,
+1376,Quotient,https://coinmarketcap.com/currencies/quotient/,XQN,231.551,,
+1377,TheCreed,https://coinmarketcap.com/currencies/thecreed/,TCR,229.315,http://thecreed.tech/,
+1378,Cheapcoin,https://coinmarketcap.com/currencies/cheapcoin/,CHEAP,219.007,,
+1379,Huncoin,https://coinmarketcap.com/currencies/huncoin/,HNC,216.389,http://huncoin.org/,
+1380,Cashme,https://coinmarketcap.com/currencies/cashme/,CME,203.88,,
+1381,President Trump,https://coinmarketcap.com/currencies/president-trump/,PRES,200.293,http://trump.2016coin.org/,
+1382,Karmacoin,https://coinmarketcap.com/currencies/karmacoin/,KARMA,165.375,http://www.givekarma.net/,
+1383,BITFID,https://coinmarketcap.com/currencies/bitfid/,FID,158.394,https://www.bitfid.com/,
+1384,PokeCoin,https://coinmarketcap.com/currencies/pokecoin/,POKE,152.97,,
+1385,Pabyosi Coin (Special),https://coinmarketcap.com/currencies/pabyosi-coin-special/,PCS,152.704,http://pcsblockchain.com/,
+1386,10M Token,https://coinmarketcap.com/currencies/10mtoken/,10MT,151.8,https://www.10mtoken.com/,
+1387,DarkLisk,https://coinmarketcap.com/currencies/darklisk/,DISK,147.707,,
+1388,EggCoin,https://coinmarketcap.com/currencies/eggcoin/,EGG,133.608,,
+1389,Infinity Pay,https://coinmarketcap.com/currencies/infinity-pay/,IPY,127.349,https://infinitypay.org/,https://t.me/joinchat/HESRhECjhPaOQ8AC0nlgVg
+1390,Moneta,https://coinmarketcap.com/currencies/moneta2/,MONETA,108.668,http://moneta.io/,
+1391,Axiom,https://coinmarketcap.com/currencies/axiom/,AXIOM,104.995,http://axiomcrypto.org/,
+1392,Bubble,https://coinmarketcap.com/currencies/bubble/,BUB,94.684,,
+1393,Digital Bullion Gold,https://coinmarketcap.com/currencies/digital-bullion-gold/,DBG,91.7759,http://digitalbulliongold.com/,
+1394,GameLeagueCoin,https://coinmarketcap.com/currencies/gameleaguecoin/,GML,91.6507,https://bitcointalk.org/index.php?topic=595779.0,
+1395,Cycling Coin,https://coinmarketcap.com/currencies/cycling-coin/,CYC,88.0812,,
+1396,TeraCoin,https://coinmarketcap.com/currencies/teracoin/,TERA,82.2105,http://tera.hosuco.co.kr/,
+1397,PeopleCoin,https://coinmarketcap.com/currencies/peoplecoin/,MEN,80.2388,https://www.peoplecoin.pw/,
+1398,MoneyCoin,https://coinmarketcap.com/currencies/moneycoin/,MONEY,78.9096,http://moneycoin.pw/,
+1399,Qora,https://coinmarketcap.com/currencies/qora/,QORA,75.8408,http://qora.org,
+1400,BitAlphaCoin,https://coinmarketcap.com/currencies/bitalphacoin/,BAC,67.1251,http://bitalphacoin.com/,
+1401,ShellCoin,https://coinmarketcap.com/currencies/shellcoin/,SHELL,64.7451,http://www.shellcoin.org,
+1402,FireFlyCoin,https://coinmarketcap.com/currencies/fireflycoin/,FFC,59.1314,,
+1403,KashhCoin,https://coinmarketcap.com/currencies/kashhcoin/,KASHH,56.1522,http://www.kashhcoin.com/,
+1404,SportsCoin,https://coinmarketcap.com/currencies/sportscoin/,SPORT,53.4344,https://www.thesportscoin.com/,
+1405,Swapcoin,https://coinmarketcap.com/currencies/swapcoin/,SWP,50.9397,https://swapity.io/,
+1406,LAthaan,https://coinmarketcap.com/currencies/lathaan/,LTH,47.3195,https://lathaan.com/,
+1407,X2,https://coinmarketcap.com/currencies/x2/,X2,43.5332,,
+1408,Lazaruscoin,https://coinmarketcap.com/currencies/lazaruscoin/,LAZ,38.5033,http://lazaruscoin.com/,
+1409,TrickyCoin,https://coinmarketcap.com/currencies/trickycoin/,TRICK,28.9818,,
+1410,DeltaCredits,https://coinmarketcap.com/currencies/deltacredits/,DCRE,28.9772,,
+1411,TeamUp,https://coinmarketcap.com/currencies/teamup/,TEAM,26.0531,,
+1412,Opescoin,https://coinmarketcap.com/currencies/opescoin/,OPES,24.6764,,
+1413,Faceblock,https://coinmarketcap.com/currencies/faceblock/,FBL,20.3759,http://faceblock.io/,https://t.me/faceblock
+1414,Dubstep,https://coinmarketcap.com/currencies/dubstep/,DUB,19.6818,,
+1415,Omicron,https://coinmarketcap.com/currencies/omicron/,OMC,12.2048,http://delta.investments/,
+1416,FrankyWillCoin,https://coinmarketcap.com/currencies/frankywillcoin/,FRWC,8.50463,,
+1417,AvatarCoin,https://coinmarketcap.com/currencies/avatarcoin/,AV,8.45264,,
+1418,Operand,https://coinmarketcap.com/currencies/operand/,OP,7.68831,http://www.operand.money/,
+1419,PrismChain,https://coinmarketcap.com/currencies/prismchain/,PRM,3.34013,,
+1420,InvisibleCoin,https://coinmarketcap.com/currencies/invisiblecoin/,IVZ,2.97461,,
+1421,FutCoin,https://coinmarketcap.com/currencies/futcoin/,FUTC,2.90146,http://fut-coin.com/,
+1422,Psilocybin,https://coinmarketcap.com/currencies/psilocybin/,PSY,2.33809,,
+1423,Hyper TV,https://coinmarketcap.com/currencies/hyper-tv/,HYTV,2.03759,https://www.hypertvtoken.info/,https://t.me/HYPERTVOFF
+1424,SnakeEyes,https://coinmarketcap.com/currencies/snakeeyes/,SNAKE,0.392738,,
+1425,TopCoin,https://coinmarketcap.com/currencies/topcoin/,TOP,,http://topcoin.us/,
+1426,Voyacoin,https://coinmarketcap.com/currencies/voyacoin/,VOYA,,,
+1427,Xaucoin,https://coinmarketcap.com/currencies/xaucoin/,XAU,,,
+1428,TeslaCoilCoin,https://coinmarketcap.com/currencies/teslacoilcoin/,TESLA,,http://teslacoilcoin.org/,
+1429,President Johnson,https://coinmarketcap.com/currencies/president-johnson/,GARY,,http://johnson.2016coin.org/,
+1430,MobileCash,https://coinmarketcap.com/currencies/mobilecash/,MBL,,http://www.mbl.cash/,
+1431,UtaCoin,https://coinmarketcap.com/currencies/utacoin/,UTA,,http://www.goodtime.life/,
+1432,Internet of Things,https://coinmarketcap.com/currencies/internet-of-things/,XOT,,http://iotcoin.io/,
+1433,GoldUnionCoin,https://coinmarketcap.com/currencies/goldunioncoin/,GUC,,http://www.goldunioncoin.org/,
+1434,Aidos Kuneen,https://coinmarketcap.com/currencies/aidos-kuneen/,ADK,,http://aidoskuneen.com/,https://t.me/aidos_kuneen
+1435,Compcoin,https://coinmarketcap.com/currencies/compcoin/,CMP,,https://compcoin.com/,
+1436,First Bitcoin Capital,https://coinmarketcap.com/currencies/first-bitcoin-capital/,BITCF,,http://bitcoincapitalcorp.com/,
+1437,WINCOIN,https://coinmarketcap.com/currencies/win-coin/,WC,,https://wincoin.co/,https://wincoinofficial.slack.com/
+1438,BT1 [CST],https://coinmarketcap.com/currencies/bt1-cst/,BT1,,https://www.bitfinex.com/legal/cst/segwit2x,
+1439,BT2 [CST],https://coinmarketcap.com/currencies/bt2-cst/,BT2,,https://www.bitfinex.com/legal/cst/segwit2x,
+1440,XYLO,https://coinmarketcap.com/currencies/xylo/,XYLO,,"http://xylo.online/ , https://xylo.tech/",https://discord.gg/NRM9yDA
+1441,Santa Coin,https://coinmarketcap.com/currencies/santa-coin/,STC,,https://santacoin.co/,
+1442,Farstcoin,https://coinmarketcap.com/currencies/farstcoin/,FRCT,,https://farstcoin.co/,
+1443,Madcoin,https://coinmarketcap.com/currencies/madcoin/,MDC,,https://madcoin.life/,
+1444,ENTCash,https://coinmarketcap.com/currencies/entcash/,ENT,,http://entcash.com/,"http://entcash.com/entcommunity.slack.com , https://beechat.io/join?g=7a68a2e9a57542f7973a08e03cb2284b&lang=zh"
+1445,KemCredit,https://coinmarketcap.com/currencies/kemcredit/,KMC,,https://kemfe.org/,https://t.me/kemcredit
+1446,BatCoin,https://coinmarketcap.com/currencies/batcoin/,BAT,,,
+1447,RabbitCoin,https://coinmarketcap.com/currencies/rabbitcoin/,RBBT,,http://rabbitco.in,
+1448,OCOW,https://coinmarketcap.com/currencies/ocow/,OCOW,,https://ocow.info/,
+1449,9COIN,https://coinmarketcap.com/currencies/9coin/,9COIN,,http://live9coin.net/,
+1450,Royalties,https://coinmarketcap.com/currencies/royalties/,XRY,,https://xry.io/,

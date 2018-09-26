@@ -1,0 +1,13 @@
+rank,name,link,symbol,volume,website,chat
+1,Bitcoin,https://coinmarketcap.com/currencies/bitcoin/,BTC,12242600000.0,"https://bitcoin.org/ , https://www.bitcoin.com/",
+2,Ethereum,https://coinmarketcap.com/currencies/ethereum/,ETH,5386250000.0,https://www.ethereum.org/,https://gitter.im/orgs/ethereum/rooms
+3,Ripple,https://coinmarketcap.com/currencies/ripple/,XRP,3464200000.0,https://ripple.com/,"https://t.me/Ripple , https://discord.gg/N4x7kPb"
+4,Bitcoin Cash,https://coinmarketcap.com/currencies/bitcoin-cash/,BCH,1130850000.0,https://www.bitcoincash.org/,
+5,Cardano,https://coinmarketcap.com/currencies/cardano/,ADA,322865000.0,https://www.cardanohub.org/,https://chat.cardanohub.org/
+6,Litecoin,https://coinmarketcap.com/currencies/litecoin/,LTC,711144000.0,"https://litecoin.com , https://litecoin.org/",https://telegram.me/litecoin
+7,NEM,https://coinmarketcap.com/currencies/nem/,XEM,65719900.0,http://nem.io,https://t.me/nemred
+8,Stellar,https://coinmarketcap.com/currencies/stellar/,XLM,384983000.0,https://www.stellar.org,http://slack.stellar.org/
+9,IOTA,https://coinmarketcap.com/currencies/iota/,MIOTA,133548000.0,https://iota.org/,https://slack.iota.org/
+10,EOS,https://coinmarketcap.com/currencies/eos/,EOS,2426990000.0,https://eos.io/,https://t.me/joinchat/AAAAAEQbOeucnaMWN0A9dQ
+11,Dash,https://coinmarketcap.com/currencies/dash/,DASH,139367000.0,https://www.dash.org/,https://discord.gg/9z8zX5j
+12,NEO,https://coinmarketcap.com/currencies/neo/,NEO,235235000.0,https://neo.org/,
